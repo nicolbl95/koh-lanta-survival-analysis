@@ -14,8 +14,8 @@ Le projet combine :
 
 ## Rapports
 
-- [Lire le rapport complet en français](report/koh_lanta_rapport_fr.html)
-- [Read the full report in English](report/koh_lanta_report_en.html)
+- [Lire le rapport complet en français](https://nicolbl95.github.io/koh-lanta-survival-analysis/report/koh_lanta_rapport_fr.html)
+- [Read the full report in English](https://nicolbl95.github.io/koh-lanta-survival-analysis/report/koh_lanta_report_en.html)
 
 ---
 
