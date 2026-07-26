@@ -1,0 +1,29 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Anciennes versions des rapports
+koh_lanta_rapport_final_v*.html
+koh_lanta_final_report_inputs_v*.zip
+koh_lanta_report_revision_v*.zip
+
+# Sauvegardes et archives
+dataenrichmentarchive/
+*_backup_*
+*.backup*
+nul
+
+# Fichiers de travail temporaires à la racine
+_final_report.py
+_fix_anomalies.py
+_generate_batch_002.py
+_seasons_check.txt
+_verify_batch_001.py
+_verify_output.py

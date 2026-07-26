@@ -1,0 +1,15 @@
+{
+  "candidate_count": 341,
+  "thailand_frozen_count": 21,
+  "new_candidates_processed": 320,
+  "age_count_before": 317,
+  "age_count_after": 317,
+  "gender_count_before": 65,
+  "gender_count_after": 86,
+  "physical_score_count_before": 21,
+  "physical_score_count_after": 151,
+  "physical_score_1_count": 17,
+  "physical_score_0_count": 134,
+  "physical_score_null_count": 190,
+  "external_research_queue_count": 190
+}

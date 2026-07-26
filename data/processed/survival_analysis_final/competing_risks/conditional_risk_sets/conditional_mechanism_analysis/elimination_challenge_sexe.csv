@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+ELIMINATION_CHALLENGE,Épreuve éliminatoire / mort subite,RISK_SET_APPROXIMATE,Sexe,Femme,79,9,0.11392405063291139,0.06110510202849083,0.20254987324963025
+ELIMINATION_CHALLENGE,Épreuve éliminatoire / mort subite,RISK_SET_APPROXIMATE,Sexe,Homme,78,7,0.08974358974358974,0.04415244718641105,0.1738491559103026

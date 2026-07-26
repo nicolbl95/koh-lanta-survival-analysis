@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+VOTE_CONSEIL,Conseil,RISK_SET_ROBUST,Sexe,Femme,1159,114,0.09836065573770492,0.08251935894242865,0.11685568921546322
+VOTE_CONSEIL,Conseil,RISK_SET_ROBUST,Sexe,Homme,1277,91,0.07126076742364917,0.05839910384245061,0.0866942472791869

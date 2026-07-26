@@ -1,0 +1,363 @@
+# Analyse de survie dans Koh-Lanta
+
+Projet de portfolio en **LLM Engineering, Data Engineering et Data Science** consacré à l’analyse de la progression de **340 candidats issus de 17 saisons de Koh-Lanta**.
+
+Le projet combine :
+
+- scraping de données web ;
+- nettoyage et normalisation ;
+- enrichissement assisté par LLM ;
+- validation humaine ;
+- contrôles qualité automatisés ;
+- analyse statistique ;
+- génération de rapports HTML en français et en anglais.
+
+## Rapports
+
+- [Lire le rapport complet en français](report/koh_lanta_rapport_fr.html)
+- [Read the full report in English](report/koh_lanta_report_en.html)
+
+---
+
+## Présentation de Koh-Lanta
+
+Koh-Lanta est une émission française d’aventure et de compétition diffusée depuis 2001. Des candidats vivent pendant plusieurs semaines dans des conditions difficiles, participent à des épreuves et cherchent à éviter différents mécanismes d’élimination.
+
+Le jeu combine :
+
+- capacités physiques ;
+- endurance ;
+- adaptation ;
+- stratégie ;
+- alliances ;
+- relations sociales.
+
+Les candidats peuvent être éliminés par vote, lors d’une épreuve, pour raison médicale ou pendant les différentes étapes finales.
+
+---
+
+## Pourquoi ce projet ?
+
+Koh-Lanta constitue un cas d’étude intéressant pour analyser un parcours dans lequel plusieurs événements peuvent interrompre la progression d’un individu.
+
+La question principale du projet est la suivante :
+
+> Dans quelle mesure l’âge, le sexe et le profil physique sont-ils associés au parcours d’un candidat dans Koh-Lanta, depuis les premières éliminations jusqu’aux étapes finales et à la victoire ?
+
+La structure du problème ressemble à plusieurs cas d’usage professionnels :
+
+- churn client ;
+- départ de salariés ;
+- parcours médical ;
+- risque de crédit ;
+- funnel de conversion ;
+- analyse du cycle de vie utilisateur.
+
+Un candidat peut rester dans le jeu, être éliminé par vote, quitter pour raison médicale, perdre une épreuve ou atteindre la victoire. Cette structure est proche d’un problème de survie avec plusieurs événements concurrents.
+
+---
+
+## Données analysées
+
+L’analyse finale comprend :
+
+- **340 candidats**
+- **17 saisons**
+- **20 vainqueurs ou co-vainqueurs**
+- **68 profils physiques validés manuellement**
+
+Trois variables principales sont étudiées :
+
+- l’âge ;
+- le sexe ;
+- le profil physique.
+
+Les candidats sont répartis dans quatre tranches d’âge :
+
+- 18–25 ans ;
+- 26–33 ans ;
+- 34–41 ans ;
+- 42 ans et plus.
+
+La variable `physical_score` est binaire :
+
+- `0` : profil non physique ;
+- `1` : profil physique.
+
+---
+
+## Pourquoi le profil physique a-t-il été validé manuellement ?
+
+Une première tentative d’automatisation a essayé d’estimer le profil physique à partir :
+
+- des professions ;
+- des biographies ;
+- des sports pratiqués ;
+- des descriptions disponibles sur les candidats.
+
+Cependant, ces informations ne correspondaient pas toujours à la réalité observable.
+
+Par exemple :
+
+- une profession physique ne signifie pas nécessairement que le candidat possède un profil sportif ;
+- un candidat très sportif peut avoir une profession sans rapport avec le sport ;
+- certaines biographies sont incomplètes ;
+- les informations disponibles varient fortement selon les saisons.
+
+La classification a donc été revue manuellement, candidat par candidat.
+
+Cette démarche constitue une approche **human-in-the-loop** : l’automatisation accélère l’extraction, mais une validation humaine reste nécessaire pour corriger les résultats peu fiables.
+
+---
+
+## Utilisation des LLM
+
+Les LLM ont été utilisés pour assister plusieurs étapes du projet :
+
+- extraction d’informations structurées à partir de textes ;
+- classification de descriptions de sortie ;
+- enrichissement des profils candidats ;
+- détection d’incohérences ;
+- génération de justifications ;
+- soutien à la recherche documentaire.
+
+Les résultats importants n’ont pas été acceptés automatiquement.
+
+Le processus suivi était :
+
+1. collecte et normalisation des données ;
+2. extraction ou classification assistée par LLM ;
+3. revue des résultats ambigus ;
+4. corrections manuelles ;
+5. contrôles automatisés ;
+6. génération d’un dataset final versionné.
+
+L’objectif n’était donc pas d’utiliser un LLM comme source de vérité, mais comme composant d’un pipeline contrôlé.
+
+---
+
+## Pipeline du projet
+
+```text
+Sources web
+    ↓
+Scraping
+    ↓
+Données brutes
+    ↓
+Nettoyage et normalisation
+    ↓
+Enrichissement assisté par LLM
+    ↓
+Validation humaine
+    ↓
+Audits et tests automatisés
+    ↓
+Modélisation statistique
+    ↓
+Rapports HTML en français et en anglais
+```
+
+
+---
+
+## Contrôle qualité
+
+Le projet comprend plusieurs contrôles destinés à vérifier la cohérence des données avant la modélisation :
+
+- unicité des clés candidat-saison ;
+- détection des valeurs manquantes ;
+- cohérence des causes de sortie ;
+- vérification de l’ordre des événements ;
+- gestion des retours dans le jeu ;
+- identification correcte des vainqueurs et co-vainqueurs ;
+- contrôle du nombre de candidats par saison ;
+- journalisation des corrections manuelles.
+
+Ces vérifications permettent de limiter les erreurs introduites lors du scraping, de la normalisation ou de l’enrichissement assisté par LLM.
+
+---
+
+## Modélisation statistique
+
+L’analyse utilise notamment :
+
+- des probabilités brutes ;
+- des probabilités ajustées ;
+- des régressions logistiques ;
+- des modèles de survie ;
+- des probabilités conditionnelles d’élimination par phase ;
+- un contrôle des facteurs confondants ;
+- des p-values ;
+- une interprétation explicite de l’incertitude statistique.
+
+Les modèles ajustés contrôlent principalement :
+
+- l’âge ;
+- le sexe ;
+- le profil physique ;
+- la saison.
+
+L’objectif est de distinguer les écarts directement observés des différences qui persistent après prise en compte des autres variables.
+
+---
+
+## Types de sortie étudiés
+
+Le dataset distingue plusieurs mécanismes de sortie :
+
+- Conseil ;
+- blessure ou sortie médicale ;
+- épreuve éliminatoire ;
+- abandon volontaire ;
+- ambassadeurs ;
+- orientation ;
+- poteaux ;
+- défaite au jury final ;
+- victoire ou co-victoire.
+
+Cette distinction permet d’étudier non seulement le moment de la sortie, mais aussi son mécanisme.
+
+---
+
+## Principaux résultats
+
+### Profil physique
+
+Les candidats classés comme physiques présentent généralement :
+
+- une probabilité d’élimination plus faible au début de l’aventure ;
+- une meilleure progression dans plusieurs phases ;
+- une probabilité ajustée de victoire plus élevée.
+
+Cette variable reste toutefois partiellement subjective et doit être interprétée avec davantage de prudence que l’âge ou le sexe.
+
+### Âge
+
+Les tranches intermédiaires, particulièrement les 26–33 ans et les 34–41 ans, obtiennent globalement de meilleurs résultats que les 18–25 ans et les 42 ans et plus.
+
+L’effet de l’âge varie selon la phase :
+
+- les plus jeunes et les plus âgés sont davantage exposés au début ;
+- les groupes intermédiaires deviennent plus vulnérables pendant certaines phases individuelles ;
+- les résultats des étapes finales diffèrent fortement selon la tranche d’âge.
+
+### Sexe
+
+Les différences selon le sexe sont moins régulières.
+
+Les femmes paraissent légèrement plus exposées pendant certaines phases initiales, tandis que les hommes présentent une probabilité d’élimination plus élevée pendant certaines phases ultérieures.
+
+Dans l’échantillon étudié, les femmes obtiennent également de meilleurs résultats aux poteaux.
+
+---
+
+## Prudence statistique
+
+Les résultats doivent être considérés comme exploratoires.
+
+Principales limites :
+
+- seulement 17 saisons sont analysées ;
+- plusieurs écarts observés ne sont pas statistiquement significatifs ;
+- les étapes finales concernent peu de candidats ;
+- les alliances ne sont pas directement mesurées ;
+- les performances individuelles aux épreuves ne sont pas entièrement disponibles ;
+- les motivations des votes du jury ne sont pas observées ;
+- une association ajustée ne démontre pas une causalité.
+
+Les rapports distinguent donc clairement :
+
+- les observations directes ;
+- les estimations ajustées ;
+- les hypothèses explicatives ;
+- les conclusions réellement soutenues par les données.
+
+---
+
+## Installation
+
+Créer un environnement virtuel :
+
+    python -m venv .venv
+
+Sous Windows :
+
+    .venv\Scripts\activate
+
+Installer les dépendances :
+
+    python -m pip install -r requirements.txt
+
+---
+
+## Lancer les tests
+
+    pytest
+
+---
+
+## Technologies utilisées
+
+- Python ;
+- pandas ;
+- NumPy ;
+- Matplotlib ;
+- statsmodels ;
+- scraping web ;
+- analyse de survie ;
+- extraction assistée par LLM ;
+- validation human-in-the-loop ;
+- tests automatisés ;
+- reporting HTML.
+
+---
+
+## Compétences démontrées
+
+### LLM Engineering
+
+- extraction structurée à partir de textes ;
+- classification assistée par LLM ;
+- validation humaine ;
+- correction de sorties peu fiables ;
+- traçabilité des décisions ;
+- réflexion sur les limites de l’automatisation.
+
+### Data Engineering
+
+- collecte multi-source ;
+- normalisation ;
+- rapprochement d’entités ;
+- versionnement des datasets ;
+- contrôles qualité ;
+- construction d’un pipeline reproductible.
+
+### Data Science
+
+- analyse de survie ;
+- probabilités conditionnelles ;
+- modèles ajustés ;
+- contrôle des facteurs confondants ;
+- interprétation statistique ;
+- communication de l’incertitude.
+
+---
+
+## Pertinence professionnelle
+
+Même si les données proviennent d’une émission de télévision, la structure analytique ressemble à de nombreux problèmes professionnels.
+
+Un candidat peut :
+
+- rester actif ;
+- être éliminé par vote ;
+- quitter pour raison médicale ;
+- perdre une épreuve ;
+- atteindre une étape finale ;
+- gagner.
+
+Cette logique est comparable à des systèmes dans lesquels un client, un salarié, un patient ou un emprunteur peut connaître plusieurs événements concurrents au cours du temps.
+
+Le projet démontre la capacité à transformer des données hétérogènes et incomplètes en un produit analytique validé, interprétable et présenté de manière professionnelle.
+

@@ -1,0 +1,23 @@
+{
+  "version": "GLOBAL_SURVIVAL_READY_V1",
+  "created_at": "2026-07-22T11:51:38",
+  "source_file": "data\\processed\\koh_lanta_global_enrichment_frozen_v1.csv",
+  "output_file": "data\\processed\\koh_lanta_global_survival_ready_v1.csv",
+  "sha256": "fad716b2b06252b19ce365c99f2dda5e1673b3aac655e4734920a5d648926216",
+  "candidate_count": 340,
+  "season_count": 17,
+  "event_count": 320,
+  "censored_count": 20,
+  "main_model_rows": 340,
+  "physical_model_rows": 340,
+  "physical_score_null": 0,
+  "duration_column": "survival_time",
+  "event_column": "event",
+  "duration_source": "analysis_exit_order",
+  "event_source": "all_cause_exit_event",
+  "status": "READY_FOR_MODELING",
+  "physical_score_1": 59,
+  "physical_score_0": 281,
+  "physical_score_definition_version": "ATHLETIC_STRICT_BINARY_V3",
+  "updated_at": "2026-07-22T17:13:40"
+}

@@ -1,0 +1,18 @@
+season_name,candidate_count,age_validated_count,gender_validated_count,profession_validated_count,physical_score_1_count,physical_score_0_count,physical_score_null_count,external_research_required_count,age_coverage,gender_coverage,profession_coverage,physical_score_non_null_coverage
+KL KL01,16,16,0,16,0,16,0,0,1.0,0.0,1.0,1.0
+KL KL02,16,15,0,16,0,16,0,0,0.9375,0.0,1.0,1.0
+Koh-Lanta : Bocas del Toro,18,0,0,0,0,0,18,18,0.0,0.0,0.0,0.0
+KL KL07,16,14,0,16,0,16,0,0,0.875,0.0,1.0,1.0
+KL KL08,17,15,0,17,0,17,0,0,0.8824,0.0,1.0,1.0
+Koh-Lanta : Raja Ampat,20,20,0,0,0,0,20,20,1.0,0.0,0.0,0.0
+Koh-Lanta : Malaisie,20,20,0,0,0,0,20,20,1.0,0.0,0.0,0.0
+Koh-Lanta : Johor,20,20,0,0,0,0,20,20,1.0,0.0,0.0,0.0
+Koh-Lanta : Thaïlande,21,21,21,0,12,9,0,0,1.0,1.0,0.0,1.0
+Koh-Lanta : La Guerre des Chefs,21,21,0,0,0,0,21,21,1.0,0.0,0.0,0.0
+Koh-Lanta : Le Totem Maudit,24,24,0,0,0,0,24,24,1.0,0.0,0.0,0.0
+Koh-Lanta : Le Feu Sacré,20,20,20,20,1,19,0,0,1.0,1.0,1.0,1.0
+Koh-Lanta : Les Chasseurs d'Immunité,23,22,0,0,0,0,23,23,0.9565,0.0,0.0,0.0
+Koh-Lanta : La Revanche des 4 Terres,24,24,24,24,1,23,0,0,1.0,1.0,1.0,1.0
+Koh-Lanta : L'Île au trésor,20,20,0,0,0,0,20,20,1.0,0.0,0.0,0.0
+Koh-Lanta : Les 4 Terres,24,24,0,0,0,0,24,24,1.0,0.0,0.0,0.0
+Koh-Lanta : Les Armes secrètes,21,21,21,21,3,18,0,0,1.0,1.0,1.0,1.0

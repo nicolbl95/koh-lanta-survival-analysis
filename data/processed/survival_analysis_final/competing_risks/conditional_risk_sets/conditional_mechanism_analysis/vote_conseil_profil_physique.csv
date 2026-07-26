@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+VOTE_CONSEIL,Conseil,RISK_SET_ROBUST,Profil physique,Profil non physique,1967,171,0.08693441789527198,0.0752747818315922,0.1002043637273406
+VOTE_CONSEIL,Conseil,RISK_SET_ROBUST,Profil physique,Profil physique,469,34,0.07249466950959488,0.05233854309807827,0.09959732718067894

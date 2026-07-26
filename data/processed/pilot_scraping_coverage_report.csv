@@ -1,0 +1,3 @@
+season_id,season_name,season_year,source_url,source_language,scrape_status,candidate_count,expected_candidate_count_if_known,gender_coverage,age_coverage,profession_coverage,departure_coverage,winner_count,indeterminate_departure_count,duplicate_candidate_count,return_case_count,exit_order_ambiguity_count,manual_review_required,warnings
+KL31,Koh-Lanta : L'Île au trésor,2016,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor,en,SUCCESS,20,,0,20,0,20,1,0,0,0,4,False,
+KL33,Koh-Lanta : Les Armes secrètes,2021,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secr%C3%A8tes,fr,SUCCESS,21,,21,21,21,21,1,18,0,1,0,False,18 INDETERMINE departure(s) flagged

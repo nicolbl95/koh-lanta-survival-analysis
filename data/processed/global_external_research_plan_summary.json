@@ -1,0 +1,42 @@
+{
+  "total_queue_candidates": 190,
+  "high_priority_count": 190,
+  "medium_priority_count": 0,
+  "low_priority_count": 0,
+  "planned_batch_count": 10,
+  "average_batch_size": 19.0,
+  "season_count_in_queue": 9,
+  "age_missing_count": 0,
+  "gender_missing_count": 190,
+  "profession_missing_count": 0,
+  "physical_score_missing_count": 190,
+  "multi_field_research_count": 190,
+  "first_batch_id": "EXT_BATCH_001",
+  "first_batch_candidate_count": 20,
+  "first_batch_seasons": [
+    "KL03",
+    "KL13"
+  ],
+  "first_batch_candidates": [
+    "Alexandra Denikine",
+    "Candice Cohen",
+    "Michel Jeandel",
+    "Sophie Guilloix",
+    "Julie Bourdon",
+    "Linda Delamarre",
+    "Philippe Huquet",
+    "Alexandre Bérard",
+    "Richard Lecourt",
+    "Sylvie Rivoal",
+    "Sébastien Loew",
+    "Valérie Dot",
+    "Hélène Patry",
+    "Moundir Zoughari",
+    "Antoine Sanchez",
+    "Moussa Niangane",
+    "Delphine Bano",
+    "Isabelle Seguin",
+    "Lisa Legouverneur",
+    "Catherine Diard"
+  ]
+}

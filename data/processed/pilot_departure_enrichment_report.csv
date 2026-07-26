@@ -1,0 +1,23 @@
+season_name,candidate_name,current_type,proposed_type,classification_reason,source_url,confidence,review_status
+KL31,Jérôme Merlier,EPREUVE_ELIMINATOIRE,EPREUVE_ELIMINATOIRE,Audit EPREUVE_ELIMINATOIRE,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor,HIGH,VALIDATED
+KL31,Julie Navarro-Camilleri,EPREUVE_ELIMINATOIRE,EPREUVE_ELIMINATOIRE,Audit EPREUVE_ELIMINATOIRE,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor,HIGH,VALIDATED
+KL31,Candice Boisson,EPREUVE_ELIMINATOIRE,EPREUVE_ELIMINATOIRE,Audit EPREUVE_ELIMINATOIRE,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor,HIGH,VALIDATED
+KL31,Bruno Troester,EPREUVE_ELIMINATOIRE,EPREUVE_ELIMINATOIRE,Audit EPREUVE_ELIMINATOIRE,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor,HIGH,VALIDATED
+KL33,Sylviane,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Marie,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Élodie,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Candice,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Aurélien,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Frédéric,INDETERMINE,AMBASSADEURS_ACCORD,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Hervé,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Mathieu,INDETERMINE,EPREUVE_ELIMINATOIRE,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Shanice,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Myriam,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Vincent,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Laëtitia,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Thomas,INDETERMINE,CONSEIL,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Flavio,INDETERMINE,INDETERMINE,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,INSUFFICIENT_EVIDENCE
+KL33,Magali,INDETERMINE,"MAGALI_RETURN(1st=CONSEIL,2nd=CONSEIL)",Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,VALIDATED
+KL33,Arnaud,INDETERMINE,INDETERMINE,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,INSUFFICIENT_EVIDENCE
+KL33,Laure,INDETERMINE,INDETERMINE,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,INSUFFICIENT_EVIDENCE
+KL33,Jonathan,INDETERMINE,INDETERMINE,Enrichi depuis tableau des votes + notes,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes,HIGH,INSUFFICIENT_EVIDENCE

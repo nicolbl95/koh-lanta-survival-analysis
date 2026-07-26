@@ -1,0 +1,24 @@
+{
+  "KL31": {
+    "candidate_count": 20,
+    "definitive_exit_count": 19,
+    "known_mechanism_count": 19,
+    "indeterminate_count": 0,
+    "departure_mechanism_coverage": 1.0,
+    "return_case_count": 0,
+    "exit_order_review_count": 4,
+    "ready_for_all_cause_model": true,
+    "ready_for_descriptive_departure_statistics": "READY"
+  },
+  "KL33": {
+    "candidate_count": 21,
+    "definitive_exit_count": 20,
+    "known_mechanism_count": 16,
+    "indeterminate_count": 4,
+    "departure_mechanism_coverage": 0.8,
+    "return_case_count": 1,
+    "exit_order_review_count": 0,
+    "ready_for_all_cause_model": true,
+    "ready_for_descriptive_departure_statistics": "READY_WITH_WARNING"
+  }
+}

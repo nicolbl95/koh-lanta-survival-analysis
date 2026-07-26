@@ -1,0 +1,2 @@
+﻿variable,hazard_ratio,ci_lower,ci_upper,p_value,risk_difference_percent,direction,adjustment,stratification
+Profil physique,0.6794615374531338,0.4657839315227243,0.9911633906496252,0.04485223837032651,32.053846254686626,risque inférieur,"Sexe, âge 18–25, âge 34–41",Saison et indicateur 42 ans et plus

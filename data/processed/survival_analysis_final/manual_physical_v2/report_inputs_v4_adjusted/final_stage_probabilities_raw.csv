@@ -1,0 +1,28 @@
+﻿variable,option,stage,exposed,events,probability
+Ensemble,Tous les candidats,Orientation,72,21,0.2916666666666667
+Sexe,Femme,Orientation,32,10,0.3125
+Sexe,Homme,Orientation,40,11,0.275
+Profil physique,Profil non physique,Orientation,48,17,0.3541666666666667
+Profil physique,Profil physique,Orientation,24,4,0.16666666666666666
+Âge,18–25 ans,Orientation,11,3,0.2727272727272727
+Âge,26–33 ans,Orientation,26,7,0.2692307692307692
+Âge,34–41 ans,Orientation,19,4,0.21052631578947367
+Âge,42 ans et plus,Orientation,16,7,0.4375
+Ensemble,Tous les candidats,Poteaux,51,16,0.3137254901960784
+Sexe,Femme,Poteaux,22,4,0.18181818181818182
+Sexe,Homme,Poteaux,29,12,0.41379310344827586
+Profil physique,Profil non physique,Poteaux,31,9,0.2903225806451613
+Profil physique,Profil physique,Poteaux,20,7,0.35
+Âge,18–25 ans,Poteaux,8,2,0.25
+Âge,26–33 ans,Poteaux,19,4,0.21052631578947367
+Âge,34–41 ans,Poteaux,15,7,0.4666666666666667
+Âge,42 ans et plus,Poteaux,9,3,0.3333333333333333
+Ensemble,Tous les candidats,Défaite au jury final,35,15,0.42857142857142855
+Sexe,Femme,Défaite au jury final,18,7,0.3888888888888889
+Sexe,Homme,Défaite au jury final,17,8,0.47058823529411764
+Profil physique,Profil non physique,Défaite au jury final,22,10,0.45454545454545453
+Profil physique,Profil physique,Défaite au jury final,13,5,0.38461538461538464
+Âge,18–25 ans,Défaite au jury final,6,4,0.6666666666666666
+Âge,26–33 ans,Défaite au jury final,15,6,0.4
+Âge,34–41 ans,Défaite au jury final,8,1,0.125
+Âge,42 ans et plus,Défaite au jury final,6,4,0.6666666666666666

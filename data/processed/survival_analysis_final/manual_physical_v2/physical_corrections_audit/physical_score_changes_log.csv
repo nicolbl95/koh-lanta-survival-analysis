@@ -1,0 +1,29 @@
+﻿file,season_id,candidate_name,previous_values,new_score
+physical_score_manual_overrides_v2.csv,KL07,Ali,{'manual_physical_score': np.int64(1)},0
+physical_score_manual_overrides_v2.csv,KL07,Maryline,{'manual_physical_score': np.int64(1)},0
+physical_score_manual_overrides_v2.csv,KL15,Philippe [ N 5 ],{'manual_physical_score': np.int64(1)},0
+physical_score_manual_overrides_v2.csv,KL15,Ugo [ N 7 ],{'manual_physical_score': np.int64(1)},0
+physical_score_manual_overrides_v2.csv,KL26,Quentin,{'manual_physical_score': np.int64(1)},0
+physical_score_manual_overrides_v2.csv,KL26,Martin,{'manual_physical_score': np.int64(1)},0
+physical_score_manual_overrides_v2.csv,KL26,Rudy,{'manual_physical_score': np.int64(1)},0
+data\processed\koh_lanta_global_enrichment_manual_physical_v2.csv,KL07,Ali,"{'manual_physical_score': np.int64(1), 'physical_score': np.int64(1)}",0
+data\processed\koh_lanta_global_enrichment_manual_physical_v2.csv,KL07,Maryline,"{'manual_physical_score': np.int64(1), 'physical_score': np.int64(1)}",0
+data\processed\koh_lanta_global_enrichment_manual_physical_v2.csv,KL15,Philippe [ N 5 ],"{'manual_physical_score': np.int64(1), 'physical_score': np.int64(1)}",0
+data\processed\koh_lanta_global_enrichment_manual_physical_v2.csv,KL15,Ugo [ N 7 ],"{'manual_physical_score': np.int64(1), 'physical_score': np.int64(1)}",0
+data\processed\koh_lanta_global_enrichment_manual_physical_v2.csv,KL26,Quentin,"{'manual_physical_score': np.int64(1), 'physical_score': np.int64(1)}",0
+data\processed\koh_lanta_global_enrichment_manual_physical_v2.csv,KL26,Martin,"{'manual_physical_score': np.int64(1), 'physical_score': np.int64(1)}",0
+data\processed\koh_lanta_global_enrichment_manual_physical_v2.csv,KL26,Rudy,"{'manual_physical_score': np.int64(1), 'physical_score': np.int64(1)}",0
+data\processed\koh_lanta_global_survival_ready_manual_physical_v2.csv,KL07,Ali,{'physical_score': np.int64(1)},0
+data\processed\koh_lanta_global_survival_ready_manual_physical_v2.csv,KL07,Maryline,{'physical_score': np.int64(1)},0
+data\processed\koh_lanta_global_survival_ready_manual_physical_v2.csv,KL15,Philippe [ N 5 ],{'physical_score': np.int64(1)},0
+data\processed\koh_lanta_global_survival_ready_manual_physical_v2.csv,KL15,Ugo [ N 7 ],{'physical_score': np.int64(1)},0
+data\processed\koh_lanta_global_survival_ready_manual_physical_v2.csv,KL26,Quentin,{'physical_score': np.int64(1)},0
+data\processed\koh_lanta_global_survival_ready_manual_physical_v2.csv,KL26,Martin,{'physical_score': np.int64(1)},0
+data\processed\koh_lanta_global_survival_ready_manual_physical_v2.csv,KL26,Rudy,{'physical_score': np.int64(1)},0
+data\processed\survival_analysis_final\manual_physical_v2\koh_lanta_analysis_ready_manual_physical_v3.csv,KL07,Ali,{'physical_score': np.int64(1)},0
+data\processed\survival_analysis_final\manual_physical_v2\koh_lanta_analysis_ready_manual_physical_v3.csv,KL07,Maryline,{'physical_score': np.int64(1)},0
+data\processed\survival_analysis_final\manual_physical_v2\koh_lanta_analysis_ready_manual_physical_v3.csv,KL15,Philippe [ N 5 ],{'physical_score': np.int64(1)},0
+data\processed\survival_analysis_final\manual_physical_v2\koh_lanta_analysis_ready_manual_physical_v3.csv,KL15,Ugo [ N 7 ],{'physical_score': np.int64(1)},0
+data\processed\survival_analysis_final\manual_physical_v2\koh_lanta_analysis_ready_manual_physical_v3.csv,KL26,Quentin,{'physical_score': np.int64(1)},0
+data\processed\survival_analysis_final\manual_physical_v2\koh_lanta_analysis_ready_manual_physical_v3.csv,KL26,Martin,{'physical_score': np.int64(1)},0
+data\processed\survival_analysis_final\manual_physical_v2\koh_lanta_analysis_ready_manual_physical_v3.csv,KL26,Rudy,{'physical_score': np.int64(1)},0

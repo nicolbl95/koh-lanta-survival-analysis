@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+FINALE_ORIENTATION,Orientation,EXACT_STAGE_CONDITIONAL,Sexe,Femme,32,10,0.3125,0.17952352116618736,0.4856699969803239
+FINALE_ORIENTATION,Orientation,EXACT_STAGE_CONDITIONAL,Sexe,Homme,40,11,0.275,0.1610785343314309,0.4283525083312457

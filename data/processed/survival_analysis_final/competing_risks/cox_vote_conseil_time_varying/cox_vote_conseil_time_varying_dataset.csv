@@ -1,0 +1,3640 @@
+﻿candidate_season_key,season_id,start,stop,event_vote_conseil,gender_male,physical_score,age_35_44,age_45_54,age_55_plus,age_18_24_phase_0_25,age_18_24_phase_25_50,age_18_24_phase_50_75,age_18_24_phase_75_100
+KL03::alexandra denikine,KL03,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::candice cohen,KL03,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL03::candice cohen,KL03,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL03::michel jeandel,KL03,0.0,1.0,0,1,1.0,1,0,0,0,0,0,0
+KL03::michel jeandel,KL03,1.0,2.0,0,1,1.0,1,0,0,0,0,0,0
+KL03::michel jeandel,KL03,2.0,3.0,0,1,1.0,1,0,0,0,0,0,0
+KL03::sophie guilloix,KL03,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::sophie guilloix,KL03,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::sophie guilloix,KL03,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::sophie guilloix,KL03,3.0,4.0,1,0,0.0,1,0,0,0,0,0,0
+KL03::julie bourdon,KL03,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL03::julie bourdon,KL03,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL03::julie bourdon,KL03,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL03::julie bourdon,KL03,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL03::julie bourdon,KL03,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL03::linda delamarre,KL03,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::linda delamarre,KL03,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::linda delamarre,KL03,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::linda delamarre,KL03,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::linda delamarre,KL03,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::linda delamarre,KL03,5.0,6.0,1,0,0.0,0,0,0,0,0,0,0
+KL03::philippe huquet,KL03,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL03::philippe huquet,KL03,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL03::philippe huquet,KL03,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL03::philippe huquet,KL03,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL03::philippe huquet,KL03,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL03::philippe huquet,KL03,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL03::philippe huquet,KL03,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL03::alexandre bérard,KL03,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL03::alexandre bérard,KL03,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL03::alexandre bérard,KL03,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL03::alexandre bérard,KL03,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL03::alexandre bérard,KL03,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL03::alexandre bérard,KL03,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL03::alexandre bérard,KL03,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL03::alexandre bérard,KL03,7.0,8.0,1,1,0.0,0,0,0,0,1,0,0
+KL03::richard lecourt,KL03,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,8.0,9.0,1,1,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,9.0,10.0,1,0,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,10.0,11.0,1,1,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,11.0,12.0,1,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,12.0,13.0,1,0,0.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,12.0,13.0,0,1,1.0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,13.0,14.0,1,1,1.0,0,0,0,0,0,0,0
+KL03::antoine sanchez,KL03,0.0,1.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,1.0,2.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,2.0,3.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,3.0,4.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,4.0,5.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,5.0,6.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,6.0,7.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,7.0,8.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,8.0,9.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,9.0,10.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,10.0,11.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,11.0,12.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,12.0,13.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,13.0,14.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::antoine sanchez,KL03,14.0,15.0,0,1,1.0,0,0,1,0,0,0,0
+KL03::moussa niangane,KL03,0.0,1.0,0,1,1.0,0,0,0,1,0,0,0
+KL03::moussa niangane,KL03,1.0,2.0,0,1,1.0,0,0,0,1,0,0,0
+KL03::moussa niangane,KL03,2.0,3.0,0,1,1.0,0,0,0,1,0,0,0
+KL03::moussa niangane,KL03,3.0,4.0,0,1,1.0,0,0,0,1,0,0,0
+KL03::moussa niangane,KL03,4.0,5.0,0,1,1.0,0,0,0,1,0,0,0
+KL03::moussa niangane,KL03,5.0,6.0,0,1,1.0,0,0,0,0,1,0,0
+KL03::moussa niangane,KL03,6.0,7.0,0,1,1.0,0,0,0,0,1,0,0
+KL03::moussa niangane,KL03,7.0,8.0,0,1,1.0,0,0,0,0,1,0,0
+KL03::moussa niangane,KL03,8.0,9.0,0,1,1.0,0,0,0,0,1,0,0
+KL03::moussa niangane,KL03,9.0,10.0,0,1,1.0,0,0,0,0,0,1,0
+KL03::moussa niangane,KL03,10.0,11.0,0,1,1.0,0,0,0,0,0,1,0
+KL03::moussa niangane,KL03,11.0,12.0,0,1,1.0,0,0,0,0,0,1,0
+KL03::moussa niangane,KL03,12.0,13.0,0,1,1.0,0,0,0,0,0,1,0
+KL03::moussa niangane,KL03,13.0,14.0,0,1,1.0,0,0,0,0,0,1,0
+KL03::moussa niangane,KL03,14.0,15.0,0,1,1.0,0,0,0,0,0,0,1
+KL03::moussa niangane,KL03,15.0,16.0,0,1,1.0,0,0,0,0,0,0,1
+KL03::delphine bano,KL03,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::delphine bano,KL03,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,14.0,15.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,15.0,16.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,16.0,17.0,0,0,0.0,1,0,0,0,0,0,0
+KL03::isabelle seguin,KL03,17.0,18.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::valérie,KL08,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::céga,KL08,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::céga,KL08,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::irya,KL08,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL08::irya,KL08,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL08::irya,KL08,2.0,3.0,1,0,0.0,0,0,0,1,0,0,0
+KL08::morgane,KL08,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL08::morgane,KL08,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL08::morgane,KL08,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL08::morgane,KL08,3.0,4.0,1,0,0.0,0,0,0,1,0,0,0
+KL08::jessica,KL08,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::jessica,KL08,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::jessica,KL08,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::jessica,KL08,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::jessica,KL08,4.0,5.0,1,0,0.0,0,0,0,0,0,0,0
+KL08::alain,KL08,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::alain,KL08,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::alain,KL08,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::alain,KL08,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::alain,KL08,4.0,5.0,0,1,0.0,0,0,0,0,1,0,0
+KL08::alain,KL08,5.0,6.0,1,1,0.0,0,0,0,0,1,0,0
+KL08::jean-bernard,KL08,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::jean-bernard,KL08,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::jean-bernard,KL08,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::jean-bernard,KL08,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::jean-bernard,KL08,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::jean-bernard,KL08,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::jean-bernard,KL08,6.0,7.0,1,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christopher,KL08,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,0.0,1.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,1.0,2.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,2.0,3.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,3.0,4.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,4.0,5.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,5.0,6.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,6.0,7.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,7.0,8.0,0,1,1.0,1,0,0,0,0,0,0
+KL08::christophe,KL08,8.0,9.0,1,1,1.0,1,0,0,0,0,0,0
+KL08::charlène,KL08,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::charlène,KL08,9.0,10.0,1,0,0.0,0,0,0,0,0,0,0
+KL08::hakim,KL08,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::hakim,KL08,10.0,11.0,1,1,0.0,1,0,0,0,0,0,0
+KL08::régis,KL08,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::régis,KL08,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::régis,KL08,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::régis,KL08,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL08::régis,KL08,4.0,5.0,0,1,0.0,0,0,0,0,1,0,0
+KL08::régis,KL08,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL08::régis,KL08,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL08::régis,KL08,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL08::régis,KL08,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL08::régis,KL08,9.0,10.0,0,1,0.0,0,0,0,0,0,1,0
+KL08::régis,KL08,10.0,11.0,0,1,0.0,0,0,0,0,0,1,0
+KL08::régis,KL08,11.0,12.0,1,1,0.0,0,0,0,0,0,1,0
+KL08::carole,KL08,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL08::carole,KL08,12.0,13.0,1,0,0.0,1,0,0,0,0,0,0
+KL08::nathalie,KL08,0.0,1.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,1.0,2.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,2.0,3.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,3.0,4.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,4.0,5.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,5.0,6.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,6.0,7.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,7.0,8.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,8.0,9.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,9.0,10.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,10.0,11.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,11.0,12.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,12.0,13.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::nathalie,KL08,13.0,14.0,0,0,0.0,0,0,1,0,0,0,0
+KL08::bertrand,KL08,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::bertrand,KL08,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL08::frédéric favier,KL08,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::frédéric favier,KL08,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL08::christelle gauzet,KL08,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::babeth delettre,KL17,0.0,1.0,1,0,0.0,0,1,0,0,0,0,0
+KL17::marie-anne queniart,KL17,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL17::marie-anne queniart,KL17,1.0,2.0,1,0,0.0,1,0,0,0,0,0,0
+KL17::benoît jorion-fahy,KL17,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::benoît jorion-fahy,KL17,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::benoît jorion-fahy,KL17,2.0,3.0,1,1,0.0,0,0,0,0,0,0,0
+KL17::manon allender,KL17,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::manon allender,KL17,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::manon allender,KL17,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::manon allender,KL17,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::loïc crespin,KL17,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL17::loïc crespin,KL17,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL17::loïc crespin,KL17,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL17::loïc crespin,KL17,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL17::loïc crespin,KL17,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL17::isabelle haouzi,KL17,0.0,1.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::isabelle haouzi,KL17,1.0,2.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::isabelle haouzi,KL17,2.0,3.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::isabelle haouzi,KL17,3.0,4.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::isabelle haouzi,KL17,4.0,5.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::isabelle haouzi,KL17,5.0,6.0,1,0,1.0,0,1,0,0,0,0,0
+KL17::margot perrot houwaer,KL17,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::margot perrot houwaer,KL17,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::margot perrot houwaer,KL17,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::margot perrot houwaer,KL17,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::margot perrot houwaer,KL17,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::margot perrot houwaer,KL17,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL17::margot perrot houwaer,KL17,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL17::alban pellegrin,KL17,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,5.0,6.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,6.0,7.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,7.0,8.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,8.0,9.0,0,0,0.0,0,1,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,9.0,10.0,1,1,0.0,1,0,0,0,0,0,0
+KL17::charlaine cuny,KL17,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::charlaine cuny,KL17,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::charlaine cuny,KL17,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::charlaine cuny,KL17,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::charlaine cuny,KL17,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL17::charlaine cuny,KL17,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL17::charlaine cuny,KL17,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL17::charlaine cuny,KL17,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL17::charlaine cuny,KL17,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL17::charlaine cuny,KL17,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL17::charlaine cuny,KL17,10.0,11.0,1,0,0.0,0,0,0,0,0,1,0
+KL17::nessim kouachi,KL17,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,11.0,12.0,1,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,12.0,13.0,1,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,13.0,14.0,1,1,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,14.0,15.0,1,0,0.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,12.0,13.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,13.0,14.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,14.0,15.0,0,1,1.0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,15.0,16.0,1,1,1.0,0,0,0,0,0,0,0
+KL17::bruno peisey,KL17,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,13.0,14.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,14.0,15.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,15.0,16.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::bruno peisey,KL17,16.0,17.0,0,1,0.0,0,1,0,0,0,0,0
+KL17::mélissa bastin,KL17,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,14.0,15.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,15.0,16.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,16.0,17.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,17.0,18.0,0,0,1.0,0,0,0,0,0,0,0
+KL17::chantel ménard,KL17,0.0,1.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,1.0,2.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,2.0,3.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,3.0,4.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,4.0,5.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,5.0,6.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,6.0,7.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,7.0,8.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,8.0,9.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,9.0,10.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,10.0,11.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,11.0,12.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,12.0,13.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,13.0,14.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,14.0,15.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,15.0,16.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,16.0,17.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,17.0,18.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::chantel ménard,KL17,18.0,19.0,0,0,1.0,0,1,0,0,0,0,0
+KL17::marc rambaud,KL17,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,17.0,18.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,18.0,19.0,0,1,0.0,1,0,0,0,0,0,0
+KL17::marc rambaud,KL17,19.0,20.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::myriam zenasni,KL31,0.0,1.0,1,0,0.0,1,0,0,0,0,0,0
+KL31::amandine schmitt,KL31,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::amandine schmitt,KL31,1.0,2.0,1,0,0.0,0,0,0,0,0,0,0
+KL31::sophie le nestic sabattier,KL31,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL31::sophie le nestic sabattier,KL31,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL31::sophie le nestic sabattier,KL31,2.0,3.0,1,0,0.0,0,1,0,0,0,0,0
+KL31::sandrine bouzekri,KL31,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::sandrine bouzekri,KL31,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::sandrine bouzekri,KL31,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::sandrine bouzekri,KL31,3.0,4.0,1,0,0.0,0,0,0,0,0,0,0
+KL31::laurent mischkind,KL31,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::laurent mischkind,KL31,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::laurent mischkind,KL31,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::laurent mischkind,KL31,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::laurent mischkind,KL31,4.0,5.0,1,1,0.0,1,0,0,0,0,0,0
+KL31::jean-luc duboscq,KL31,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::jean-luc duboscq,KL31,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::jean-luc duboscq,KL31,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::jean-luc duboscq,KL31,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::jean-luc duboscq,KL31,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::jean-luc duboscq,KL31,5.0,6.0,1,1,0.0,0,1,0,0,0,0,0
+KL31::jérôme merlier,KL31,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::jérôme merlier,KL31,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::jérôme merlier,KL31,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::jérôme merlier,KL31,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::jérôme merlier,KL31,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::jérôme merlier,KL31,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL31::jérôme merlier,KL31,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,7.0,8.0,1,1,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,8.0,9.0,1,0,0.0,0,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,9.0,10.0,1,0,0.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,0.0,1.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,1.0,2.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,2.0,3.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,3.0,4.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,4.0,5.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,5.0,6.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,6.0,7.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,7.0,8.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,8.0,9.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,9.0,10.0,0,1,1.0,1,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,10.0,11.0,1,1,1.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,12.0,13.0,1,1,0.0,0,0,0,0,0,0,0
+KL31::stéphane cipolla,KL31,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL31::stéphane cipolla,KL31,13.0,14.0,1,1,0.0,0,1,0,0,0,0,0
+KL31::ludivine wiart,KL31,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,14.0,15.0,1,0,1.0,0,0,0,0,0,0,0
+KL31::candice boisson,KL31,0.0,1.0,0,0,1.0,0,0,0,1,0,0,0
+KL31::candice boisson,KL31,1.0,2.0,0,0,1.0,0,0,0,1,0,0,0
+KL31::candice boisson,KL31,2.0,3.0,0,0,1.0,0,0,0,1,0,0,0
+KL31::candice boisson,KL31,3.0,4.0,0,0,1.0,0,0,0,1,0,0,0
+KL31::candice boisson,KL31,4.0,5.0,0,0,1.0,0,0,0,1,0,0,0
+KL31::candice boisson,KL31,5.0,6.0,0,0,1.0,0,0,0,0,1,0,0
+KL31::candice boisson,KL31,6.0,7.0,0,0,1.0,0,0,0,0,1,0,0
+KL31::candice boisson,KL31,7.0,8.0,0,0,1.0,0,0,0,0,1,0,0
+KL31::candice boisson,KL31,8.0,9.0,0,0,1.0,0,0,0,0,1,0,0
+KL31::candice boisson,KL31,9.0,10.0,0,0,1.0,0,0,0,0,1,0,0
+KL31::candice boisson,KL31,10.0,11.0,0,0,1.0,0,0,0,0,0,1,0
+KL31::candice boisson,KL31,11.0,12.0,0,0,1.0,0,0,0,0,0,1,0
+KL31::candice boisson,KL31,12.0,13.0,0,0,1.0,0,0,0,0,0,1,0
+KL31::candice boisson,KL31,13.0,14.0,0,0,1.0,0,0,0,0,0,1,0
+KL31::candice boisson,KL31,14.0,15.0,0,0,1.0,0,0,0,0,0,1,0
+KL31::candice boisson,KL31,15.0,16.0,0,0,1.0,0,0,0,0,0,0,1
+KL31::bruno troester,KL31,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,1.0,2.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,2.0,3.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,3.0,4.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,4.0,5.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,5.0,6.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,6.0,7.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,7.0,8.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,8.0,9.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,9.0,10.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,10.0,11.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,11.0,12.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,12.0,13.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,13.0,14.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,14.0,15.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,15.0,16.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::bruno troester,KL31,16.0,17.0,0,1,0.0,0,0,1,0,0,0,0
+KL31::freddy bolzer,KL31,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL31::jesta hillmann,KL31,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL31::jesta hillmann,KL31,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL31::jesta hillmann,KL31,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL31::jesta hillmann,KL31,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL31::jesta hillmann,KL31,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL31::jesta hillmann,KL31,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL31::jesta hillmann,KL31,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL31::jesta hillmann,KL31,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL31::jesta hillmann,KL31,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL31::jesta hillmann,KL31,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL31::jesta hillmann,KL31,10.0,11.0,0,0,0.0,0,0,0,0,0,1,0
+KL31::jesta hillmann,KL31,11.0,12.0,0,0,0.0,0,0,0,0,0,1,0
+KL31::jesta hillmann,KL31,12.0,13.0,0,0,0.0,0,0,0,0,0,1,0
+KL31::jesta hillmann,KL31,13.0,14.0,0,0,0.0,0,0,0,0,0,1,0
+KL31::jesta hillmann,KL31,14.0,15.0,0,0,0.0,0,0,0,0,0,1,0
+KL31::jesta hillmann,KL31,15.0,16.0,0,0,0.0,0,0,0,0,0,0,1
+KL31::jesta hillmann,KL31,16.0,17.0,0,0,0.0,0,0,0,0,0,0,1
+KL31::jesta hillmann,KL31,17.0,18.0,0,0,0.0,0,0,0,0,0,0,1
+KL31::jesta hillmann,KL31,18.0,19.0,0,0,0.0,0,0,0,0,0,0,1
+KL31::benoît assadi,KL31,0.0,1.0,0,1,1.0,0,0,0,1,0,0,0
+KL31::benoît assadi,KL31,1.0,2.0,0,1,1.0,0,0,0,1,0,0,0
+KL31::benoît assadi,KL31,2.0,3.0,0,1,1.0,0,0,0,1,0,0,0
+KL31::benoît assadi,KL31,3.0,4.0,0,1,1.0,0,0,0,1,0,0,0
+KL31::benoît assadi,KL31,4.0,5.0,0,1,1.0,0,0,0,1,0,0,0
+KL31::benoît assadi,KL31,5.0,6.0,0,1,1.0,0,0,0,0,1,0,0
+KL31::benoît assadi,KL31,6.0,7.0,0,1,1.0,0,0,0,0,1,0,0
+KL31::benoît assadi,KL31,7.0,8.0,0,1,1.0,0,0,0,0,1,0,0
+KL31::benoît assadi,KL31,8.0,9.0,0,1,1.0,0,0,0,0,1,0,0
+KL31::benoît assadi,KL31,9.0,10.0,0,1,1.0,0,0,0,0,1,0,0
+KL31::benoît assadi,KL31,10.0,11.0,0,1,1.0,0,0,0,0,0,1,0
+KL31::benoît assadi,KL31,11.0,12.0,0,1,1.0,0,0,0,0,0,1,0
+KL31::benoît assadi,KL31,12.0,13.0,0,1,1.0,0,0,0,0,0,1,0
+KL31::benoît assadi,KL31,13.0,14.0,0,1,1.0,0,0,0,0,0,1,0
+KL31::benoît assadi,KL31,14.0,15.0,0,1,1.0,0,0,0,0,0,1,0
+KL31::benoît assadi,KL31,15.0,16.0,0,1,1.0,0,0,0,0,0,0,1
+KL31::benoît assadi,KL31,16.0,17.0,0,1,1.0,0,0,0,0,0,0,1
+KL31::benoît assadi,KL31,17.0,18.0,0,1,1.0,0,0,0,0,0,0,1
+KL31::benoît assadi,KL31,18.0,19.0,0,1,1.0,0,0,0,0,0,0,1
+KL31::benoît assadi,KL31,19.0,20.0,0,1,1.0,0,0,0,0,0,0,1
+KL22::aliséa,KL22,0.0,1.0,0,0,1.0,0,0,0,1,0,0,0
+KL22::carinne,KL22,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::carinne,KL22,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::émilie,KL22,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL22::émilie,KL22,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL22::émilie,KL22,2.0,3.0,1,0,0.0,1,0,0,0,0,0,0
+KL22::victor,KL22,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL22::victor,KL22,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL22::victor,KL22,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL22::victor,KL22,3.0,4.0,1,1,1.0,0,0,0,0,0,0,0
+KL22::chloé,KL22,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::chloé,KL22,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::chloé,KL22,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::chloé,KL22,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::chloé,KL22,4.0,5.0,1,0,0.0,0,0,0,0,0,0,0
+KL22::xavier,KL22,0.0,1.0,0,1,1.0,0,1,0,0,0,0,0
+KL22::xavier,KL22,1.0,2.0,0,1,1.0,0,1,0,0,0,0,0
+KL22::xavier,KL22,2.0,3.0,0,1,1.0,0,1,0,0,0,0,0
+KL22::xavier,KL22,3.0,4.0,0,1,1.0,0,1,0,0,0,0,0
+KL22::xavier,KL22,4.0,5.0,0,1,1.0,0,1,0,0,0,0,0
+KL22::xavier,KL22,5.0,6.0,1,1,1.0,0,1,0,0,0,0,0
+KL22::frédéric,KL22,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::frédéric,KL22,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::frédéric,KL22,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::frédéric,KL22,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::frédéric,KL22,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::frédéric,KL22,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::frédéric,KL22,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::alexandre,KL22,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,7.0,8.0,1,1,0.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,8.0,9.0,1,0,1.0,0,0,0,0,0,0,0
+KL22::brice,KL22,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL22::brice,KL22,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL22::brice,KL22,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL22::brice,KL22,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL22::brice,KL22,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL22::brice,KL22,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL22::brice,KL22,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL22::brice,KL22,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL22::brice,KL22,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL22::brice,KL22,9.0,10.0,1,1,0.0,0,0,0,0,1,0,0
+KL22::sophie,KL22,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::sophie,KL22,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::angélique,KL22,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL22::angélique,KL22,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL22::angélique,KL22,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL22::angélique,KL22,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL22::angélique,KL22,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL22::angélique,KL22,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL22::angélique,KL22,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL22::angélique,KL22,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL22::angélique,KL22,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL22::angélique,KL22,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL22::angélique,KL22,10.0,11.0,0,0,0.0,0,0,0,0,1,0,0
+KL22::angélique,KL22,11.0,12.0,1,0,0.0,0,0,0,0,0,1,0
+KL22::mohamed,KL22,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::mohamed,KL22,12.0,13.0,1,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::nicolas,KL22,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::maxime,KL22,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL22::maxime,KL22,14.0,15.0,1,1,0.0,0,0,0,0,0,0,0
+KL22::cyril,KL22,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL22::cyril,KL22,15.0,16.0,1,1,0.0,1,0,0,0,0,0,0
+KL22::clo,KL22,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,14.0,15.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,15.0,16.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::clo,KL22,16.0,17.0,0,0,1.0,0,0,0,0,0,0,0
+KL22::aurélien,KL22,0.0,1.0,0,1,1.0,0,0,0,1,0,0,0
+KL22::aurélien,KL22,1.0,2.0,0,1,1.0,0,0,0,1,0,0,0
+KL22::aurélien,KL22,2.0,3.0,0,1,1.0,0,0,0,1,0,0,0
+KL22::aurélien,KL22,3.0,4.0,0,1,1.0,0,0,0,1,0,0,0
+KL22::aurélien,KL22,4.0,5.0,0,1,1.0,0,0,0,1,0,0,0
+KL22::aurélien,KL22,5.0,6.0,0,1,1.0,0,0,0,0,1,0,0
+KL22::aurélien,KL22,6.0,7.0,0,1,1.0,0,0,0,0,1,0,0
+KL22::aurélien,KL22,7.0,8.0,0,1,1.0,0,0,0,0,1,0,0
+KL22::aurélien,KL22,8.0,9.0,0,1,1.0,0,0,0,0,1,0,0
+KL22::aurélien,KL22,9.0,10.0,0,1,1.0,0,0,0,0,1,0,0
+KL22::aurélien,KL22,10.0,11.0,0,1,1.0,0,0,0,0,1,0,0
+KL22::aurélien,KL22,11.0,12.0,0,1,1.0,0,0,0,0,0,1,0
+KL22::aurélien,KL22,12.0,13.0,0,1,1.0,0,0,0,0,0,1,0
+KL22::aurélien,KL22,13.0,14.0,0,1,1.0,0,0,0,0,0,1,0
+KL22::aurélien,KL22,14.0,15.0,0,1,1.0,0,0,0,0,0,1,0
+KL22::aurélien,KL22,15.0,16.0,0,1,1.0,0,0,0,0,0,1,0
+KL22::aurélien,KL22,16.0,17.0,0,1,1.0,0,0,0,0,0,0,1
+KL22::aurélien,KL22,17.0,18.0,0,1,1.0,0,0,0,0,0,0,1
+KL22::steeve,KL22,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,13.0,14.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,14.0,15.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,15.0,16.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,16.0,17.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,17.0,18.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::steeve,KL22,18.0,19.0,0,1,0.0,0,1,0,0,0,0,0
+KL22::cindy,KL22,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,18.0,19.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::cindy,KL22,19.0,20.0,0,0,0.0,0,0,0,0,0,0,0
+KL22::maud,KL22,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,5.0,6.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,6.0,7.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,7.0,8.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,8.0,9.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,9.0,10.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,10.0,11.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,11.0,12.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,12.0,13.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,13.0,14.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,14.0,15.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,15.0,16.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,16.0,17.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,17.0,18.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,18.0,19.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,19.0,20.0,0,0,0.0,0,1,0,0,0,0,0
+KL22::maud,KL22,20.0,21.0,0,0,0.0,0,1,0,0,0,0,0
+KL29::cynthiana,KL29,0.0,1.0,1,0,0.0,1,0,0,0,0,0,0
+KL29::allan,KL29,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::allan,KL29,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::christian,KL29,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::christian,KL29,1.0,2.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::christian,KL29,2.0,3.0,1,1,0.0,0,0,1,0,0,0,0
+KL29::romane,KL29,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::romane,KL29,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::romane,KL29,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::romane,KL29,3.0,4.0,1,0,0.0,0,0,0,1,0,0,0
+KL29::mehdi,KL29,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mehdi,KL29,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mehdi,KL29,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mehdi,KL29,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mehdi,KL29,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::benoît,KL29,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::benoît,KL29,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::benoît,KL29,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::benoît,KL29,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::benoît,KL29,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::benoît,KL29,5.0,6.0,1,1,0.0,0,0,0,1,0,0,0
+KL29::mohamed,KL29,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mohamed,KL29,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mohamed,KL29,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mohamed,KL29,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mohamed,KL29,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mohamed,KL29,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::mohamed,KL29,6.0,7.0,1,1,0.0,0,0,0,0,0,0,0
+KL29::pauline,KL29,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::pauline,KL29,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::pauline,KL29,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::pauline,KL29,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::pauline,KL29,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::pauline,KL29,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::pauline,KL29,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::pauline,KL29,7.0,8.0,1,0,0.0,1,0,0,0,0,0,0
+KL29::andréa,KL29,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::andréa,KL29,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::andréa,KL29,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::andréa,KL29,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::andréa,KL29,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::andréa,KL29,5.0,6.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::andréa,KL29,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::andréa,KL29,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::andréa,KL29,8.0,9.0,1,0,0.0,0,0,0,0,1,0,0
+KL29::adrien,KL29,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::adrien,KL29,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::adrien,KL29,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::adrien,KL29,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::adrien,KL29,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::adrien,KL29,5.0,6.0,0,1,0.0,0,0,0,1,0,0,0
+KL29::adrien,KL29,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL29::adrien,KL29,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL29::adrien,KL29,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL29::adrien,KL29,9.0,10.0,1,1,0.0,0,0,0,0,1,0,0
+KL29::frédéric,KL29,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,1.0,2.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,2.0,3.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,3.0,4.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,4.0,5.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,5.0,6.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,6.0,7.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,7.0,8.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,8.0,9.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,9.0,10.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::frédéric,KL29,10.0,11.0,0,1,0.0,0,0,1,0,0,0,0
+KL29::jessica,KL29,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jessica,KL29,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::louise,KL29,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::louise,KL29,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::louise,KL29,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::louise,KL29,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::louise,KL29,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::louise,KL29,5.0,6.0,0,0,0.0,0,0,0,1,0,0,0
+KL29::louise,KL29,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::louise,KL29,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::louise,KL29,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::louise,KL29,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::louise,KL29,10.0,11.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::louise,KL29,11.0,12.0,0,0,0.0,0,0,0,0,1,0,0
+KL29::louise,KL29,12.0,13.0,1,0,0.0,0,0,0,0,0,1,0
+KL29::joana,KL29,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::joana,KL29,13.0,14.0,1,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::naïs,KL29,14.0,15.0,1,0,0.0,0,0,0,0,0,0,0
+KL29::pierre-marie,KL29,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::pierre-marie,KL29,15.0,16.0,1,1,0.0,1,0,0,0,0,0,0
+KL29::maxime,KL29,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maxime,KL29,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::noémie,KL29,17.0,18.0,1,0,0.0,0,0,0,0,0,0,0
+KL29::céline,KL29,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,14.0,15.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,15.0,16.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,16.0,17.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,17.0,18.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::céline,KL29,18.0,19.0,1,0,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row20,KL29,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,13.0,14.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,14.0,15.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,15.0,16.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,16.0,17.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,17.0,18.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,18.0,19.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::jérôme#row20,KL29,19.0,20.0,0,1,0.0,0,1,0,0,0,0,0
+KL29::claire,KL29,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,14.0,15.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,15.0,16.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,16.0,17.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,17.0,18.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,18.0,19.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,19.0,20.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::claire,KL29,20.0,21.0,0,0,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,17.0,18.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,18.0,19.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,19.0,20.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,20.0,21.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,21.0,22.0,0,1,0.0,1,0,0,0,0,0,0
+KL29::maël,KL29,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,18.0,19.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,19.0,20.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,20.0,21.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,21.0,22.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::maël,KL29,22.0,23.0,0,1,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,18.0,19.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,19.0,20.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,20.0,21.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,21.0,22.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,22.0,23.0,0,0,0.0,0,0,0,0,0,0,0
+KL29::gaëlle,KL29,23.0,24.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::célia,KL26,0.0,1.0,1,0,0.0,0,1,0,0,0,0,0
+KL26::emin,KL26,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+KL26::emin,KL26,1.0,2.0,1,1,0.0,0,0,1,0,0,0,0
+KL26::alexandre,KL26,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::alexandre,KL26,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::alexandre,KL26,2.0,3.0,1,1,0.0,0,0,0,0,0,0,0
+KL26::élodie,KL26,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::élodie,KL26,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::élodie,KL26,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::élodie,KL26,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::benjamin,KL26,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL26::benjamin,KL26,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL26::benjamin,KL26,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL26::benjamin,KL26,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL26::benjamin,KL26,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL26::martin,KL26,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::martin,KL26,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::martin,KL26,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::martin,KL26,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::martin,KL26,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::martin,KL26,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::christine,KL26,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL26::christine,KL26,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL26::christine,KL26,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL26::christine,KL26,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL26::christine,KL26,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL26::christine,KL26,5.0,6.0,0,0,0.0,0,1,0,0,0,0,0
+KL26::christine,KL26,6.0,7.0,1,0,0.0,0,1,0,0,0,0,0
+KL26::rudy,KL26,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::rudy,KL26,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::rudy,KL26,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::rudy,KL26,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::rudy,KL26,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::rudy,KL26,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::rudy,KL26,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::rudy,KL26,7.0,8.0,1,1,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::grâce,KL26,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL26::anne-sophie,KL26,9.0,10.0,1,0,0.0,1,0,0,0,0,0,0
+KL26::helena,KL26,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::helena,KL26,10.0,11.0,1,0,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::gilles,KL26,11.0,12.0,1,1,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::clémence,KL26,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::esteban,KL26,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::esteban,KL26,13.0,14.0,1,1,0.0,1,0,0,0,0,0,0
+KL26::laura,KL26,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL26::laura,KL26,14.0,15.0,1,0,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::quentin,KL26,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::julie,KL26,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,14.0,15.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,15.0,16.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::julie,KL26,16.0,17.0,0,0,1.0,0,0,0,0,0,0,0
+KL26::nicolas,KL26,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::nicolas,KL26,17.0,18.0,0,1,0.0,1,0,0,0,0,0,0
+KL26::tania,KL26,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL26::tania,KL26,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL26::tania,KL26,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL26::tania,KL26,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL26::tania,KL26,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL26::tania,KL26,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL26::tania,KL26,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL26::tania,KL26,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL26::tania,KL26,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL26::tania,KL26,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL26::tania,KL26,10.0,11.0,0,0,0.0,0,0,0,0,0,1,0
+KL26::tania,KL26,11.0,12.0,0,0,0.0,0,0,0,0,0,1,0
+KL26::tania,KL26,12.0,13.0,0,0,0.0,0,0,0,0,0,1,0
+KL26::tania,KL26,13.0,14.0,0,0,0.0,0,0,0,0,0,1,0
+KL26::tania,KL26,14.0,15.0,0,0,0.0,0,0,0,0,0,1,0
+KL26::tania,KL26,15.0,16.0,0,0,0.0,0,0,0,0,0,0,1
+KL26::tania,KL26,16.0,17.0,0,0,0.0,0,0,0,0,0,0,1
+KL26::tania,KL26,17.0,18.0,0,0,0.0,0,0,0,0,0,0,1
+KL26::tania,KL26,18.0,19.0,0,0,0.0,0,0,0,0,0,0,1
+KL26::frédéric,KL26,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,18.0,19.0,0,1,0.0,0,0,0,0,0,0,0
+KL26::frédéric,KL26,19.0,20.0,0,1,0.0,0,0,0,0,0,0,0
+"KL25::céline ""lili"" gasnier",KL25,0.0,1.0,1,0,0.0,1,0,0,0,0,0,0
+KL25::céline dufrenoy,KL25,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::céline dufrenoy,KL25,1.0,2.0,1,0,0.0,1,0,0,0,0,0,0
+KL25::franck macia,KL25,0.0,1.0,0,1,1.0,0,1,0,0,0,0,0
+KL25::franck macia,KL25,1.0,2.0,0,1,1.0,0,1,0,0,0,0,0
+KL25::franck macia,KL25,2.0,3.0,0,1,1.0,0,1,0,0,0,0,0
+KL25::mattéo real,KL25,0.0,1.0,0,1,1.0,0,0,0,1,0,0,0
+KL25::mattéo real,KL25,1.0,2.0,0,1,1.0,0,0,0,1,0,0,0
+KL25::mattéo real,KL25,2.0,3.0,0,1,1.0,0,0,0,1,0,0,0
+KL25::mattéo real,KL25,3.0,4.0,1,1,1.0,0,0,0,1,0,0,0
+KL25::samira aït-brahim,KL25,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::samira aït-brahim,KL25,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::samira aït-brahim,KL25,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::samira aït-brahim,KL25,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::samira aït-brahim,KL25,4.0,5.0,1,0,1.0,0,0,0,0,0,0,0
+KL25::benjamin breerette,KL25,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL25::benjamin breerette,KL25,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL25::benjamin breerette,KL25,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL25::benjamin breerette,KL25,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL25::benjamin breerette,KL25,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL25::benjamin breerette,KL25,5.0,6.0,1,1,0.0,0,0,0,1,0,0,0
+KL25::stéphanie tribot,KL25,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::stéphanie tribot,KL25,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::stéphanie tribot,KL25,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::stéphanie tribot,KL25,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::stéphanie tribot,KL25,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::stéphanie tribot,KL25,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::stéphanie tribot,KL25,6.0,7.0,1,0,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,8.0,9.0,1,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL25::colin mottas,KL25,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,10.0,11.0,1,1,0.0,0,0,0,0,0,0,0
+KL25::pauline pourchaire,KL25,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL25::pauline pourchaire,KL25,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL25::pauline pourchaire,KL25,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL25::pauline pourchaire,KL25,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL25::pauline pourchaire,KL25,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL25::pauline pourchaire,KL25,5.0,6.0,0,0,0.0,0,0,0,1,0,0,0
+KL25::pauline pourchaire,KL25,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL25::pauline pourchaire,KL25,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL25::pauline pourchaire,KL25,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL25::pauline pourchaire,KL25,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL25::pauline pourchaire,KL25,10.0,11.0,0,0,0.0,0,0,0,0,1,0,0
+KL25::pauline pourchaire,KL25,11.0,12.0,0,0,0.0,0,0,0,0,1,0,0
+KL25::yannick zachée,KL25,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,12.0,13.0,1,1,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,13.0,14.0,1,0,1.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,14.0,15.0,1,1,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,17.0,18.0,1,1,0.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,0.0,1.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,1.0,2.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,2.0,3.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,3.0,4.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,4.0,5.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,5.0,6.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,6.0,7.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,7.0,8.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,8.0,9.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,9.0,10.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,10.0,11.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,11.0,12.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,12.0,13.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,13.0,14.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,14.0,15.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,15.0,16.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,16.0,17.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,17.0,18.0,0,0,1.0,1,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,18.0,19.0,1,0,1.0,1,0,0,0,0,0,0
+KL25::ambre daudet,KL25,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,18.0,19.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,19.0,20.0,0,0,0.0,0,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,17.0,18.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,18.0,19.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,19.0,20.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,20.0,21.0,0,1,0.0,1,0,0,0,0,0,0
+KL25::géraldine nicolle,KL25,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,5.0,6.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,6.0,7.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,7.0,8.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,8.0,9.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,9.0,10.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,10.0,11.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,11.0,12.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,12.0,13.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,13.0,14.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,14.0,15.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,15.0,16.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,16.0,17.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,17.0,18.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,18.0,19.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,19.0,20.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,20.0,21.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::géraldine nicolle,KL25,21.0,22.0,0,0,0.0,0,1,0,0,0,0,0
+KL25::bastien san pedro,KL25,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,18.0,19.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,19.0,20.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,20.0,21.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,21.0,22.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::bastien san pedro,KL25,22.0,23.0,0,1,0.0,0,0,0,0,0,0,0
+KL25::françois descamp,KL25,0.0,1.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,1.0,2.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,2.0,3.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,3.0,4.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,4.0,5.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,5.0,6.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,6.0,7.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,7.0,8.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,8.0,9.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,9.0,10.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,10.0,11.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,11.0,12.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,12.0,13.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,13.0,14.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,14.0,15.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,15.0,16.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,16.0,17.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,17.0,18.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,18.0,19.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,19.0,20.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,20.0,21.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,21.0,22.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,22.0,23.0,0,1,1.0,1,0,0,0,0,0,0
+KL25::françois descamp,KL25,23.0,24.0,0,1,1.0,1,0,0,0,0,0,0
+KL32::françois,KL32,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::carole,KL32,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::carole,KL32,1.0,2.0,1,0,0.0,0,1,0,0,0,0,0
+KL32::samuel,KL32,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::samuel,KL32,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::samuel,KL32,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::diane,KL32,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::diane,KL32,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::diane,KL32,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::diane,KL32,3.0,4.0,1,0,0.0,0,0,0,0,0,0,0
+KL32::estelle,KL32,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::estelle,KL32,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::estelle,KL32,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::estelle,KL32,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::estelle,KL32,4.0,5.0,1,0,0.0,0,1,0,0,0,0,0
+KL32::mathieu,KL32,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::mathieu,KL32,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::mathieu,KL32,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::mathieu,KL32,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::mathieu,KL32,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::mathieu,KL32,5.0,6.0,1,1,1.0,0,0,0,0,0,0,0
+KL32::adrien,KL32,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL32::adrien,KL32,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL32::adrien,KL32,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL32::adrien,KL32,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL32::adrien,KL32,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL32::adrien,KL32,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL32::adrien,KL32,6.0,7.0,1,1,0.0,0,0,0,0,0,0,0
+KL32::aubin,KL32,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::aubin,KL32,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::aubin,KL32,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::aubin,KL32,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::aubin,KL32,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::aubin,KL32,5.0,6.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::aubin,KL32,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL32::aubin,KL32,7.0,8.0,1,1,0.0,0,0,0,0,1,0,0
+KL32::sébastien,KL32,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL32::sébastien,KL32,8.0,9.0,1,1,0.0,1,0,0,0,0,0,0
+KL32::marie-france,KL32,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,5.0,6.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,6.0,7.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,7.0,8.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,8.0,9.0,0,0,0.0,0,1,0,0,0,0,0
+KL32::marie-france,KL32,9.0,10.0,1,0,0.0,0,1,0,0,0,0,0
+KL32::hadja,KL32,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::hadja,KL32,10.0,11.0,1,0,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::joaquina,KL32,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL32::joaquina,KL32,12.0,13.0,1,0,0.0,1,0,0,0,0,0,0
+KL32::jody,KL32,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::jody,KL32,13.0,14.0,1,0,0.0,0,0,0,0,0,0,0
+KL32::laurent,KL32,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,13.0,14.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::laurent,KL32,14.0,15.0,1,1,0.0,0,1,0,0,0,0,0
+KL32::alix,KL32,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,14.0,15.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::alix,KL32,15.0,16.0,0,0,1.0,0,0,0,0,0,0,0
+KL32::fabrice,KL32,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,13.0,14.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,14.0,15.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,15.0,16.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::fabrice,KL32,16.0,17.0,0,1,0.0,0,1,0,0,0,0,0
+KL32::ava,KL32,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::ava,KL32,17.0,18.0,1,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::angélique,KL32,18.0,19.0,1,0,0.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,12.0,13.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,13.0,14.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,14.0,15.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,15.0,16.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,16.0,17.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,17.0,18.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,18.0,19.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::dorian,KL32,19.0,20.0,0,1,1.0,0,0,0,0,0,0,0
+KL32::lola,KL32,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL32::lola,KL32,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL32::lola,KL32,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL32::lola,KL32,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL32::lola,KL32,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL32::lola,KL32,5.0,6.0,0,0,0.0,0,0,0,1,0,0,0
+KL32::lola,KL32,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL32::lola,KL32,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL32::lola,KL32,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL32::lola,KL32,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL32::lola,KL32,10.0,11.0,0,0,0.0,0,0,0,0,1,0,0
+KL32::lola,KL32,11.0,12.0,0,0,0.0,0,0,0,0,1,0,0
+KL32::lola,KL32,12.0,13.0,0,0,0.0,0,0,0,0,0,1,0
+KL32::lola,KL32,13.0,14.0,0,0,0.0,0,0,0,0,0,1,0
+KL32::lola,KL32,14.0,15.0,0,0,0.0,0,0,0,0,0,1,0
+KL32::lola,KL32,15.0,16.0,0,0,0.0,0,0,0,0,0,1,0
+KL32::lola,KL32,16.0,17.0,0,0,0.0,0,0,0,0,0,1,0
+KL32::lola,KL32,17.0,18.0,0,0,0.0,0,0,0,0,0,1,0
+KL32::lola,KL32,18.0,19.0,0,0,0.0,0,0,0,0,0,0,1
+KL32::lola,KL32,19.0,20.0,0,0,0.0,0,0,0,0,0,0,1
+KL32::lola,KL32,20.0,21.0,0,0,0.0,0,0,0,0,0,0,1
+KL32::loïc,KL32,0.0,1.0,0,1,1.0,0,0,0,1,0,0,0
+KL32::loïc,KL32,1.0,2.0,0,1,1.0,0,0,0,1,0,0,0
+KL32::loïc,KL32,2.0,3.0,0,1,1.0,0,0,0,1,0,0,0
+KL32::loïc,KL32,3.0,4.0,0,1,1.0,0,0,0,1,0,0,0
+KL32::loïc,KL32,4.0,5.0,0,1,1.0,0,0,0,1,0,0,0
+KL32::loïc,KL32,5.0,6.0,0,1,1.0,0,0,0,1,0,0,0
+KL32::loïc,KL32,6.0,7.0,0,1,1.0,0,0,0,0,1,0,0
+KL32::loïc,KL32,7.0,8.0,0,1,1.0,0,0,0,0,1,0,0
+KL32::loïc,KL32,8.0,9.0,0,1,1.0,0,0,0,0,1,0,0
+KL32::loïc,KL32,9.0,10.0,0,1,1.0,0,0,0,0,1,0,0
+KL32::loïc,KL32,10.0,11.0,0,1,1.0,0,0,0,0,1,0,0
+KL32::loïc,KL32,11.0,12.0,0,1,1.0,0,0,0,0,1,0,0
+KL32::loïc,KL32,12.0,13.0,0,1,1.0,0,0,0,0,0,1,0
+KL32::loïc,KL32,13.0,14.0,0,1,1.0,0,0,0,0,0,1,0
+KL32::loïc,KL32,14.0,15.0,0,1,1.0,0,0,0,0,0,1,0
+KL32::loïc,KL32,15.0,16.0,0,1,1.0,0,0,0,0,0,1,0
+KL32::loïc,KL32,16.0,17.0,0,1,1.0,0,0,0,0,0,1,0
+KL32::loïc,KL32,17.0,18.0,0,1,1.0,0,0,0,0,0,1,0
+KL32::loïc,KL32,18.0,19.0,0,1,1.0,0,0,0,0,0,0,1
+KL32::loïc,KL32,19.0,20.0,0,1,1.0,0,0,0,0,0,0,1
+KL32::loïc,KL32,20.0,21.0,0,1,1.0,0,0,0,0,0,0,1
+KL32::loïc,KL32,21.0,22.0,0,1,1.0,0,0,0,0,0,0,1
+KL32::brice,KL32,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::brice,KL32,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::brice,KL32,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::brice,KL32,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::brice,KL32,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::brice,KL32,5.0,6.0,0,1,0.0,0,0,0,1,0,0,0
+KL32::brice,KL32,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL32::brice,KL32,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL32::brice,KL32,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL32::brice,KL32,9.0,10.0,0,1,0.0,0,0,0,0,1,0,0
+KL32::brice,KL32,10.0,11.0,0,1,0.0,0,0,0,0,1,0,0
+KL32::brice,KL32,11.0,12.0,0,1,0.0,0,0,0,0,1,0,0
+KL32::brice,KL32,12.0,13.0,0,1,0.0,0,0,0,0,0,1,0
+KL32::brice,KL32,13.0,14.0,0,1,0.0,0,0,0,0,0,1,0
+KL32::brice,KL32,14.0,15.0,0,1,0.0,0,0,0,0,0,1,0
+KL32::brice,KL32,15.0,16.0,0,1,0.0,0,0,0,0,0,1,0
+KL32::brice,KL32,16.0,17.0,0,1,0.0,0,0,0,0,0,1,0
+KL32::brice,KL32,17.0,18.0,0,1,0.0,0,0,0,0,0,1,0
+KL32::brice,KL32,18.0,19.0,0,1,0.0,0,0,0,0,0,0,1
+KL32::brice,KL32,19.0,20.0,0,1,0.0,0,0,0,0,0,0,1
+KL32::brice,KL32,20.0,21.0,0,1,0.0,0,0,0,0,0,0,1
+KL32::brice,KL32,21.0,22.0,0,1,0.0,0,0,0,0,0,0,1
+KL32::brice,KL32,22.0,23.0,0,1,0.0,0,0,0,0,0,0,1
+KL32::alexandra,KL32,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,18.0,19.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,19.0,20.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,20.0,21.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,21.0,22.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,22.0,23.0,0,0,0.0,0,0,0,0,0,0,0
+KL32::alexandra,KL32,23.0,24.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::sylviane,KL33,0.0,1.0,1,0,1.0,1,0,0,0,0,0,0
+KL33::marie,KL33,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::marie,KL33,1.0,2.0,1,0,0.0,0,0,0,0,0,0,0
+KL33::élodie,KL33,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::élodie,KL33,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::élodie,KL33,2.0,3.0,1,0,0.0,1,0,0,0,0,0,0
+KL33::candice,KL33,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::candice,KL33,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::candice,KL33,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::candice,KL33,3.0,4.0,1,0,0.0,0,0,0,0,0,0,0
+KL33::gabin,KL33,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::gabin,KL33,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::gabin,KL33,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::gabin,KL33,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::gabin,KL33,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::aurélien,KL33,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::aurélien,KL33,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::aurélien,KL33,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::aurélien,KL33,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::aurélien,KL33,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::aurélien,KL33,5.0,6.0,1,1,0.0,0,0,0,0,0,0,0
+KL33::frédéric,KL33,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL33::frédéric,KL33,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL33::frédéric,KL33,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL33::frédéric,KL33,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL33::frédéric,KL33,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL33::frédéric,KL33,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL33::frédéric,KL33,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL33::hervé,KL33,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::hervé,KL33,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::hervé,KL33,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::hervé,KL33,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::hervé,KL33,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::hervé,KL33,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::hervé,KL33,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::hervé,KL33,7.0,8.0,1,1,0.0,1,0,0,0,0,0,0
+KL33::mathieu,KL33,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::shanice,KL33,9.0,10.0,1,0,0.0,0,0,0,0,0,0,0
+KL33::myriam,KL33,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::myriam,KL33,10.0,11.0,1,0,0.0,1,0,0,0,0,0,0
+KL33::vincent,KL33,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::vincent,KL33,11.0,12.0,1,1,0.0,0,0,0,0,0,0,0
+KL33::laëtitia,KL33,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::laëtitia,KL33,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::thomas,KL33,13.0,14.0,1,1,0.0,1,0,0,0,0,0,0
+KL33::flavio,KL33,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::flavio,KL33,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL33::magali,KL33,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,5.0,6.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,6.0,7.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,7.0,8.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,8.0,9.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,9.0,10.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,10.0,11.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,11.0,12.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,12.0,13.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,13.0,14.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,14.0,15.0,0,0,0.0,0,1,0,0,0,0,0
+KL33::magali,KL33,15.0,16.0,1,0,0.0,0,1,0,0,0,0,0
+KL33::arnaud,KL33,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::arnaud,KL33,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL33::laure,KL33,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::laure,KL33,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,12.0,13.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,13.0,14.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,14.0,15.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,15.0,16.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,16.0,17.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,17.0,18.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::jonathan,KL33,18.0,19.0,0,1,1.0,0,0,0,0,0,0,0
+KL33::lucie,KL33,0.0,1.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,1.0,2.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,2.0,3.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,3.0,4.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,4.0,5.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,5.0,6.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,6.0,7.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,7.0,8.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,8.0,9.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,9.0,10.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,10.0,11.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,11.0,12.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,12.0,13.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,13.0,14.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,14.0,15.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,15.0,16.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,16.0,17.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,17.0,18.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,18.0,19.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::lucie,KL33,19.0,20.0,0,0,1.0,1,0,0,0,0,0,0
+KL33::maxine,KL33,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,18.0,19.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,19.0,20.0,0,0,0.0,0,0,0,0,0,0,0
+KL33::maxine,KL33,20.0,21.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::steve grenier,KL27,0.0,1.0,1,1,0.0,0,0,0,0,0,0,0
+KL27::alicia bouly,KL27,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL27::alicia bouly,KL27,1.0,2.0,1,0,0.0,0,0,0,1,0,0,0
+KL27::nathalie suhard,KL27,0.0,1.0,0,0,0.0,0,0,1,0,0,0,0
+KL27::nathalie suhard,KL27,1.0,2.0,0,0,0.0,0,0,1,0,0,0,0
+KL27::nathalie suhard,KL27,2.0,3.0,0,0,0.0,0,0,1,0,0,0,0
+KL27::william plancq,KL27,0.0,1.0,0,1,1.0,0,0,1,0,0,0,0
+KL27::william plancq,KL27,1.0,2.0,0,1,1.0,0,0,1,0,0,0,0
+KL27::william plancq,KL27,2.0,3.0,0,1,1.0,0,0,1,0,0,0,0
+KL27::william plancq,KL27,3.0,4.0,1,1,1.0,0,0,1,0,0,0,0
+KL27::alexis tchernychev,KL27,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::alexis tchernychev,KL27,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::alexis tchernychev,KL27,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::alexis tchernychev,KL27,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::alexis tchernychev,KL27,4.0,5.0,1,1,0.0,0,0,0,1,0,0,0
+KL27::émilie clavis,KL27,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL27::émilie clavis,KL27,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL27::émilie clavis,KL27,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL27::émilie clavis,KL27,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL27::émilie clavis,KL27,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL27::émilie clavis,KL27,5.0,6.0,1,0,0.0,0,1,0,0,0,0,0
+KL27::sarah diawara,KL27,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::sarah diawara,KL27,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::sarah diawara,KL27,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::sarah diawara,KL27,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::sarah diawara,KL27,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::sarah diawara,KL27,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::sarah diawara,KL27,6.0,7.0,1,0,0.0,0,0,0,0,0,0,0
+KL27::maxime barbet,KL27,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::maxime barbet,KL27,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::maxime barbet,KL27,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::maxime barbet,KL27,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::maxime barbet,KL27,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::maxime barbet,KL27,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::maxime barbet,KL27,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::maxime barbet,KL27,7.0,8.0,1,1,0.0,1,0,0,0,0,0,0
+KL27::ricky poyet,KL27,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::ricky poyet,KL27,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::ricky poyet,KL27,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::ricky poyet,KL27,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::ricky poyet,KL27,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::ricky poyet,KL27,5.0,6.0,0,1,0.0,0,0,0,1,0,0,0
+KL27::ricky poyet,KL27,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL27::ricky poyet,KL27,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL27::ricky poyet,KL27,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL27::léa notardonato,KL27,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL27::léa notardonato,KL27,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL27::léa notardonato,KL27,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL27::léa notardonato,KL27,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL27::léa notardonato,KL27,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL27::léa notardonato,KL27,5.0,6.0,0,0,0.0,0,0,0,1,0,0,0
+KL27::léa notardonato,KL27,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL27::léa notardonato,KL27,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL27::léa notardonato,KL27,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL27::léa notardonato,KL27,9.0,10.0,1,0,0.0,0,0,0,0,1,0,0
+KL27::océane montenegro,KL27,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::océane montenegro,KL27,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,11.0,12.0,1,0,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL27::jean belmonte,KL27,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,15.0,16.0,1,0,0.0,0,0,0,0,0,0,0
+KL27::david murail,KL27,0.0,1.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,1.0,2.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,2.0,3.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,3.0,4.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,4.0,5.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,5.0,6.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,6.0,7.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,7.0,8.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,8.0,9.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,9.0,10.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,10.0,11.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,11.0,12.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,12.0,13.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,13.0,14.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,14.0,15.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,15.0,16.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::david murail,KL27,16.0,17.0,1,1,1.0,1,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,17.0,18.0,1,1,0.0,0,0,0,0,0,0,0
+KL27::amri madani,KL27,0.0,1.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,1.0,2.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,2.0,3.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,3.0,4.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,4.0,5.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,5.0,6.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,6.0,7.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,7.0,8.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,8.0,9.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,9.0,10.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,10.0,11.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,11.0,12.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,12.0,13.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,13.0,14.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,14.0,15.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,15.0,16.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,16.0,17.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,17.0,18.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::amri madani,KL27,18.0,19.0,0,1,1.0,1,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,17.0,18.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,18.0,19.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,19.0,20.0,0,0,0.0,0,0,0,0,0,0,0
+KL27::julie rignault,KL27,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,14.0,15.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,15.0,16.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,16.0,17.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,17.0,18.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,18.0,19.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,19.0,20.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,20.0,21.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::meïssa seck,KL27,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,18.0,19.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,19.0,20.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,20.0,21.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::meïssa seck,KL27,21.0,22.0,0,1,0.0,0,0,0,0,0,0,0
+KL27::léa sahin,KL27,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,14.0,15.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,15.0,16.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,16.0,17.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,17.0,18.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,18.0,19.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,19.0,20.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,20.0,21.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,21.0,22.0,0,0,0.0,1,0,0,0,0,0,0
+KL27::léa sahin,KL27,22.0,23.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::mélanie,KL15,0.0,1.0,1,0,0.0,0,0,0,0,0,0,0
+KL15::mickaël,KL15,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::mickaël,KL15,1.0,2.0,1,1,0.0,0,0,1,0,0,0,0
+KL15::sara [ n 1 ],KL15,0.0,1.0,0,0,1.0,1,0,0,0,0,0,0
+KL15::sara [ n 1 ],KL15,1.0,2.0,0,0,1.0,1,0,0,0,0,0,0
+KL15::sara [ n 1 ],KL15,2.0,3.0,0,0,1.0,1,0,0,0,0,0,0
+KL15::nadine,KL15,0.0,1.0,0,0,0.0,0,0,1,0,0,0,0
+KL15::nadine,KL15,1.0,2.0,0,0,0.0,0,0,1,0,0,0,0
+KL15::nadine,KL15,2.0,3.0,0,0,0.0,0,0,1,0,0,0,0
+KL15::nadine,KL15,3.0,4.0,1,0,0.0,0,0,1,0,0,0,0
+KL15::élodie,KL15,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::élodie,KL15,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::élodie,KL15,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::élodie,KL15,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::élodie,KL15,4.0,5.0,1,0,0.0,1,0,0,0,0,0,0
+KL15::marie [ n 2 ],KL15,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::marie [ n 2 ],KL15,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::marie [ n 2 ],KL15,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::marie [ n 2 ],KL15,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::marie [ n 2 ],KL15,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::marie [ n 2 ],KL15,5.0,6.0,1,0,0.0,0,0,0,0,1,0,0
+KL15::anthony,KL15,0.0,1.0,0,1,1.0,0,0,0,1,0,0,0
+KL15::anthony,KL15,1.0,2.0,0,1,1.0,0,0,0,1,0,0,0
+KL15::anthony,KL15,2.0,3.0,0,1,1.0,0,0,0,1,0,0,0
+KL15::anthony,KL15,3.0,4.0,0,1,1.0,0,0,0,1,0,0,0
+KL15::anthony,KL15,4.0,5.0,0,1,1.0,0,0,0,1,0,0,0
+KL15::anthony,KL15,5.0,6.0,0,1,1.0,0,0,0,0,1,0,0
+KL15::anthony,KL15,6.0,7.0,0,1,1.0,0,0,0,0,1,0,0
+KL15::javier [ n 3 ],KL15,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,7.0,8.0,1,1,0.0,1,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,8.0,9.0,1,1,0.0,0,0,0,0,0,0,0
+KL15::marylou,KL15,0.0,1.0,0,0,1.0,0,0,0,1,0,0,0
+KL15::marylou,KL15,1.0,2.0,0,0,1.0,0,0,0,1,0,0,0
+KL15::marylou,KL15,2.0,3.0,0,0,1.0,0,0,0,1,0,0,0
+KL15::marylou,KL15,3.0,4.0,0,0,1.0,0,0,0,1,0,0,0
+KL15::marylou,KL15,4.0,5.0,0,0,1.0,0,0,0,1,0,0,0
+KL15::marylou,KL15,5.0,6.0,0,0,1.0,0,0,0,0,1,0,0
+KL15::marylou,KL15,6.0,7.0,0,0,1.0,0,0,0,0,1,0,0
+KL15::marylou,KL15,7.0,8.0,0,0,1.0,0,0,0,0,1,0,0
+KL15::marylou,KL15,8.0,9.0,0,0,1.0,0,0,0,0,1,0,0
+KL15::marylou,KL15,9.0,10.0,1,0,1.0,0,0,0,0,1,0,0
+KL15::catherine,KL15,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::catherine,KL15,10.0,11.0,1,0,0.0,1,0,0,0,0,0,0
+KL15::camille,KL15,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::camille,KL15,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::camille,KL15,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::camille,KL15,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::camille,KL15,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL15::camille,KL15,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL15::camille,KL15,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL15::camille,KL15,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL15::camille,KL15,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL15::camille,KL15,9.0,10.0,0,0,0.0,0,0,0,0,1,0,0
+KL15::camille,KL15,10.0,11.0,0,0,0.0,0,0,0,0,0,1,0
+KL15::camille,KL15,11.0,12.0,0,0,0.0,0,0,0,0,0,1,0
+KL15::charles,KL15,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL15::charles,KL15,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL15::charles,KL15,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL15::charles,KL15,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL15::charles,KL15,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL15::charles,KL15,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL15::charles,KL15,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL15::charles,KL15,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL15::charles,KL15,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL15::charles,KL15,9.0,10.0,0,1,0.0,0,0,0,0,1,0,0
+KL15::charles,KL15,10.0,11.0,0,1,0.0,0,0,0,0,0,1,0
+KL15::charles,KL15,11.0,12.0,0,1,0.0,0,0,0,0,0,1,0
+KL15::charles,KL15,12.0,13.0,0,1,0.0,0,0,0,0,0,1,0
+KL15::thierry,KL15,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::thierry,KL15,13.0,14.0,1,1,0.0,1,0,0,0,0,0,0
+KL15::myriam,KL15,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL15::myriam,KL15,14.0,15.0,1,0,0.0,0,0,0,0,0,0,0
+KL15::bernard,KL15,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,1.0,2.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,2.0,3.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,3.0,4.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,4.0,5.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,5.0,6.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,6.0,7.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,7.0,8.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,8.0,9.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,9.0,10.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,10.0,11.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,11.0,12.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,12.0,13.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,13.0,14.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,14.0,15.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::bernard,KL15,15.0,16.0,0,1,0.0,0,0,1,0,0,0,0
+KL15::philippe [ n 5 ],KL15,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,14.0,15.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,15.0,16.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,16.0,17.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::vanessa,KL15,17.0,18.0,0,0,0.0,1,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::brice [ n 6 ],KL15,18.0,19.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,18.0,19.0,0,1,0.0,0,0,0,0,0,0,0
+KL15::ugo [ n 7 ],KL15,19.0,20.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::xavier,KL02,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::caroline mercier,KL02,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::caroline mercier,KL02,1.0,2.0,1,0,0.0,0,0,0,0,0,0,0
+KL02::céline genty,KL02,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::céline genty,KL02,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::céline genty,KL02,2.0,3.0,1,0,0.0,0,0,0,0,0,0,0
+KL02::nelly,KL02,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL02::nelly,KL02,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL02::nelly,KL02,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL02::nelly,KL02,3.0,4.0,1,0,0.0,0,0,0,1,0,0,0
+KL02::pierre,KL02,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL02::pierre,KL02,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL02::pierre,KL02,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL02::pierre,KL02,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL02::pierre,KL02,4.0,5.0,1,1,0.0,0,0,0,0,1,0,0
+KL02::jacky,KL02,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::jacky,KL02,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::jacky,KL02,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::jacky,KL02,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::jacky,KL02,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::jacky,KL02,5.0,6.0,1,1,0.0,0,1,0,0,0,0,0
+KL02::adonis,KL02,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::adonis,KL02,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::adonis,KL02,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::adonis,KL02,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::adonis,KL02,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::adonis,KL02,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::adonis,KL02,6.0,7.0,1,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,7.0,8.0,1,1,0.0,0,0,0,0,0,0,0
+KL02::béatrice,KL02,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL02::béatrice,KL02,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL02::béatrice,KL02,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL02::béatrice,KL02,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL02::béatrice,KL02,4.0,5.0,0,0,0.0,0,0,0,0,1,0,0
+KL02::béatrice,KL02,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL02::béatrice,KL02,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL02::béatrice,KL02,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL02::béatrice,KL02,8.0,9.0,1,0,0.0,0,0,0,0,0,1,0
+KL02::françois-xavier,KL02,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL02::françois-xavier,KL02,9.0,10.0,1,1,0.0,1,0,0,0,0,0,0
+KL02::isabelle,KL02,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,10.0,11.0,1,0,0.0,0,0,0,0,0,0,0
+KL02::maud,KL02,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL02::maud,KL02,11.0,12.0,1,0,0.0,1,0,0,0,0,0,0
+KL02::marianne,KL02,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::marianne,KL02,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::bernard,KL02,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL02::nicolas roy,KL02,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,13.0,14.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::nicolas roy,KL02,14.0,15.0,0,1,0.0,0,1,0,0,0,0,0
+KL02::amel fatnassi,KL02,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL02::amel fatnassi,KL02,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::ali,KL07,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::pascale,KL07,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::pascale,KL07,1.0,2.0,1,0,0.0,1,0,0,0,0,0,0
+KL07::marie-laure,KL07,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::marie-laure,KL07,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::marie-laure,KL07,2.0,3.0,1,0,0.0,1,0,0,0,0,0,0
+KL07::mélanie,KL07,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL07::mélanie,KL07,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL07::mélanie,KL07,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL07::mélanie,KL07,3.0,4.0,1,0,0.0,0,0,0,1,0,0,0
+KL07::véronique barriol,KL07,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL07::véronique barriol,KL07,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL07::véronique barriol,KL07,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL07::véronique barriol,KL07,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL07::véronique barriol,KL07,4.0,5.0,1,0,0.0,0,0,0,0,1,0,0
+KL07::chloé,KL07,0.0,1.0,0,0,0.0,0,1,0,0,0,0,0
+KL07::chloé,KL07,1.0,2.0,0,0,0.0,0,1,0,0,0,0,0
+KL07::chloé,KL07,2.0,3.0,0,0,0.0,0,1,0,0,0,0,0
+KL07::chloé,KL07,3.0,4.0,0,0,0.0,0,1,0,0,0,0,0
+KL07::chloé,KL07,4.0,5.0,0,0,0.0,0,1,0,0,0,0,0
+KL07::chloé,KL07,5.0,6.0,1,0,0.0,0,1,0,0,0,0,0
+KL07::érick,KL07,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::érick,KL07,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::érick,KL07,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::érick,KL07,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::érick,KL07,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::érick,KL07,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::érick,KL07,6.0,7.0,1,1,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL07::filomène,KL07,7.0,8.0,1,0,0.0,0,0,0,0,0,0,0
+KL07::adrien,KL07,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::adrien,KL07,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL07::grégoire,KL07,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::grégoire,KL07,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::grégoire,KL07,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::grégoire,KL07,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::grégoire,KL07,4.0,5.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::grégoire,KL07,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::grégoire,KL07,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::grégoire,KL07,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::grégoire,KL07,8.0,9.0,0,1,0.0,0,0,0,0,0,1,0
+KL07::grégoire,KL07,9.0,10.0,1,1,0.0,0,0,0,0,0,1,0
+KL07::laurent,KL07,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,1.0,2.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,2.0,3.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,3.0,4.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,4.0,5.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,5.0,6.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,6.0,7.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,7.0,8.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,8.0,9.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,9.0,10.0,0,1,0.0,0,0,1,0,0,0,0
+KL07::laurent,KL07,10.0,11.0,1,1,0.0,0,0,1,0,0,0,0
+KL07::patrick,KL07,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::patrick,KL07,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::patrick,KL07,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::patrick,KL07,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL07::patrick,KL07,4.0,5.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::patrick,KL07,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::patrick,KL07,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::patrick,KL07,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL07::patrick,KL07,8.0,9.0,0,1,0.0,0,0,0,0,0,1,0
+KL07::patrick,KL07,9.0,10.0,0,1,0.0,0,0,0,0,0,1,0
+KL07::patrick,KL07,10.0,11.0,0,1,0.0,0,0,0,0,0,1,0
+KL07::patrick,KL07,11.0,12.0,1,1,0.0,0,0,0,0,0,1,0
+KL07::simon,KL07,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::simon,KL07,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::maryline,KL07,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::maryline,KL07,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::kévin cuoco,KL07,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL07::jade handi,KL07,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,13.0,14.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,14.0,15.0,0,0,0.0,1,0,0,0,0,0,0
+KL07::jade handi,KL07,15.0,16.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::lisa legouverneur,KL13,0.0,1.0,1,0,0.0,0,0,0,0,0,0,0
+KL13::catherine diard,KL13,0.0,1.0,0,0,1.0,0,1,0,0,0,0,0
+KL13::catherine diard,KL13,1.0,2.0,1,0,1.0,0,1,0,0,0,0,0
+KL13::steve lemercier,KL13,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::steve lemercier,KL13,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::steve lemercier,KL13,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+"KL13::gérard ""gégé"" icardi",KL13,0.0,1.0,0,1,0.0,0,0,1,0,0,0,0
+"KL13::gérard ""gégé"" icardi",KL13,1.0,2.0,0,1,0.0,0,0,1,0,0,0,0
+"KL13::gérard ""gégé"" icardi",KL13,2.0,3.0,0,1,0.0,0,0,1,0,0,0,0
+"KL13::gérard ""gégé"" icardi",KL13,3.0,4.0,1,1,0.0,0,0,1,0,0,0,0
+"KL13::nawal ""naouel"" hadjaf",KL13,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+"KL13::nawal ""naouel"" hadjaf",KL13,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+"KL13::nawal ""naouel"" hadjaf",KL13,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+"KL13::nawal ""naouel"" hadjaf",KL13,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+"KL13::nawal ""naouel"" hadjaf",KL13,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL13::benoît mahieux,KL13,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::benoît mahieux,KL13,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::benoît mahieux,KL13,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::benoît mahieux,KL13,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::benoît mahieux,KL13,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::benoît mahieux,KL13,5.0,6.0,1,1,1.0,0,0,0,0,0,0,0
+KL13::délisia fettache,KL13,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL13::délisia fettache,KL13,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL13::délisia fettache,KL13,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL13::délisia fettache,KL13,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL13::délisia fettache,KL13,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL13::délisia fettache,KL13,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL13::délisia fettache,KL13,6.0,7.0,1,0,0.0,0,0,0,0,1,0,0
+KL13::caroline matteucci,KL13,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,7.0,8.0,1,0,0.0,1,0,0,0,0,0,0
+KL13::maxime boulet,KL13,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::maxime boulet,KL13,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::maxime boulet,KL13,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::maxime boulet,KL13,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::maxime boulet,KL13,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::maxime boulet,KL13,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::maxime boulet,KL13,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::maxime boulet,KL13,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::maxime boulet,KL13,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::anthony amar,KL13,0.0,1.0,0,1,1.0,0,0,0,1,0,0,0
+KL13::anthony amar,KL13,1.0,2.0,0,1,1.0,0,0,0,1,0,0,0
+KL13::anthony amar,KL13,2.0,3.0,0,1,1.0,0,0,0,1,0,0,0
+KL13::anthony amar,KL13,3.0,4.0,0,1,1.0,0,0,0,1,0,0,0
+KL13::anthony amar,KL13,4.0,5.0,0,1,1.0,0,0,0,1,0,0,0
+KL13::anthony amar,KL13,5.0,6.0,0,1,1.0,0,0,0,0,1,0,0
+KL13::anthony amar,KL13,6.0,7.0,0,1,1.0,0,0,0,0,1,0,0
+KL13::anthony amar,KL13,7.0,8.0,0,1,1.0,0,0,0,0,1,0,0
+KL13::anthony amar,KL13,8.0,9.0,0,1,1.0,0,0,0,0,1,0,0
+KL13::anthony amar,KL13,9.0,10.0,1,1,1.0,0,0,0,0,1,0,0
+KL13::olivier moenaert,KL13,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,10.0,11.0,1,1,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,11.0,12.0,1,0,0.0,1,0,0,0,0,0,0
+KL13::virginie jarry,KL13,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::patricia morel,KL13,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,11.0,12.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,12.0,13.0,0,0,0.0,1,0,0,0,0,0,0
+KL13::patricia morel,KL13,13.0,14.0,1,0,0.0,1,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,14.0,15.0,1,0,0.0,0,0,0,0,0,0,0
+KL13::martin bazin,KL13,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::martin bazin,KL13,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::martin bazin,KL13,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::martin bazin,KL13,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::martin bazin,KL13,4.0,5.0,0,1,0.0,0,0,0,1,0,0,0
+KL13::martin bazin,KL13,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::martin bazin,KL13,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::martin bazin,KL13,7.0,8.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::martin bazin,KL13,8.0,9.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::martin bazin,KL13,9.0,10.0,0,1,0.0,0,0,0,0,1,0,0
+KL13::martin bazin,KL13,10.0,11.0,0,1,0.0,0,0,0,0,0,1,0
+KL13::martin bazin,KL13,11.0,12.0,0,1,0.0,0,0,0,0,0,1,0
+KL13::martin bazin,KL13,12.0,13.0,0,1,0.0,0,0,0,0,0,1,0
+KL13::martin bazin,KL13,13.0,14.0,0,1,0.0,0,0,0,0,0,1,0
+KL13::martin bazin,KL13,14.0,15.0,0,1,0.0,0,0,0,0,0,1,0
+KL13::martin bazin,KL13,15.0,16.0,1,1,0.0,0,0,0,0,0,0,1
+KL13::ella gbezan,KL13,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,15.0,16.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,16.0,17.0,0,0,0.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,12.0,13.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,13.0,14.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,14.0,15.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,15.0,16.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,16.0,17.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::laurent maistret,KL13,17.0,18.0,0,1,1.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,13.0,14.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,14.0,15.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,15.0,16.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,16.0,17.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,17.0,18.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::teheiura teahui,KL13,18.0,19.0,0,1,0.0,0,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,17.0,18.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,18.0,19.0,0,1,0.0,1,0,0,0,0,0,0
+KL13::gérard urdampilleta,KL13,19.0,20.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::charlie vincent-mussard,KL18,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laurence corbellotti,KL18,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL18::laurence corbellotti,KL18,1.0,2.0,1,0,0.0,1,0,0,0,0,0,0
+KL18::marius torterat,KL18,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL18::marius torterat,KL18,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL18::marius torterat,KL18,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL18::céline parat-yeghiayan,KL18,0.0,1.0,0,0,1.0,1,0,0,0,0,0,0
+KL18::céline parat-yeghiayan,KL18,1.0,2.0,0,0,1.0,1,0,0,0,0,0,0
+KL18::céline parat-yeghiayan,KL18,2.0,3.0,0,0,1.0,1,0,0,0,0,0,0
+KL18::céline parat-yeghiayan,KL18,3.0,4.0,1,0,1.0,1,0,0,0,0,0,0
+KL18::huw francis,KL18,0.0,1.0,0,1,1.0,1,0,0,0,0,0,0
+KL18::huw francis,KL18,1.0,2.0,0,1,1.0,1,0,0,0,0,0,0
+KL18::huw francis,KL18,2.0,3.0,0,1,1.0,1,0,0,0,0,0,0
+KL18::huw francis,KL18,3.0,4.0,0,1,1.0,1,0,0,0,0,0,0
+KL18::huw francis,KL18,4.0,5.0,1,1,1.0,1,0,0,0,0,0,0
+KL18::carole poncelet,KL18,0.0,1.0,0,0,1.0,0,1,0,0,0,0,0
+KL18::carole poncelet,KL18,1.0,2.0,0,0,1.0,0,1,0,0,0,0,0
+KL18::carole poncelet,KL18,2.0,3.0,0,0,1.0,0,1,0,0,0,0,0
+KL18::carole poncelet,KL18,3.0,4.0,0,0,1.0,0,1,0,0,0,0,0
+KL18::carole poncelet,KL18,4.0,5.0,0,0,1.0,0,1,0,0,0,0,0
+KL18::carole poncelet,KL18,5.0,6.0,1,0,1.0,0,1,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,0.0,1.0,0,0,1.0,0,1,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,1.0,2.0,0,0,1.0,0,1,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,2.0,3.0,0,0,1.0,0,1,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,3.0,4.0,0,0,1.0,0,1,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,4.0,5.0,0,0,1.0,0,1,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,5.0,6.0,0,0,1.0,0,1,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,6.0,7.0,1,0,1.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::amir doukhan,KL18,7.0,8.0,1,1,0.0,0,1,0,0,0,0,0
+KL18::cassandre girard,KL18,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL18::cassandre girard,KL18,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL18::cassandre girard,KL18,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL18::cassandre girard,KL18,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL18::cassandre girard,KL18,4.0,5.0,0,0,0.0,0,0,0,1,0,0,0
+KL18::cassandre girard,KL18,5.0,6.0,0,0,0.0,0,0,0,0,1,0,0
+KL18::cassandre girard,KL18,6.0,7.0,0,0,0.0,0,0,0,0,1,0,0
+KL18::cassandre girard,KL18,7.0,8.0,0,0,0.0,0,0,0,0,1,0,0
+KL18::cassandre girard,KL18,8.0,9.0,0,0,0.0,0,0,0,0,1,0,0
+KL18::romain palazzetti,KL18,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,9.0,10.0,1,1,1.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,10.0,11.0,1,1,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,11.0,12.0,1,0,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL18::steve best,KL18,12.0,13.0,1,1,0.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,13.0,14.0,1,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,14.0,15.0,1,0,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,0.0,1.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,1.0,2.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,2.0,3.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,3.0,4.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,4.0,5.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,5.0,6.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,6.0,7.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,7.0,8.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,8.0,9.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,9.0,10.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,10.0,11.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,11.0,12.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,12.0,13.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,13.0,14.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,14.0,15.0,0,1,1.0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,15.0,16.0,1,1,1.0,0,0,0,0,0,0,0
+KL18::alain chrisostome,KL18,0.0,1.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,1.0,2.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,2.0,3.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,3.0,4.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,4.0,5.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,5.0,6.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,6.0,7.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,7.0,8.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,8.0,9.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,9.0,10.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,10.0,11.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,11.0,12.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,12.0,13.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,13.0,14.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,14.0,15.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,15.0,16.0,0,1,1.0,0,0,1,0,0,0,0
+KL18::alain chrisostome,KL18,16.0,17.0,1,1,1.0,0,0,1,0,0,0,0
+KL18::cécilia siharaj,KL18,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,14.0,15.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,15.0,16.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,16.0,17.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,17.0,18.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,16.0,17.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,17.0,18.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,18.0,19.0,0,1,0.0,1,0,0,0,0,0,0
+KL18::pascal salviani,KL18,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,2.0,3.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,3.0,4.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,4.0,5.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,5.0,6.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,6.0,7.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,7.0,8.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,8.0,9.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,9.0,10.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,10.0,11.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,11.0,12.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,12.0,13.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,13.0,14.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,14.0,15.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,15.0,16.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,16.0,17.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,17.0,18.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,18.0,19.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::pascal salviani,KL18,19.0,20.0,0,1,0.0,0,1,0,0,0,0,0
+KL18::wendy gervois,KL18,0.0,1.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,1.0,2.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,2.0,3.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,3.0,4.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,4.0,5.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,5.0,6.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,6.0,7.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,7.0,8.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,8.0,9.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,9.0,10.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,10.0,11.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,11.0,12.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,12.0,13.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,13.0,14.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,14.0,15.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,15.0,16.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,16.0,17.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,17.0,18.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,18.0,19.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,19.0,20.0,0,0,1.0,0,0,0,0,0,0,0
+KL18::wendy gervois,KL18,20.0,21.0,0,0,1.0,0,0,0,0,0,0,0
+KL01::marie,KL01,0.0,1.0,1,0,0.0,0,0,0,1,0,0,0
+KL01::guillaume noël,KL01,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::guillaume noël,KL01,1.0,2.0,1,1,0.0,0,0,0,1,0,0,0
+KL01::jean-luc,KL01,0.0,1.0,0,1,0.0,0,1,0,0,0,0,0
+KL01::jean-luc,KL01,1.0,2.0,0,1,0.0,0,1,0,0,0,0,0
+KL01::jean-luc,KL01,2.0,3.0,1,1,0.0,0,1,0,0,0,0,0
+KL01::gaël,KL01,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL01::gaël,KL01,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL01::gaël,KL01,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL01::gaël,KL01,3.0,4.0,1,0,0.0,0,0,0,1,0,0,0
+KL01::harry,KL01,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::harry,KL01,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::harry,KL01,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::harry,KL01,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::harry,KL01,4.0,5.0,1,1,0.0,1,0,0,0,0,0,0
+KL01::sandra,KL01,0.0,1.0,0,0,0.0,0,0,0,1,0,0,0
+KL01::sandra,KL01,1.0,2.0,0,0,0.0,0,0,0,1,0,0,0
+KL01::sandra,KL01,2.0,3.0,0,0,0.0,0,0,0,1,0,0,0
+KL01::sandra,KL01,3.0,4.0,0,0,0.0,0,0,0,1,0,0,0
+KL01::sandra,KL01,4.0,5.0,0,0,0.0,0,0,0,0,1,0,0
+KL01::sandra,KL01,5.0,6.0,1,0,0.0,0,0,0,0,1,0,0
+KL01::david,KL01,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::david,KL01,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::david,KL01,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::david,KL01,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::david,KL01,4.0,5.0,0,1,0.0,0,0,0,0,1,0,0
+KL01::david,KL01,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL01::david,KL01,6.0,7.0,1,1,0.0,0,0,0,0,1,0,0
+KL01::stéphane,KL01,0.0,1.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::stéphane,KL01,1.0,2.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::stéphane,KL01,2.0,3.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::stéphane,KL01,3.0,4.0,0,1,0.0,0,0,0,1,0,0,0
+KL01::stéphane,KL01,4.0,5.0,0,1,0.0,0,0,0,0,1,0,0
+KL01::stéphane,KL01,5.0,6.0,0,1,0.0,0,0,0,0,1,0,0
+KL01::stéphane,KL01,6.0,7.0,0,1,0.0,0,0,0,0,1,0,0
+KL01::stéphane,KL01,7.0,8.0,1,1,0.0,0,0,0,0,1,0,0
+KL01::géraldine drouhet,KL01,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,8.0,9.0,1,0,0.0,0,0,0,0,0,0,0
+KL01::michèle,KL01,0.0,1.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,1.0,2.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,2.0,3.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,3.0,4.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,4.0,5.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,5.0,6.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,6.0,7.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,7.0,8.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,8.0,9.0,0,0,0.0,0,0,1,0,0,0,0
+KL01::michèle,KL01,9.0,10.0,1,0,0.0,0,0,1,0,0,0,0
+KL01::william,KL01,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::william,KL01,10.0,11.0,1,1,0.0,0,0,0,0,0,0,0
+KL01::françoise,KL01,0.0,1.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,1.0,2.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,2.0,3.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,3.0,4.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,4.0,5.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,5.0,6.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,6.0,7.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,7.0,8.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,8.0,9.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,9.0,10.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,10.0,11.0,0,0,0.0,1,0,0,0,0,0,0
+KL01::françoise,KL01,11.0,12.0,1,0,0.0,1,0,0,0,0,0,0
+KL01::romain,KL01,0.0,1.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,1.0,2.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,2.0,3.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,3.0,4.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,4.0,5.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,5.0,6.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,6.0,7.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,7.0,8.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,8.0,9.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,9.0,10.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,10.0,11.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,11.0,12.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::romain,KL01,12.0,13.0,0,1,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::patricia,KL01,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,0.0,1.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,1.0,2.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,2.0,3.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,3.0,4.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,4.0,5.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,5.0,6.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,6.0,7.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,7.0,8.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,8.0,9.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,9.0,10.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,10.0,11.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,11.0,12.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,12.0,13.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,13.0,14.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,14.0,15.0,0,0,0.0,0,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,0.0,1.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,1.0,2.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,2.0,3.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,3.0,4.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,4.0,5.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,5.0,6.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,6.0,7.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,7.0,8.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,8.0,9.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,9.0,10.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,10.0,11.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,11.0,12.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,12.0,13.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,13.0,14.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,14.0,15.0,0,1,0.0,1,0,0,0,0,0,0
+KL01::gilles nicolet,KL01,15.0,16.0,0,1,0.0,1,0,0,0,0,0,0

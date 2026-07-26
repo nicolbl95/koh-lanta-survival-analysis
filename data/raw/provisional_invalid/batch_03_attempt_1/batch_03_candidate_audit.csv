@@ -1,0 +1,94 @@
+season_name,candidate_name,final_exit_order,departure_description_raw,departure_type_normalized,departure_model_category,all_cause_exit_event,censored_at_end,returned_after_medical_replacement,needs_departure_enrichment,audit_status,audit_warning
+Koh-Lanta : Cambodge,Dylan Thiry,1,1st Voted Out Day 3,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Sabine Ollivier,2,2nd Voted Out Day 6,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Hada Ghoulam,3,3rd Voted Out Day 9,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Franck Schlienger,4,4th Voted Out Day 12,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Félicie Greugny,5,5th Voted Out Day 15,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Brahma Sadeyen,6,Left Competition Day 16,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Cambodge,Kelly Beaugrand Returned to Game,7,6th Voted Out Day 18,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Cambodge,Bastien Muñez,8,Medically evacuated Day 18,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Cambodge,Maria Beccaris,9,Lost Challenge Day 19,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Yves Rey,10,7th Voted Out Day 20,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Yassin Metiri,11,8th Voted Out Day 22,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Vincent Roux Returned to Game,12,9th Voted Out Day 23,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Manuella Baudet,13,Medically evacuated Day 25,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Sandro Gonzalez Schena,14,10th Voted Out 1st jury member Day 26,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Marjorie Rousseeuw,15,11th Voted Out 2nd jury member Day 29,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Corentin Albertini,16,12th Voted Out 3rd jury member Day 32,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Cambodge,Kelly Beaugrand,17,13th Voted Out 4th jury member Day 32,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Cambodge,Claire Pradayrol,18,13th Voted Out 5th jury member Day 35,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Sébastien Gottiniaux,19,14th Voted Out 6th jury member Day 38,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Mathilde Chevalier,20,Lost Challenge 7th jury member Day 39,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS,
+Koh-Lanta : Cambodge,Vincent Roux,21,15th Voted Out 8th jury member Day 40,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Cambodge,Clémentine Jullien,22,Runner-Up Day 40,FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Cambodge,Frédéric Blancher,23,Sole Survivor Day 40,VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : La Guerre des Chefs,Aliséa,1,"Abandon médical [ 5 ] , [ 6 ]",ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : La Guerre des Chefs,Carinne,2,Abandon médical [ 7 ] [source secondaire souhaitée],ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : La Guerre des Chefs,Émilie,3,"Éliminée [ 8 ] , [ 9 ] [source secondaire souhaitée] , [ 10 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Victor,4,"Éliminé [ 11 ] , [ 12 ] [source secondaire souhaitée] , [ 13 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Chloé,5,"Éliminée [ 14 ] , [ 15 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Xavier,6,Éliminé [ 16 ] [source secondaire souhaitée],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Frédéric,7,"Éliminé [ 17 ] , [ 18 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Alexandre,8,"Éliminé [ 17 ] , [ 19 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Béatrice,9,"Éliminée [ 20 ] , [ 21 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Brice,10,"Éliminé [ 22 ] , [ 23 ] [source secondaire souhaitée] , [ 24 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Sophie,11,Éliminée [ 25 ] [source secondaire souhaitée],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Angélique,12,Éliminée [ 26 ] [source secondaire souhaitée],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Mohamed,13,Éliminé [ 27 ] [source secondaire souhaitée],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Nicolas,14,Éliminé [ 28 ] [source secondaire souhaitée],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Maxime,15,Éliminé [ 29 ] [source secondaire souhaitée],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Cyril,16,"Éliminé [ 30 ] [source secondaire souhaitée] , [ 31 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Clo,17,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Aurélien,18,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Steeve,19,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Guerre des Chefs,Cindy,20,Finaliste [ 32 ] [source secondaire souhaitée],FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : La Guerre des Chefs,Maud,21,Gagnante [ 33 ] [source secondaire souhaitée],VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,"Céline ""Lili"" Gasnier",1,1st Voted Out Day 2,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Céline Dufrenoy,2,2nd Voted Out Day 3,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Franck Macia,3,Left Competition Day 4,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Totem Maudit,Mattéo Real,4,3rd Voted Out Day 6,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Samira Aït-Brahim,5,4th Voted Out Day 9,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Benjamin Breerette,6,5th Voted Out Day 11,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Stéphanie Tribot Returned to Game,7,6th Voted Out Day 15,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Jean-Philippe Masy,8,Medically Evacuated Day 16,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Stéphanie Tribot,9,7th Voted Out Day 17,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Alexandra Élizé,10,8th Voted Out Day 20,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Setha El Hajjami,11,9th Voted Out Day 22,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Colin Mottas,12,10th Voted Out 1st Jury Member Day 23,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Pauline Pourchaire,13,Eliminated 2nd Jury Member Day 25,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE; Exit order ambiguity
+Koh-Lanta : Le Totem Maudit,Yannick Zachée,14,11th Voted Out 3rd Jury Member Day 25,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Le Totem Maudit,Anne-Sophie Mounier,15,12th Voted Out 4th Jury Member Day 28,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Maxime Tournoux,16,13th Voted Out 5th Jury Member Day 31,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Le Totem Maudit,Louana Roy,17,Eliminated 6th Jury Member Day 31,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE; Exit order ambiguity
+Koh-Lanta : Le Totem Maudit,Fouzi Ould Bouamama,18,Eliminated 7th Jury Member Day 33,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Totem Maudit,Nicolas Bellon,19,14th Voted Out 8th Jury Member Day 34,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Olga Khokhlova,20,15th Voted Out 9th Jury Member Day 37,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Le Totem Maudit,Ambre Daudet,21,Eliminated 10th Jury Member Day 38,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Totem Maudit,Jean-Charles Chatelus,22,16th Voted Out 11th Jury Member Day 39,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Le Totem Maudit,Géraldine Nicolle,23,Runner-Up Day 39,FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Le Totem Maudit,Bastien San Pedro,24,Dual Survivors Day 39,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE; Exit order ambiguity
+Koh-Lanta : Le Totem Maudit,François Descamp,25,Cadlao,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,François,1,"Abandon médical [ 17 ] [source secondaire souhaitée] , [ 18 ] [source secondaire souhaitée] , [ 19 ] [source secondaire souhaitée] , [ 20 ]",ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Les 4 Terres,Carole,2,"Éliminée [ 21 ] [source secondaire souhaitée] , [ 22 ] [source secondaire souhaitée] , [ 23 ] [source secondaire souhaitée] , [ 20 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Samuel,3,"Abandon médical [ 24 ] [source secondaire souhaitée] , [ 25 ] [source secondaire souhaitée] , [ 26 ] [source secondaire souhaitée]",ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Les 4 Terres,Diane,4,"Éliminée [ 27 ] [source secondaire souhaitée] , [ 28 ] [source secondaire souhaitée] , [ 29 ] [source secondaire souhaitée] , [ 30 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Estelle,5,"Éliminée [ 31 ] [source secondaire souhaitée] , [ 32 ] [source secondaire souhaitée] , [ 33 ] [source secondaire souhaitée] , [ 30 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Mathieu,6,"Éliminé [ 34 ] [source secondaire souhaitée] , [ 35 ] [source secondaire souhaitée] , [ 36 ] [source secondaire souhaitée] , [ 37 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Adrien,7,"Éliminé [ 38 ] [source secondaire souhaitée] , [ 39 ] [source secondaire souhaitée] , [ 40 ] [source secondaire souhaitée] , [ 41 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Aubin,8,"Éliminé [ 42 ] [source secondaire souhaitée] , [ 43 ] [source secondaire souhaitée] , [ 44 ] [source secondaire souhaitée] , [ 45 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Sébastien,9,"Éliminé [ 46 ] [source secondaire souhaitée] , [ 47 ] [source secondaire souhaitée] , [ 48 ] [source secondaire souhaitée] , [ 49 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Marie-France,10,"Éliminée [ 50 ] [source secondaire souhaitée] , [ 51 ] [source secondaire souhaitée] , [ 52 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Hadja,11,"Éliminée [ 53 ] [source secondaire souhaitée] , [ 54 ] [source secondaire souhaitée] , [ 55 ] [source secondaire souhaitée] , [ 56 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Bertrand-Kamal († décédé avant la finale),12,"Éliminé [ 57 ] , [ 58 ] , [ 59 ] , [ 60 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Joaquina,13,"Éliminée [ 61 ] [source secondaire souhaitée] , [ 62 ] [source secondaire souhaitée] , [ 63 ] [source secondaire souhaitée] , [ 64 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Jody,14,"Éliminée [ 65 ] [source secondaire souhaitée] , [ 66 ] [source secondaire souhaitée] , [ 67 ] [source secondaire souhaitée] , [ 68 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Laurent,15,"Éliminé [ 69 ] [source secondaire souhaitée] , [ 70 ] [source secondaire souhaitée] , [ 71 ] [source secondaire souhaitée] , [ 72 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Alix [ n° 2 ],16,"Éliminée [ 73 ] [source secondaire souhaitée] , [ 74 ] [source secondaire souhaitée] , [ 75 ] [source secondaire souhaitée] , [ 76 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Fabrice,17,"Éliminé [ 77 ] [source secondaire souhaitée] , [ 78 ] [source secondaire souhaitée] , [ 79 ] [source secondaire souhaitée] , [ 80 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Ava,18,"Éliminée [ 81 ] [source secondaire souhaitée] , [ 82 ] [source secondaire souhaitée] , [ 83 ] [source secondaire souhaitée] , [ 84 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Angélique,19,"Éliminée [ 85 ] [source secondaire souhaitée] , [ 86 ] [source secondaire souhaitée] , [ 87 ] [source secondaire souhaitée] , [ 88 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Dorian,20,"Éliminé [ 89 ] [source secondaire souhaitée] , [ 90 ] [source secondaire souhaitée] , [ 91 ] [source secondaire souhaitée] , [ 92 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Lola,21,"Éliminée [ 93 ] [source secondaire souhaitée] , [ 94 ] [source secondaire souhaitée] , [ 95 ] [source secondaire souhaitée] , [ 96 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Loïc [ n° 3 ],22,"Éliminé [ 97 ] [source secondaire souhaitée] , [ 98 ] [source secondaire souhaitée] , [ 99 ] [source secondaire souhaitée] , [ 100 ] [source secondaire souhaitée]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les 4 Terres,Brice,23,"Finaliste [ 101 ] [source secondaire souhaitée] , [ 102 ] [source secondaire souhaitée] , [ 103 ] [source secondaire souhaitée]",FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Les 4 Terres,Alexandra [ n° 4 ],24,"Vainqueur [ 104 ] [source secondaire souhaitée] , [ 105 ] [source secondaire souhaitée] , [ 106 ] [source secondaire souhaitée] , [ 107 ] [source secondaire souhaitée]",VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS,

@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+MEDICAL,Blessure / médical,RISK_SET_ROBUST,Profil physique,Profil non physique,296,20,0.06756756756756757,0.04416167512400158,0.10205419352130982
+MEDICAL,Blessure / médical,RISK_SET_ROBUST,Profil physique,Profil physique,64,3,0.046875,0.016068725432185196,0.12899860788542522

@@ -1,0 +1,9 @@
+﻿Variable,Modalité,Probabilité ajustée de victoire,Ajustement
+Sexe,Femme,0.07264724294670873,Standardisation sur les autres variables et sur la distribution des saisons
+Sexe,Homme,0.04739391172898691,Standardisation sur les autres variables et sur la distribution des saisons
+Profil physique,Profil non physique,0.0461645187968288,Standardisation sur les autres variables et sur la distribution des saisons
+Profil physique,Profil physique,0.11676143484484239,Standardisation sur les autres variables et sur la distribution des saisons
+Âge,18–25 ans,0.02247505995958148,Standardisation sur les autres variables et sur la distribution des saisons
+Âge,26–33 ans,0.08591063217998819,Standardisation sur les autres variables et sur la distribution des saisons
+Âge,34–41 ans,0.07396621152764296,Standardisation sur les autres variables et sur la distribution des saisons
+Âge,42 ans et plus,0.038560870652171196,Standardisation sur les autres variables et sur la distribution des saisons

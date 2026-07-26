@@ -1,0 +1,22 @@
+candidate_name,previous_physical_score,current_physical_score,score_changed,change_reason,expected_change,audit_status
+Charlie Vincent-Mussard,0,0,False,,True,PASS
+Laurence Corbellotti,,0,True,Manuel : danse sans intensité suffisante → 0,True,PASS
+Marius Torterat,0,0,False,,True,PASS
+Céline Parat-Yeghiayan,1,1,False,,True,PASS
+Huw Francis,1,1,False,,True,PASS
+Carole Poncelet,1,1,False,,True,PASS
+"Laurence ""Lolo"" Facione",1,1,False,,True,PASS
+Amir Doukhan,0,0,False,,True,PASS
+Cassandre Girard,0,0,False,,True,PASS
+Romain Palazzetti,,1,True,Manuel : gabarit musclé documenté → 1,True,PASS
+Julien Castro,0,0,False,,True,PASS
+Laureen Hugel,0,0,False,,True,PASS
+Steve Best,0,0,False,,True,PASS
+Carine Cazals,1,1,False,,True,PASS
+Karima Neggaz,1,1,False,,True,PASS
+Nicolas Rouyé,,1,True,"Manuel : corps d'Apollon, sculpté → 1",True,PASS
+Alain Chrisostome,1,1,False,,True,PASS
+Cécilia Siharaj,1,1,False,,True,PASS
+Gabriel Gubbels,1,1,False,,True,PASS
+Pascal Salviani,0,0,False,,True,PASS
+Wendy Gervois,1,1,False,,True,PASS

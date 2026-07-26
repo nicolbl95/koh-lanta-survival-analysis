@@ -1,0 +1,9 @@
+﻿mechanism,event_column,status
+Conseil,event_vote_conseil_combined,CONSERVÉ
+Blessure / médical,event_medical,CONSERVÉ
+Épreuve éliminatoire / mort subite,event_elimination_challenge,CONSERVÉ
+Orientation,event_finale_orientation,CONSERVÉ
+Poteaux,event_finale_poteaux,CONSERVÉ
+Jury final,event_jury_final_decision,CONSERVÉ
+Abandon volontaire,event_voluntary,RETIRÉ DU RAPPORT
+Ambassadeurs,event_ambassadeurs,RETIRÉ DU RAPPORT

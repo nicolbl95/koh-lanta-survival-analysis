@@ -1,0 +1,42 @@
+season_id,candidate_name,final_exit_order,first_exit_order,analysis_exit_order,analysis_exit_rule,departure_type_normalized,departure_model_category,departure_mechanism_known,needs_departure_enrichment,returned_to_game,all_cause_exit_event,censored_at_end,departure_review_status,departure_source_url
+KL31,Myriam Zenasni,1,1,1,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Amandine Schmitt,2,2,2,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Sophie Le Nestic Sabattier,3,3,3,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Sandrine Bouzekri,4,4,4,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Laurent Mischkind,5,5,5,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Jean-Luc Duboscq,6,6,6,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Jérôme Merlier,7,7,7,STANDARD,EPREUVE_ELIMINATOIRE,EPREUVE,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,"Laurent ""Lau"" Émilien",8,8,8,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Béryl Libault de la Chevasnerie,9,9,9,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Alexandra Pharisien,10,10,10,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Yannick Delalleau,11,11,11,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Julie Navarro-Camilleri,12,12,12,STANDARD,EPREUVE_ELIMINATOIRE,EPREUVE,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Jérémy Raffin,13,13,13,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Stéphane Cipolla,14,14,14,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Ludivine Wiart,15,15,15,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Candice Boisson,16,16,16,STANDARD,EPREUVE_ELIMINATOIRE,EPREUVE,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Bruno Troester,17,17,17,STANDARD,EPREUVE_ELIMINATOIRE,EPREUVE,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Freddy Bolzer,18,18,18,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Jesta Hillmann,19,19,19,STANDARD,FINALISTE,AUTRE_SORTIE,True,False,False,1,False,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL31,Benoît Assadi,20,20,20,STANDARD,VAINQUEUR,AUTRE_SORTIE,True,False,False,0,True,VALIDATED,https://en.wikipedia.org/wiki/Koh-Lanta:_L%27%C3%8Ele_au_Tr%C3%A9sor
+KL33,Sylviane,1,1,1,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Marie,2,2,2,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Élodie,3,3,3,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Candice,4,4,4,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Gabin,5,5,5,STANDARD,ABANDON_MEDICAL,AUTRE_SORTIE,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Aurélien,6,6,6,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Frédéric,7,7,7,STANDARD,AMBASSADEURS_ACCORD,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Hervé,8,8,8,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Mathieu,9,9,9,STANDARD,EPREUVE_ELIMINATOIRE,EPREUVE,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Shanice,10,10,10,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Myriam,11,11,11,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Vincent,12,12,12,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Laëtitia,13,13,13,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Thomas,14,14,14,STANDARD,CONSEIL,DECISION_AVENTURIERS,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Flavio,15,15,15,STANDARD,INDETERMINE,INDETERMINE,False,True,False,1,False,INSUFFICIENT_EVIDENCE,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Magali,16,5,5,FIRST_EXIT_BEFORE_MEDICAL_RETURN,CONSEIL,DECISION_AVENTURIERS,True,False,True,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Arnaud,17,17,17,STANDARD,INDETERMINE,INDETERMINE,False,True,False,1,False,INSUFFICIENT_EVIDENCE,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Laure,18,18,18,STANDARD,INDETERMINE,INDETERMINE,False,True,False,1,False,INSUFFICIENT_EVIDENCE,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Jonathan,19,19,19,STANDARD,INDETERMINE,INDETERMINE,False,True,False,1,False,INSUFFICIENT_EVIDENCE,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes#Notes_et_références
+KL33,Lucie,20,20,20,STANDARD,FINALISTE,AUTRE_SORTIE,True,False,False,1,False,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes
+KL33,Maxine,21,21,21,STANDARD,VAINQUEUR,AUTRE_SORTIE,True,False,False,0,True,VALIDATED,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_Armes_secrètes

@@ -1,0 +1,3 @@
+﻿model,term,coefficient,odds_ratio,ci_lower,ci_upper,p_value
+"Phase finale — ajusté sexe, âge et saison",physical_score,0.6182787353356367,1.8557310868864363,0.9461828055785334,3.639611549198548,0.07201848114153744
+"Victoire — ajusté sexe et âge, exploratoire",physical_score,0.8374432644907094,2.310452203556395,0.7790286097205157,6.852366290929587,0.13109953599119964

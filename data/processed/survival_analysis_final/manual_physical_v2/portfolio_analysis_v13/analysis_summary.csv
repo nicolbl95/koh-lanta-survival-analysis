@@ -1,0 +1,10 @@
+﻿Élément,Valeur
+Candidats,340
+Saisons,17
+Profils physiques,68
+Victoires / co-victoires,20
+Référence brute de victoire,0.058823529411764705
+Profil prédit favorable,Femme | 26–33 ans | Profil physique
+Profil prédit défavorable,Homme | 18–25 ans | Profil non physique
+Variance PCA expliquée axes 1+2,0.7122682466168466
+AUC CV arbre exploratoire,0.5326090645901967

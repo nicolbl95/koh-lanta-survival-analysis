@@ -1,0 +1,11 @@
+﻿group_value,candidates,events,variable
+0.0,171,114,gender_male
+1.0,169,91,gender_male
+0.0,281,171,physical_score
+1.0,59,34,physical_score
+0.0,260,155,age_18_25
+1.0,80,50,age_18_25
+0.0,248,146,age_34_41
+1.0,92,59,age_34_41
+0.0,274,168,age_42_plus
+1.0,66,37,age_42_plus

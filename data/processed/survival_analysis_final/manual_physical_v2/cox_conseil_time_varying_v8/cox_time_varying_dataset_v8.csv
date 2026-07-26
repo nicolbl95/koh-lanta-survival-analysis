@@ -1,0 +1,715 @@
+﻿candidate_season_key,season_id,age_42_plus,start,stop,event_conseil,physical_score,gender_male,age_18_25,age_34_41,phase,physical_x_middle,physical_x_late
+KL03::alexandra denikine,KL03,0,0,1.0,0,0,0,0,0,Début 1–6,0,0
+KL03::candice cohen,KL03,0,0,2.0,0,0,0,1,0,Début 1–6,0,0
+KL03::michel jeandel,KL03,0,0,3.0,0,0,1,0,1,Début 1–6,0,0
+KL03::sophie guilloix,KL03,0,0,4.0,1,0,0,0,1,Début 1–6,0,0
+KL03::julie bourdon,KL03,0,0,5.0,0,0,0,1,0,Début 1–6,0,0
+KL03::linda delamarre,KL03,0,0,6.0,1,0,0,1,0,Début 1–6,0,0
+KL03::philippe huquet,KL03,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL03::philippe huquet,KL03,1,6,7.0,0,0,1,0,0,Milieu 7–12,0,0
+KL03::alexandre bérard,KL03,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL03::alexandre bérard,KL03,0,6,8.0,1,0,1,1,0,Milieu 7–12,0,0
+KL03::richard lecourt,KL03,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL03::richard lecourt,KL03,0,6,9.0,1,0,1,0,0,Milieu 7–12,0,0
+KL03::sylvie rivoal,KL03,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL03::sylvie rivoal,KL03,0,6,10.0,1,0,0,0,0,Milieu 7–12,0,0
+KL03::sébastien loew,KL03,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL03::sébastien loew,KL03,0,6,11.0,1,0,1,0,0,Milieu 7–12,0,0
+KL03::valérie dot,KL03,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL03::valérie dot,KL03,0,6,12.0,1,0,0,0,0,Milieu 7–12,0,0
+KL03::hélène patry,KL03,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL03::hélène patry,KL03,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL03::hélène patry,KL03,0,12,13.0,1,0,0,0,0,Fin 13+,0,0
+KL03::moundir zoughari,KL03,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL03::moundir zoughari,KL03,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL03::moundir zoughari,KL03,0,12,14.0,1,1,1,0,0,Fin 13+,0,1
+KL03::antoine sanchez,KL03,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL03::antoine sanchez,KL03,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL03::antoine sanchez,KL03,1,12,15.0,0,0,1,0,0,Fin 13+,0,0
+KL03::moussa niangane,KL03,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL03::moussa niangane,KL03,0,6,12.0,0,1,1,1,0,Milieu 7–12,1,0
+KL03::moussa niangane,KL03,0,12,16.0,0,1,1,1,0,Fin 13+,0,1
+KL03::delphine bano,KL03,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL03::delphine bano,KL03,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL03::delphine bano,KL03,0,12,18.0,0,0,0,0,0,Fin 13+,0,0
+KL03::isabelle seguin,KL03,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL03::isabelle seguin,KL03,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL03::isabelle seguin,KL03,0,12,18.0,0,0,0,0,1,Fin 13+,0,0
+KL08::valérie,KL08,0,0,1.0,0,0,0,0,1,Début 1–6,0,0
+KL08::céga,KL08,1,0,2.0,0,0,1,0,0,Début 1–6,0,0
+KL08::irya,KL08,0,0,3.0,1,0,0,1,0,Début 1–6,0,0
+KL08::morgane,KL08,0,0,4.0,1,0,0,1,0,Début 1–6,0,0
+KL08::jessica,KL08,0,0,5.0,1,0,0,0,0,Début 1–6,0,0
+KL08::alain,KL08,0,0,6.0,1,1,1,1,0,Début 1–6,0,0
+KL08::jean-bernard,KL08,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL08::jean-bernard,KL08,0,6,7.0,1,0,1,0,1,Milieu 7–12,0,0
+KL08::christopher,KL08,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL08::christopher,KL08,0,6,8.0,0,1,1,0,1,Milieu 7–12,1,0
+KL08::christophe,KL08,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL08::christophe,KL08,0,6,9.0,1,1,1,0,1,Milieu 7–12,1,0
+KL08::charlène,KL08,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL08::charlène,KL08,0,6,10.0,1,0,0,1,0,Milieu 7–12,0,0
+KL08::hakim,KL08,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL08::hakim,KL08,0,6,11.0,1,0,1,0,1,Milieu 7–12,0,0
+KL08::régis,KL08,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL08::régis,KL08,0,6,12.0,1,0,1,1,0,Milieu 7–12,0,0
+KL08::carole,KL08,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL08::carole,KL08,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL08::carole,KL08,0,12,13.0,1,0,0,0,1,Fin 13+,0,0
+KL08::nathalie,KL08,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL08::nathalie,KL08,1,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL08::nathalie,KL08,1,12,14.0,0,0,0,0,0,Fin 13+,0,0
+KL08::bertrand,KL08,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL08::bertrand,KL08,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL08::bertrand,KL08,0,12,15.0,0,1,1,0,1,Fin 13+,0,1
+KL08::frédéric favier,KL08,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL08::frédéric favier,KL08,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL08::frédéric favier,KL08,0,12,16.0,0,0,1,0,0,Fin 13+,0,0
+KL08::christelle gauzet,KL08,0,0,6.0,0,1,0,0,0,Début 1–6,0,0
+KL08::christelle gauzet,KL08,0,6,12.0,0,1,0,0,0,Milieu 7–12,1,0
+KL08::christelle gauzet,KL08,0,12,17.0,0,1,0,0,0,Fin 13+,0,1
+KL17::babeth delettre,KL17,1,0,1.0,1,0,0,0,0,Début 1–6,0,0
+KL17::marie-anne queniart,KL17,0,0,2.0,1,0,0,0,1,Début 1–6,0,0
+KL17::benoît jorion-fahy,KL17,0,0,3.0,1,0,1,0,0,Début 1–6,0,0
+KL17::manon allender,KL17,0,0,4.0,0,0,0,1,0,Début 1–6,0,0
+KL17::loïc crespin,KL17,0,0,5.0,0,0,1,1,0,Début 1–6,0,0
+KL17::isabelle haouzi,KL17,1,0,6.0,1,0,0,0,0,Début 1–6,0,0
+KL17::margot perrot houwaer,KL17,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL17::margot perrot houwaer,KL17,0,6,7.0,0,0,0,1,0,Milieu 7–12,0,0
+KL17::alban pellegrin,KL17,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL17::alban pellegrin,KL17,0,6,8.0,0,0,1,0,0,Milieu 7–12,0,0
+KL17::corinne bargoin samuelian,KL17,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL17::corinne bargoin samuelian,KL17,1,6,9.0,0,0,0,0,0,Milieu 7–12,0,0
+KL17::cédric giosserand-lucas,KL17,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL17::cédric giosserand-lucas,KL17,0,6,10.0,1,0,1,0,1,Milieu 7–12,0,0
+KL17::charlaine cuny,KL17,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL17::charlaine cuny,KL17,0,6,11.0,1,0,0,1,0,Milieu 7–12,0,0
+KL17::nessim kouachi,KL17,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL17::nessim kouachi,KL17,0,6,12.0,1,0,1,0,0,Milieu 7–12,0,0
+KL17::jeff santiago,KL17,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL17::jeff santiago,KL17,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL17::jeff santiago,KL17,0,12,13.0,1,0,1,0,0,Fin 13+,0,0
+KL17::christophe pendon,KL17,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL17::christophe pendon,KL17,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL17::christophe pendon,KL17,0,12,14.0,1,0,1,0,0,Fin 13+,0,0
+KL17::jessica potel,KL17,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL17::jessica potel,KL17,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL17::jessica potel,KL17,0,12,15.0,1,0,0,0,0,Fin 13+,0,0
+KL17::sébastien ballesteros,KL17,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL17::sébastien ballesteros,KL17,0,6,12.0,0,0,1,1,0,Milieu 7–12,0,0
+KL17::sébastien ballesteros,KL17,0,12,16.0,1,0,1,1,0,Fin 13+,0,0
+KL17::bruno peisey,KL17,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL17::bruno peisey,KL17,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL17::bruno peisey,KL17,1,12,17.0,0,0,1,0,0,Fin 13+,0,0
+KL17::mélissa bastin,KL17,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL17::mélissa bastin,KL17,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL17::mélissa bastin,KL17,0,12,18.0,0,0,0,0,0,Fin 13+,0,0
+KL17::chantel ménard,KL17,1,0,6.0,0,1,0,0,0,Début 1–6,0,0
+KL17::chantel ménard,KL17,1,6,12.0,0,1,0,0,0,Milieu 7–12,1,0
+KL17::chantel ménard,KL17,1,12,19.0,0,1,0,0,0,Fin 13+,0,1
+KL17::marc rambaud,KL17,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL17::marc rambaud,KL17,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL17::marc rambaud,KL17,1,12,20.0,0,0,1,0,0,Fin 13+,0,0
+KL31::myriam zenasni,KL31,0,0,1.0,1,0,0,0,1,Début 1–6,0,0
+KL31::amandine schmitt,KL31,0,0,2.0,1,0,0,0,0,Début 1–6,0,0
+KL31::sophie le nestic sabattier,KL31,1,0,3.0,1,0,0,0,0,Début 1–6,0,0
+KL31::sandrine bouzekri,KL31,0,0,4.0,1,0,0,0,0,Début 1–6,0,0
+KL31::laurent mischkind,KL31,0,0,5.0,1,0,1,0,1,Début 1–6,0,0
+KL31::jean-luc duboscq,KL31,1,0,6.0,1,0,1,0,0,Début 1–6,0,0
+KL31::jérôme merlier,KL31,1,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL31::jérôme merlier,KL31,1,6,7.0,0,1,1,0,0,Milieu 7–12,1,0
+"KL31::laurent ""lau"" émilien",KL31,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+"KL31::laurent ""lau"" émilien",KL31,0,6,8.0,1,1,1,0,0,Milieu 7–12,1,0
+KL31::béryl libault de la chevasnerie,KL31,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL31::béryl libault de la chevasnerie,KL31,0,6,9.0,1,0,0,0,0,Milieu 7–12,0,0
+KL31::alexandra pharisien,KL31,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL31::alexandra pharisien,KL31,0,6,10.0,1,0,0,0,1,Milieu 7–12,0,0
+KL31::yannick delalleau,KL31,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL31::yannick delalleau,KL31,0,6,11.0,1,0,1,0,1,Milieu 7–12,0,0
+KL31::julie navarro-camilleri,KL31,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL31::julie navarro-camilleri,KL31,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL31::jérémy raffin,KL31,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL31::jérémy raffin,KL31,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL31::jérémy raffin,KL31,0,12,13.0,1,0,1,0,0,Fin 13+,0,0
+KL31::stéphane cipolla,KL31,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL31::stéphane cipolla,KL31,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL31::stéphane cipolla,KL31,1,12,14.0,1,0,1,0,0,Fin 13+,0,0
+KL31::ludivine wiart,KL31,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL31::ludivine wiart,KL31,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL31::ludivine wiart,KL31,0,12,15.0,1,0,0,0,0,Fin 13+,0,0
+KL31::candice boisson,KL31,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL31::candice boisson,KL31,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL31::candice boisson,KL31,0,12,16.0,0,0,0,1,0,Fin 13+,0,0
+KL31::bruno troester,KL31,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL31::bruno troester,KL31,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL31::bruno troester,KL31,1,12,17.0,0,0,1,0,0,Fin 13+,0,0
+KL31::freddy bolzer,KL31,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL31::freddy bolzer,KL31,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL31::freddy bolzer,KL31,0,12,18.0,0,1,1,0,0,Fin 13+,0,1
+KL31::jesta hillmann,KL31,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL31::jesta hillmann,KL31,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL31::jesta hillmann,KL31,0,12,19.0,0,0,0,1,0,Fin 13+,0,0
+KL31::benoît assadi,KL31,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL31::benoît assadi,KL31,0,6,12.0,0,1,1,1,0,Milieu 7–12,1,0
+KL31::benoît assadi,KL31,0,12,20.0,0,1,1,1,0,Fin 13+,0,1
+KL22::aliséa,KL22,0,0,1.0,0,0,0,1,0,Début 1–6,0,0
+KL22::carinne,KL22,1,0,2.0,0,0,0,0,0,Début 1–6,0,0
+KL22::émilie,KL22,0,0,3.0,1,0,0,0,1,Début 1–6,0,0
+KL22::victor,KL22,0,0,4.0,1,0,1,1,0,Début 1–6,0,0
+KL22::chloé,KL22,0,0,5.0,1,0,0,0,0,Début 1–6,0,0
+KL22::xavier,KL22,1,0,6.0,1,0,1,0,0,Début 1–6,0,0
+KL22::frédéric,KL22,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL22::frédéric,KL22,1,6,7.0,0,0,1,0,0,Milieu 7–12,0,0
+KL22::alexandre,KL22,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL22::alexandre,KL22,0,6,8.0,1,0,1,0,0,Milieu 7–12,0,0
+KL22::béatrice,KL22,0,0,6.0,0,1,0,0,0,Début 1–6,0,0
+KL22::béatrice,KL22,0,6,9.0,1,1,0,0,0,Milieu 7–12,1,0
+KL22::brice,KL22,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL22::brice,KL22,0,6,10.0,1,0,1,1,0,Milieu 7–12,0,0
+KL22::sophie,KL22,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL22::sophie,KL22,0,6,11.0,1,0,0,0,1,Milieu 7–12,0,0
+KL22::angélique,KL22,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL22::angélique,KL22,0,6,12.0,1,0,0,1,0,Milieu 7–12,0,0
+KL22::mohamed,KL22,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL22::mohamed,KL22,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL22::mohamed,KL22,0,12,13.0,1,1,1,0,1,Fin 13+,0,1
+KL22::nicolas,KL22,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL22::nicolas,KL22,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL22::nicolas,KL22,0,12,14.0,0,1,1,0,1,Fin 13+,0,1
+KL22::maxime,KL22,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL22::maxime,KL22,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL22::maxime,KL22,0,12,15.0,1,0,1,0,0,Fin 13+,0,0
+KL22::cyril,KL22,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL22::cyril,KL22,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL22::cyril,KL22,0,12,16.0,1,0,1,0,1,Fin 13+,0,0
+KL22::clo,KL22,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL22::clo,KL22,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL22::clo,KL22,0,12,17.0,0,0,0,0,0,Fin 13+,0,0
+KL22::aurélien,KL22,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL22::aurélien,KL22,0,6,12.0,0,0,1,1,0,Milieu 7–12,0,0
+KL22::aurélien,KL22,0,12,18.0,0,0,1,1,0,Fin 13+,0,0
+KL22::steeve,KL22,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL22::steeve,KL22,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL22::steeve,KL22,1,12,19.0,0,0,1,0,0,Fin 13+,0,0
+KL22::cindy,KL22,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL22::cindy,KL22,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL22::cindy,KL22,0,12,20.0,0,0,0,0,0,Fin 13+,0,0
+KL22::maud,KL22,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL22::maud,KL22,1,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL22::maud,KL22,1,12,21.0,0,0,0,0,0,Fin 13+,0,0
+KL29::cynthiana,KL29,0,0,1.0,1,0,0,0,1,Début 1–6,0,0
+KL29::allan,KL29,0,0,2.0,0,0,1,1,0,Début 1–6,0,0
+KL29::christian,KL29,1,0,3.0,1,0,1,0,0,Début 1–6,0,0
+KL29::romane,KL29,0,0,4.0,1,1,0,1,0,Début 1–6,0,0
+KL29::mehdi,KL29,0,0,5.0,0,1,1,0,0,Début 1–6,0,0
+KL29::benoît,KL29,0,0,6.0,1,1,1,1,0,Début 1–6,0,0
+KL29::mohamed,KL29,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL29::mohamed,KL29,0,6,7.0,1,1,1,0,0,Milieu 7–12,1,0
+KL29::pauline,KL29,0,0,6.0,0,1,0,0,1,Début 1–6,0,0
+KL29::pauline,KL29,0,6,8.0,1,1,0,0,1,Milieu 7–12,1,0
+KL29::andréa,KL29,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL29::andréa,KL29,0,6,9.0,1,0,0,1,0,Milieu 7–12,0,0
+KL29::adrien,KL29,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL29::adrien,KL29,0,6,10.0,1,0,1,1,0,Milieu 7–12,0,0
+KL29::frédéric,KL29,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL29::frédéric,KL29,1,6,11.0,0,0,1,0,0,Milieu 7–12,0,0
+KL29::jessica,KL29,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL29::jessica,KL29,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL29::louise,KL29,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL29::louise,KL29,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL29::louise,KL29,0,12,13.0,1,0,0,1,0,Fin 13+,0,0
+KL29::joana,KL29,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL29::joana,KL29,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL29::joana,KL29,0,12,14.0,1,0,0,0,0,Fin 13+,0,0
+KL29::naïs,KL29,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL29::naïs,KL29,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL29::naïs,KL29,0,12,15.0,1,0,0,1,0,Fin 13+,0,0
+KL29::pierre-marie,KL29,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL29::pierre-marie,KL29,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL29::pierre-marie,KL29,0,12,16.0,1,0,1,0,1,Fin 13+,0,0
+KL29::maxime,KL29,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL29::maxime,KL29,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL29::maxime,KL29,0,12,17.0,0,0,1,0,0,Fin 13+,0,0
+KL29::noémie,KL29,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL29::noémie,KL29,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL29::noémie,KL29,0,12,18.0,1,0,0,0,0,Fin 13+,0,0
+KL29::céline,KL29,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL29::céline,KL29,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL29::céline,KL29,0,12,19.0,1,0,0,0,1,Fin 13+,0,0
+KL29::jérôme#row20,KL29,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL29::jérôme#row20,KL29,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL29::jérôme#row20,KL29,1,12,20.0,0,0,1,0,0,Fin 13+,0,0
+KL29::claire,KL29,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL29::claire,KL29,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL29::claire,KL29,0,12,21.0,0,0,0,0,1,Fin 13+,0,0
+KL29::jérôme#row22,KL29,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL29::jérôme#row22,KL29,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL29::jérôme#row22,KL29,1,12,22.0,0,0,1,0,0,Fin 13+,0,0
+KL29::maël,KL29,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL29::maël,KL29,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL29::maël,KL29,0,12,23.0,0,0,1,0,0,Fin 13+,0,0
+KL29::gaëlle,KL29,0,0,6.0,0,1,0,0,1,Début 1–6,0,0
+KL29::gaëlle,KL29,0,6,12.0,0,1,0,0,1,Milieu 7–12,1,0
+KL29::gaëlle,KL29,0,12,24.0,0,1,0,0,1,Fin 13+,0,1
+KL26::célia,KL26,1,0,1.0,1,0,0,0,0,Début 1–6,0,0
+KL26::emin,KL26,1,0,2.0,1,0,1,0,0,Début 1–6,0,0
+KL26::alexandre,KL26,0,0,3.0,1,0,1,0,1,Début 1–6,0,0
+KL26::élodie,KL26,0,0,4.0,0,0,0,0,1,Début 1–6,0,0
+KL26::benjamin,KL26,0,0,5.0,0,0,1,1,0,Début 1–6,0,0
+KL26::martin,KL26,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL26::christine,KL26,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL26::christine,KL26,1,6,7.0,1,0,0,0,0,Milieu 7–12,0,0
+KL26::rudy,KL26,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL26::rudy,KL26,0,6,8.0,1,1,1,0,1,Milieu 7–12,1,0
+KL26::grâce,KL26,0,0,6.0,0,1,0,0,1,Début 1–6,0,0
+KL26::grâce,KL26,0,6,9.0,0,1,0,0,1,Milieu 7–12,1,0
+KL26::anne-sophie,KL26,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL26::anne-sophie,KL26,0,6,10.0,1,0,0,0,1,Milieu 7–12,0,0
+KL26::helena,KL26,0,0,6.0,0,1,0,0,0,Début 1–6,0,0
+KL26::helena,KL26,0,6,11.0,1,1,0,0,0,Milieu 7–12,1,0
+KL26::gilles,KL26,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL26::gilles,KL26,0,6,12.0,1,0,1,0,0,Milieu 7–12,0,0
+KL26::clémence,KL26,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL26::clémence,KL26,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL26::clémence,KL26,0,12,13.0,1,0,0,0,0,Fin 13+,0,0
+KL26::esteban,KL26,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL26::esteban,KL26,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL26::esteban,KL26,0,12,14.0,1,1,1,0,1,Fin 13+,0,1
+KL26::laura,KL26,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL26::laura,KL26,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL26::laura,KL26,0,12,15.0,1,0,0,0,0,Fin 13+,0,0
+KL26::quentin,KL26,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL26::quentin,KL26,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL26::quentin,KL26,0,12,16.0,0,1,1,0,0,Fin 13+,0,1
+KL26::julie,KL26,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL26::julie,KL26,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL26::julie,KL26,0,12,17.0,0,0,0,0,0,Fin 13+,0,0
+KL26::nicolas,KL26,1,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL26::nicolas,KL26,1,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL26::nicolas,KL26,1,12,18.0,0,1,1,0,0,Fin 13+,0,1
+KL26::tania,KL26,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL26::tania,KL26,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL26::tania,KL26,0,12,19.0,0,0,0,1,0,Fin 13+,0,0
+KL26::frédéric,KL26,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL26::frédéric,KL26,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL26::frédéric,KL26,0,12,20.0,0,1,1,0,0,Fin 13+,0,1
+"KL25::céline ""lili"" gasnier",KL25,0,0,1.0,1,0,0,0,1,Début 1–6,0,0
+KL25::céline dufrenoy,KL25,0,0,2.0,1,0,0,0,1,Début 1–6,0,0
+KL25::franck macia,KL25,1,0,3.0,0,0,1,0,0,Début 1–6,0,0
+KL25::mattéo real,KL25,0,0,4.0,1,0,1,1,0,Début 1–6,0,0
+KL25::samira aït-brahim,KL25,0,0,5.0,1,1,0,0,1,Début 1–6,0,0
+KL25::benjamin breerette,KL25,0,0,6.0,1,0,1,1,0,Début 1–6,0,0
+KL25::stéphanie tribot,KL25,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL25::stéphanie tribot,KL25,0,6,7.0,1,0,0,0,1,Milieu 7–12,0,0
+KL25::jean-philippe masy,KL25,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL25::jean-philippe masy,KL25,0,6,8.0,0,0,1,0,1,Milieu 7–12,0,0
+KL25::alexandra élizé,KL25,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL25::alexandra élizé,KL25,0,6,9.0,1,0,0,0,1,Milieu 7–12,0,0
+KL25::setha el hajjami,KL25,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL25::setha el hajjami,KL25,0,6,10.0,0,0,0,0,1,Milieu 7–12,0,0
+KL25::colin mottas,KL25,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL25::colin mottas,KL25,0,6,11.0,1,1,1,1,0,Milieu 7–12,1,0
+KL25::pauline pourchaire,KL25,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL25::pauline pourchaire,KL25,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL25::yannick zachée,KL25,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL25::yannick zachée,KL25,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL25::yannick zachée,KL25,0,12,13.0,1,1,1,0,1,Fin 13+,0,1
+KL25::anne-sophie mounier,KL25,0,0,6.0,0,1,0,0,1,Début 1–6,0,0
+KL25::anne-sophie mounier,KL25,0,6,12.0,0,1,0,0,1,Milieu 7–12,1,0
+KL25::anne-sophie mounier,KL25,0,12,14.0,1,1,0,0,1,Fin 13+,0,1
+KL25::maxime tournoux,KL25,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL25::maxime tournoux,KL25,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL25::maxime tournoux,KL25,0,12,15.0,1,1,1,0,0,Fin 13+,0,1
+KL25::louana roy,KL25,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL25::louana roy,KL25,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL25::louana roy,KL25,0,12,16.0,1,0,0,0,0,Fin 13+,0,0
+KL25::fouzi ould bouamama,KL25,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL25::fouzi ould bouamama,KL25,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL25::fouzi ould bouamama,KL25,0,12,17.0,0,1,1,0,0,Fin 13+,0,1
+KL25::nicolas bellon,KL25,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL25::nicolas bellon,KL25,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL25::nicolas bellon,KL25,0,12,18.0,1,1,1,0,1,Fin 13+,0,1
+KL25::olga khokhlova,KL25,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL25::olga khokhlova,KL25,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL25::olga khokhlova,KL25,0,12,19.0,1,0,0,0,1,Fin 13+,0,0
+KL25::ambre daudet,KL25,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL25::ambre daudet,KL25,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL25::ambre daudet,KL25,0,12,20.0,0,0,0,0,0,Fin 13+,0,0
+KL25::jean-charles chatelus,KL25,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL25::jean-charles chatelus,KL25,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL25::jean-charles chatelus,KL25,0,12,21.0,0,0,1,0,1,Fin 13+,0,0
+KL25::géraldine nicolle,KL25,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL25::géraldine nicolle,KL25,1,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL25::géraldine nicolle,KL25,1,12,22.0,0,0,0,0,0,Fin 13+,0,0
+KL25::bastien san pedro,KL25,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL25::bastien san pedro,KL25,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL25::bastien san pedro,KL25,0,12,23.0,0,0,1,0,0,Fin 13+,0,0
+KL25::françois descamp,KL25,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL25::françois descamp,KL25,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL25::françois descamp,KL25,0,12,24.0,0,1,1,0,1,Fin 13+,0,1
+KL32::françois,KL32,1,0,1.0,0,0,1,0,0,Début 1–6,0,0
+KL32::carole,KL32,1,0,2.0,1,0,0,0,0,Début 1–6,0,0
+KL32::samuel,KL32,0,0,3.0,0,0,1,0,1,Début 1–6,0,0
+KL32::diane,KL32,0,0,4.0,1,0,0,1,0,Début 1–6,0,0
+KL32::estelle,KL32,1,0,5.0,1,0,0,0,0,Début 1–6,0,0
+KL32::mathieu,KL32,0,0,6.0,1,1,1,0,0,Début 1–6,0,0
+KL32::adrien,KL32,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL32::adrien,KL32,0,6,7.0,1,0,1,0,0,Milieu 7–12,0,0
+KL32::aubin,KL32,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL32::aubin,KL32,0,6,8.0,1,0,1,1,0,Milieu 7–12,0,0
+KL32::sébastien,KL32,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL32::sébastien,KL32,0,6,9.0,1,0,1,0,1,Milieu 7–12,0,0
+KL32::marie-france,KL32,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL32::marie-france,KL32,1,6,10.0,1,0,0,0,0,Milieu 7–12,0,0
+KL32::hadja,KL32,0,0,6.0,0,1,0,0,0,Début 1–6,0,0
+KL32::hadja,KL32,0,6,11.0,1,1,0,0,0,Milieu 7–12,1,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL32::joaquina,KL32,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL32::joaquina,KL32,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL32::joaquina,KL32,0,12,13.0,1,0,0,0,1,Fin 13+,0,0
+KL32::jody,KL32,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL32::jody,KL32,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL32::jody,KL32,0,12,14.0,1,0,0,0,0,Fin 13+,0,0
+KL32::laurent,KL32,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL32::laurent,KL32,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL32::laurent,KL32,1,12,15.0,1,0,1,0,0,Fin 13+,0,0
+KL32::alix,KL32,0,0,6.0,0,1,0,0,0,Début 1–6,0,0
+KL32::alix,KL32,0,6,12.0,0,1,0,0,0,Milieu 7–12,1,0
+KL32::alix,KL32,0,12,16.0,1,1,0,0,0,Fin 13+,0,1
+KL32::fabrice,KL32,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL32::fabrice,KL32,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL32::fabrice,KL32,1,12,17.0,0,0,1,0,0,Fin 13+,0,0
+KL32::ava,KL32,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL32::ava,KL32,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL32::ava,KL32,0,12,18.0,1,0,0,0,0,Fin 13+,0,0
+KL32::angélique,KL32,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL32::angélique,KL32,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL32::angélique,KL32,0,12,19.0,1,0,0,0,0,Fin 13+,0,0
+KL32::dorian,KL32,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL32::dorian,KL32,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL32::dorian,KL32,0,12,20.0,0,1,1,0,0,Fin 13+,0,1
+KL32::lola,KL32,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL32::lola,KL32,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL32::lola,KL32,0,12,21.0,0,0,0,1,0,Fin 13+,0,0
+KL32::loïc,KL32,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL32::loïc,KL32,0,6,12.0,0,1,1,1,0,Milieu 7–12,1,0
+KL32::loïc,KL32,0,12,22.0,0,1,1,1,0,Fin 13+,0,1
+KL32::brice,KL32,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL32::brice,KL32,0,6,12.0,0,0,1,1,0,Milieu 7–12,0,0
+KL32::brice,KL32,0,12,23.0,0,0,1,1,0,Fin 13+,0,0
+KL32::alexandra,KL32,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL32::alexandra,KL32,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL32::alexandra,KL32,0,12,24.0,0,0,0,0,0,Fin 13+,0,0
+KL33::sylviane,KL33,1,0,1.0,1,0,0,0,0,Début 1–6,0,0
+KL33::marie,KL33,0,0,2.0,1,0,0,1,0,Début 1–6,0,0
+KL33::élodie,KL33,0,0,3.0,1,0,0,0,1,Début 1–6,0,0
+KL33::candice,KL33,0,0,4.0,1,0,0,1,0,Début 1–6,0,0
+KL33::gabin,KL33,0,0,5.0,0,1,1,0,0,Début 1–6,0,0
+KL33::aurélien,KL33,0,0,6.0,1,1,1,0,1,Début 1–6,0,0
+KL33::frédéric,KL33,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL33::frédéric,KL33,1,6,7.0,0,0,1,0,0,Milieu 7–12,0,0
+KL33::hervé,KL33,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL33::hervé,KL33,1,6,8.0,1,0,1,0,0,Milieu 7–12,0,0
+KL33::mathieu,KL33,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL33::mathieu,KL33,0,6,9.0,0,0,1,0,0,Milieu 7–12,0,0
+KL33::shanice,KL33,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL33::shanice,KL33,0,6,10.0,1,0,0,0,0,Milieu 7–12,0,0
+KL33::myriam,KL33,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL33::myriam,KL33,0,6,11.0,1,0,0,0,1,Milieu 7–12,0,0
+KL33::vincent,KL33,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL33::vincent,KL33,0,6,12.0,1,0,1,0,0,Milieu 7–12,0,0
+KL33::laëtitia,KL33,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL33::laëtitia,KL33,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL33::laëtitia,KL33,0,12,13.0,1,0,0,0,1,Fin 13+,0,0
+KL33::thomas,KL33,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL33::thomas,KL33,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL33::thomas,KL33,0,12,14.0,1,1,1,0,1,Fin 13+,0,1
+KL33::flavio,KL33,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL33::flavio,KL33,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL33::flavio,KL33,0,12,15.0,0,0,1,0,0,Fin 13+,0,0
+KL33::magali,KL33,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL33::magali,KL33,1,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL33::magali,KL33,1,12,16.0,1,0,0,0,0,Fin 13+,0,0
+KL33::arnaud,KL33,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL33::arnaud,KL33,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL33::arnaud,KL33,0,12,17.0,0,0,1,0,1,Fin 13+,0,0
+KL33::laure,KL33,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL33::laure,KL33,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL33::laure,KL33,0,12,18.0,0,0,0,0,0,Fin 13+,0,0
+KL33::jonathan,KL33,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL33::jonathan,KL33,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL33::jonathan,KL33,0,12,19.0,0,0,1,0,0,Fin 13+,0,0
+KL33::lucie,KL33,0,0,6.0,0,1,0,0,1,Début 1–6,0,0
+KL33::lucie,KL33,0,6,12.0,0,1,0,0,1,Milieu 7–12,1,0
+KL33::lucie,KL33,0,12,20.0,0,1,0,0,1,Fin 13+,0,1
+KL33::maxine,KL33,0,0,6.0,0,1,0,1,0,Début 1–6,0,0
+KL33::maxine,KL33,0,6,12.0,0,1,0,1,0,Milieu 7–12,1,0
+KL33::maxine,KL33,0,12,21.0,0,1,0,1,0,Fin 13+,0,1
+KL27::steve grenier,KL27,0,0,1.0,1,0,1,0,1,Début 1–6,0,0
+KL27::alicia bouly,KL27,0,0,2.0,1,0,0,1,0,Début 1–6,0,0
+KL27::nathalie suhard,KL27,1,0,3.0,0,0,0,0,0,Début 1–6,0,0
+KL27::william plancq,KL27,1,0,4.0,1,0,1,0,0,Début 1–6,0,0
+KL27::alexis tchernychev,KL27,0,0,5.0,1,1,1,1,0,Début 1–6,0,0
+KL27::émilie clavis,KL27,1,0,6.0,1,0,0,0,0,Début 1–6,0,0
+KL27::sarah diawara,KL27,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL27::sarah diawara,KL27,0,6,7.0,1,0,0,0,1,Milieu 7–12,0,0
+KL27::maxime barbet,KL27,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL27::maxime barbet,KL27,1,6,8.0,1,0,1,0,0,Milieu 7–12,0,0
+KL27::ricky poyet,KL27,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL27::ricky poyet,KL27,0,6,9.0,0,0,1,1,0,Milieu 7–12,0,0
+KL27::léa notardonato,KL27,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL27::léa notardonato,KL27,0,6,10.0,1,0,0,1,0,Milieu 7–12,0,0
+KL27::océane montenegro,KL27,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL27::océane montenegro,KL27,0,6,11.0,0,0,0,0,1,Milieu 7–12,0,0
+KL27::cécile poprawa,KL27,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL27::cécile poprawa,KL27,0,6,12.0,1,0,0,0,1,Milieu 7–12,0,0
+KL27::aurélien dulau,KL27,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL27::aurélien dulau,KL27,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL27::aurélien dulau,KL27,0,12,14.0,1,0,1,0,1,Fin 13+,0,0
+KL27::jean belmonte,KL27,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL27::jean belmonte,KL27,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL27::jean belmonte,KL27,0,12,15.0,0,1,1,0,0,Fin 13+,0,1
+KL27::mégane rouland,KL27,0,0,6.0,0,1,0,0,0,Début 1–6,0,0
+KL27::mégane rouland,KL27,0,6,12.0,0,1,0,0,0,Milieu 7–12,1,0
+KL27::mégane rouland,KL27,0,12,16.0,1,1,0,0,0,Fin 13+,0,1
+KL27::david murail,KL27,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL27::david murail,KL27,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL27::david murail,KL27,0,12,17.0,1,1,1,0,1,Fin 13+,0,1
+KL27::sébastien cazaux,KL27,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL27::sébastien cazaux,KL27,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL27::sébastien cazaux,KL27,0,12,18.0,1,1,1,0,0,Fin 13+,0,1
+KL27::amri madani,KL27,1,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL27::amri madani,KL27,1,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL27::amri madani,KL27,1,12,19.0,0,1,1,0,0,Fin 13+,0,1
+KL27::pauline bonneil,KL27,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL27::pauline bonneil,KL27,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL27::pauline bonneil,KL27,0,12,20.0,0,0,0,0,0,Fin 13+,0,0
+KL27::julie rignault,KL27,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL27::julie rignault,KL27,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL27::julie rignault,KL27,0,12,21.0,0,0,0,0,1,Fin 13+,0,0
+KL27::meïssa seck,KL27,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL27::meïssa seck,KL27,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL27::meïssa seck,KL27,0,12,22.0,0,1,1,0,0,Fin 13+,0,1
+KL27::léa sahin,KL27,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL27::léa sahin,KL27,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL27::léa sahin,KL27,0,12,23.0,0,0,0,0,1,Fin 13+,0,0
+KL15::mélanie,KL15,0,0,1.0,1,0,0,0,0,Début 1–6,0,0
+KL15::mickaël,KL15,1,0,2.0,1,0,1,0,0,Début 1–6,0,0
+KL15::sara [ n 1 ],KL15,1,0,3.0,0,1,0,0,0,Début 1–6,0,0
+KL15::nadine,KL15,1,0,4.0,1,0,0,0,0,Début 1–6,0,0
+KL15::élodie,KL15,0,0,5.0,1,0,0,0,1,Début 1–6,0,0
+KL15::marie [ n 2 ],KL15,0,0,6.0,1,0,0,1,0,Début 1–6,0,0
+KL15::anthony,KL15,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL15::anthony,KL15,0,6,7.0,0,1,1,1,0,Milieu 7–12,1,0
+KL15::javier [ n 3 ],KL15,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL15::javier [ n 3 ],KL15,0,6,8.0,1,0,1,0,1,Milieu 7–12,0,0
+KL15::namadia [ n 4 ],KL15,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL15::namadia [ n 4 ],KL15,0,6,9.0,1,0,1,0,0,Milieu 7–12,0,0
+KL15::marylou,KL15,0,0,6.0,0,1,0,1,0,Début 1–6,0,0
+KL15::marylou,KL15,0,6,10.0,1,1,0,1,0,Milieu 7–12,1,0
+KL15::catherine,KL15,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL15::catherine,KL15,0,6,11.0,1,0,0,0,1,Milieu 7–12,0,0
+KL15::camille,KL15,0,0,6.0,0,1,0,1,0,Début 1–6,0,0
+KL15::camille,KL15,0,6,12.0,1,1,0,1,0,Milieu 7–12,1,0
+KL15::charles,KL15,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL15::charles,KL15,0,6,12.0,0,0,1,1,0,Milieu 7–12,0,0
+KL15::charles,KL15,0,12,13.0,0,0,1,1,0,Fin 13+,0,0
+KL15::thierry,KL15,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL15::thierry,KL15,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL15::thierry,KL15,1,12,14.0,1,0,1,0,0,Fin 13+,0,0
+KL15::myriam,KL15,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL15::myriam,KL15,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL15::myriam,KL15,0,12,15.0,1,0,0,0,1,Fin 13+,0,0
+KL15::bernard,KL15,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL15::bernard,KL15,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL15::bernard,KL15,1,12,16.0,0,0,1,0,0,Fin 13+,0,0
+KL15::philippe [ n 5 ],KL15,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL15::philippe [ n 5 ],KL15,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL15::philippe [ n 5 ],KL15,0,12,17.0,0,1,1,0,1,Fin 13+,0,1
+KL15::vanessa,KL15,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL15::vanessa,KL15,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL15::vanessa,KL15,0,12,18.0,0,0,0,0,1,Fin 13+,0,0
+KL15::brice [ n 6 ],KL15,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL15::brice [ n 6 ],KL15,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL15::brice [ n 6 ],KL15,0,12,19.0,0,1,1,0,0,Fin 13+,0,1
+KL15::ugo [ n 7 ],KL15,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL15::ugo [ n 7 ],KL15,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL15::ugo [ n 7 ],KL15,0,12,20.0,0,1,1,0,0,Fin 13+,0,1
+KL02::xavier,KL02,0,0,1.0,0,0,1,0,0,Début 1–6,0,0
+KL02::caroline mercier,KL02,0,0,2.0,1,0,0,0,0,Début 1–6,0,0
+KL02::céline genty,KL02,0,0,3.0,1,0,0,0,0,Début 1–6,0,0
+KL02::nelly,KL02,0,0,4.0,1,0,0,1,0,Début 1–6,0,0
+KL02::pierre,KL02,0,0,5.0,1,0,1,1,0,Début 1–6,0,0
+KL02::jacky,KL02,1,0,6.0,1,0,1,0,0,Début 1–6,0,0
+KL02::adonis,KL02,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL02::adonis,KL02,0,6,7.0,1,0,1,0,0,Milieu 7–12,0,0
+KL02::jimmy,KL02,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL02::jimmy,KL02,0,6,8.0,1,0,1,0,0,Milieu 7–12,0,0
+KL02::béatrice,KL02,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL02::béatrice,KL02,0,6,9.0,1,0,0,1,0,Milieu 7–12,0,0
+KL02::françois-xavier,KL02,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL02::françois-xavier,KL02,0,6,10.0,1,0,1,0,1,Milieu 7–12,0,0
+KL02::isabelle,KL02,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL02::isabelle,KL02,0,6,11.0,1,0,0,1,0,Milieu 7–12,0,0
+KL02::maud,KL02,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL02::maud,KL02,0,6,12.0,1,0,0,0,1,Milieu 7–12,0,0
+KL02::marianne,KL02,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL02::marianne,KL02,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL02::marianne,KL02,0,12,13.0,0,0,0,1,0,Fin 13+,0,0
+KL02::bernard,KL02,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL02::bernard,KL02,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL02::bernard,KL02,0,12,14.0,0,0,1,0,1,Fin 13+,0,0
+KL02::nicolas roy,KL02,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL02::nicolas roy,KL02,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL02::nicolas roy,KL02,1,12,15.0,0,0,1,0,0,Fin 13+,0,0
+KL02::amel fatnassi,KL02,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL02::amel fatnassi,KL02,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL02::amel fatnassi,KL02,0,12,16.0,0,0,0,0,0,Fin 13+,0,0
+KL07::ali,KL07,0,0,1.0,0,1,1,0,1,Début 1–6,0,0
+KL07::pascale,KL07,0,0,2.0,1,0,0,0,1,Début 1–6,0,0
+KL07::marie-laure,KL07,0,0,3.0,1,0,0,0,1,Début 1–6,0,0
+KL07::mélanie,KL07,0,0,4.0,1,0,0,1,0,Début 1–6,0,0
+KL07::véronique barriol,KL07,0,0,5.0,1,0,0,1,0,Début 1–6,0,0
+KL07::chloé,KL07,1,0,6.0,1,0,0,0,0,Début 1–6,0,0
+KL07::érick,KL07,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL07::érick,KL07,0,6,7.0,1,1,1,1,0,Milieu 7–12,1,0
+KL07::filomène,KL07,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL07::filomène,KL07,0,6,8.0,1,0,0,0,0,Milieu 7–12,0,0
+KL07::adrien,KL07,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL07::adrien,KL07,0,6,9.0,0,0,1,0,1,Milieu 7–12,0,0
+KL07::grégoire,KL07,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL07::grégoire,KL07,0,6,10.0,1,1,1,1,0,Milieu 7–12,1,0
+KL07::laurent,KL07,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL07::laurent,KL07,1,6,11.0,1,0,1,0,0,Milieu 7–12,0,0
+KL07::patrick,KL07,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL07::patrick,KL07,0,6,12.0,1,0,1,1,0,Milieu 7–12,0,0
+KL07::simon,KL07,0,0,6.0,0,1,1,0,1,Début 1–6,0,0
+KL07::simon,KL07,0,6,12.0,0,1,1,0,1,Milieu 7–12,1,0
+KL07::simon,KL07,0,12,13.0,0,1,1,0,1,Fin 13+,0,1
+KL07::maryline,KL07,0,0,6.0,0,1,0,0,1,Début 1–6,0,0
+KL07::maryline,KL07,0,6,12.0,0,1,0,0,1,Milieu 7–12,1,0
+KL07::maryline,KL07,0,12,14.0,0,1,0,0,1,Fin 13+,0,1
+KL07::kévin cuoco,KL07,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL07::kévin cuoco,KL07,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL07::kévin cuoco,KL07,0,12,15.0,0,1,1,0,0,Fin 13+,0,1
+KL07::jade handi,KL07,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL07::jade handi,KL07,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL07::jade handi,KL07,0,12,16.0,0,0,0,0,1,Fin 13+,0,0
+KL13::lisa legouverneur,KL13,0,0,1.0,1,0,0,1,0,Début 1–6,0,0
+KL13::catherine diard,KL13,1,0,2.0,1,0,0,0,0,Début 1–6,0,0
+KL13::steve lemercier,KL13,0,0,3.0,0,0,1,1,0,Début 1–6,0,0
+"KL13::gérard ""gégé"" icardi",KL13,1,0,4.0,1,0,1,0,0,Début 1–6,0,0
+"KL13::nawal ""naouel"" hadjaf",KL13,0,0,5.0,0,0,0,1,0,Début 1–6,0,0
+KL13::benoît mahieux,KL13,0,0,6.0,1,0,1,0,0,Début 1–6,0,0
+KL13::délisia fettache,KL13,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL13::délisia fettache,KL13,0,6,7.0,1,0,0,1,0,Milieu 7–12,0,0
+KL13::caroline matteucci,KL13,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL13::caroline matteucci,KL13,0,6,8.0,1,0,0,0,1,Milieu 7–12,0,0
+KL13::maxime boulet,KL13,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL13::maxime boulet,KL13,0,6,9.0,0,0,1,1,0,Milieu 7–12,0,0
+KL13::anthony amar,KL13,0,0,6.0,0,1,1,1,0,Début 1–6,0,0
+KL13::anthony amar,KL13,0,6,10.0,1,1,1,1,0,Milieu 7–12,1,0
+KL13::olivier moenaert,KL13,1,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL13::olivier moenaert,KL13,1,6,11.0,1,1,1,0,0,Milieu 7–12,1,0
+KL13::florence delbarre reuter,KL13,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL13::florence delbarre reuter,KL13,0,6,12.0,1,0,0,0,1,Milieu 7–12,0,0
+KL13::virginie jarry,KL13,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL13::virginie jarry,KL13,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL13::virginie jarry,KL13,0,12,13.0,0,0,0,0,0,Fin 13+,0,0
+KL13::patricia morel,KL13,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL13::patricia morel,KL13,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL13::patricia morel,KL13,0,12,14.0,1,0,0,0,1,Fin 13+,0,0
+KL13::alexandra pouillon,KL13,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL13::alexandra pouillon,KL13,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL13::alexandra pouillon,KL13,0,12,15.0,1,0,0,0,0,Fin 13+,0,0
+KL13::martin bazin,KL13,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL13::martin bazin,KL13,0,6,12.0,0,0,1,1,0,Milieu 7–12,0,0
+KL13::martin bazin,KL13,0,12,16.0,1,0,1,1,0,Fin 13+,0,0
+KL13::ella gbezan,KL13,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL13::ella gbezan,KL13,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL13::ella gbezan,KL13,0,12,17.0,0,0,0,1,0,Fin 13+,0,0
+KL13::laurent maistret,KL13,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL13::laurent maistret,KL13,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL13::laurent maistret,KL13,0,12,18.0,0,1,1,0,0,Fin 13+,0,1
+KL13::teheiura teahui,KL13,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL13::teheiura teahui,KL13,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL13::teheiura teahui,KL13,0,12,19.0,0,1,1,0,0,Fin 13+,0,1
+KL13::gérard urdampilleta,KL13,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL13::gérard urdampilleta,KL13,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL13::gérard urdampilleta,KL13,0,12,20.0,0,0,1,0,1,Fin 13+,0,0
+KL18::charlie vincent-mussard,KL18,0,0,1.0,0,0,0,0,0,Début 1–6,0,0
+KL18::laurence corbellotti,KL18,0,0,2.0,1,0,0,0,1,Début 1–6,0,0
+KL18::marius torterat,KL18,0,0,3.0,0,0,1,1,0,Début 1–6,0,0
+KL18::céline parat-yeghiayan,KL18,1,0,4.0,1,0,0,0,0,Début 1–6,0,0
+KL18::huw francis,KL18,0,0,5.0,1,0,1,0,1,Début 1–6,0,0
+KL18::carole poncelet,KL18,1,0,6.0,1,0,0,0,0,Début 1–6,0,0
+"KL18::laurence ""lolo"" facione",KL18,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+"KL18::laurence ""lolo"" facione",KL18,1,6,7.0,1,0,0,0,0,Milieu 7–12,0,0
+KL18::amir doukhan,KL18,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL18::amir doukhan,KL18,1,6,8.0,1,0,1,0,0,Milieu 7–12,0,0
+KL18::cassandre girard,KL18,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL18::cassandre girard,KL18,0,6,9.0,0,0,0,1,0,Milieu 7–12,0,0
+KL18::romain palazzetti,KL18,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL18::romain palazzetti,KL18,0,6,10.0,1,1,1,0,0,Milieu 7–12,1,0
+KL18::julien castro,KL18,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL18::julien castro,KL18,0,6,11.0,1,0,1,0,0,Milieu 7–12,0,0
+KL18::laureen hugel,KL18,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL18::laureen hugel,KL18,0,6,12.0,1,0,0,0,0,Milieu 7–12,0,0
+KL18::steve best,KL18,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL18::steve best,KL18,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL18::steve best,KL18,0,12,13.0,1,1,1,0,0,Fin 13+,0,1
+KL18::carine cazals,KL18,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL18::carine cazals,KL18,0,6,12.0,0,0,0,0,1,Milieu 7–12,0,0
+KL18::carine cazals,KL18,0,12,14.0,1,0,0,0,1,Fin 13+,0,0
+KL18::karima neggaz,KL18,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL18::karima neggaz,KL18,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL18::karima neggaz,KL18,0,12,15.0,1,0,0,0,0,Fin 13+,0,0
+KL18::nicolas rouyé,KL18,0,0,6.0,0,1,1,0,0,Début 1–6,0,0
+KL18::nicolas rouyé,KL18,0,6,12.0,0,1,1,0,0,Milieu 7–12,1,0
+KL18::nicolas rouyé,KL18,0,12,16.0,1,1,1,0,0,Fin 13+,0,1
+KL18::alain chrisostome,KL18,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL18::alain chrisostome,KL18,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL18::alain chrisostome,KL18,1,12,17.0,1,0,1,0,0,Fin 13+,0,0
+KL18::cécilia siharaj,KL18,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL18::cécilia siharaj,KL18,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL18::cécilia siharaj,KL18,0,12,18.0,0,0,0,0,0,Fin 13+,0,0
+KL18::gabriel gubbels,KL18,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL18::gabriel gubbels,KL18,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL18::gabriel gubbels,KL18,0,12,19.0,0,0,1,0,1,Fin 13+,0,0
+KL18::pascal salviani,KL18,1,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL18::pascal salviani,KL18,1,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL18::pascal salviani,KL18,1,12,20.0,0,0,1,0,0,Fin 13+,0,0
+KL18::wendy gervois,KL18,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL18::wendy gervois,KL18,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL18::wendy gervois,KL18,0,12,21.0,0,0,0,0,0,Fin 13+,0,0
+KL01::marie,KL01,0,0,1.0,1,0,0,1,0,Début 1–6,0,0
+KL01::guillaume noël,KL01,0,0,2.0,1,0,1,1,0,Début 1–6,0,0
+KL01::jean-luc,KL01,1,0,3.0,1,0,1,0,0,Début 1–6,0,0
+KL01::gaël,KL01,0,0,4.0,1,0,0,1,0,Début 1–6,0,0
+KL01::harry,KL01,1,0,5.0,1,0,1,0,0,Début 1–6,0,0
+KL01::sandra,KL01,0,0,6.0,1,0,0,1,0,Début 1–6,0,0
+KL01::david,KL01,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL01::david,KL01,0,6,7.0,1,0,1,1,0,Milieu 7–12,0,0
+KL01::stéphane,KL01,0,0,6.0,0,0,1,1,0,Début 1–6,0,0
+KL01::stéphane,KL01,0,6,8.0,1,0,1,1,0,Milieu 7–12,0,0
+KL01::géraldine drouhet,KL01,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL01::géraldine drouhet,KL01,0,6,9.0,1,0,0,0,0,Milieu 7–12,0,0
+KL01::michèle,KL01,1,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL01::michèle,KL01,1,6,10.0,1,0,0,0,0,Milieu 7–12,0,0
+KL01::william,KL01,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL01::william,KL01,0,6,11.0,1,0,1,0,0,Milieu 7–12,0,0
+KL01::françoise,KL01,0,0,6.0,0,0,0,0,1,Début 1–6,0,0
+KL01::françoise,KL01,0,6,12.0,1,0,0,0,1,Milieu 7–12,0,0
+KL01::romain,KL01,0,0,6.0,0,0,1,0,0,Début 1–6,0,0
+KL01::romain,KL01,0,6,12.0,0,0,1,0,0,Milieu 7–12,0,0
+KL01::romain,KL01,0,12,13.0,0,0,1,0,0,Fin 13+,0,0
+KL01::patricia,KL01,0,0,6.0,0,0,0,0,0,Début 1–6,0,0
+KL01::patricia,KL01,0,6,12.0,0,0,0,0,0,Milieu 7–12,0,0
+KL01::patricia,KL01,0,12,14.0,0,0,0,0,0,Fin 13+,0,0
+KL01::guénaëlle biras,KL01,0,0,6.0,0,0,0,1,0,Début 1–6,0,0
+KL01::guénaëlle biras,KL01,0,6,12.0,0,0,0,1,0,Milieu 7–12,0,0
+KL01::guénaëlle biras,KL01,0,12,15.0,0,0,0,1,0,Fin 13+,0,0
+KL01::gilles nicolet,KL01,0,0,6.0,0,0,1,0,1,Début 1–6,0,0
+KL01::gilles nicolet,KL01,0,6,12.0,0,0,1,0,1,Milieu 7–12,0,0
+KL01::gilles nicolet,KL01,0,12,16.0,0,0,1,0,1,Fin 13+,0,0

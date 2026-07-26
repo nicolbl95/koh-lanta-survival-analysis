@@ -1,0 +1,110 @@
+Enrichment log — 2026-07-19T20:24:32.247244+00:00
+Mode: B
+Input: C:\Users\nicol\Documents\GitHub\Fourth Project Koh Lanta\data\raw\koh_lanta_thailande_raw.csv
+Output: C:\Users\nicol\Documents\GitHub\Fourth Project Koh Lanta\data\enrichment\koh_lanta_thailande_enriched_v1.csv
+
+Charlie Vincent-Mussard: status=COMPLETE
+  gender=FEMALE (MEDIUM)
+  profession=Restauratrice de meubles (MEDIUM)
+  departure=ABANDON_VOLONTAIRE (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Sortie issue de données validées (lot 1); Sortie volontaire dans un contexte lié à un traitement médical confisqué ; ne pas assimiler à une évacuation décidée par le médecin.
+Laurence Corbellotti: status=COMPLETE
+  gender=FEMALE (MEDIUM)
+  profession=Animatrice et danseuse (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Conflit résolu grâce au portrait officiel TF1 publié avant la diffusion de la saison. La profession retenue pour 2016 est animatrice et danseuse. Les valeurs secondaires 'nounou pour chien' et 'organizer' ne sont pas retenues dans le dataset principal.
+Marius Torterat: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Étudiant en design automobile (HIGH)
+  departure=ABANDON_VOLONTAIRE (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Sortie issue de données validées (lot 1)
+Céline Parat-Yeghiayan: status=COMPLETE
+  gender=FEMALE (MEDIUM)
+  profession=Formatrice (MEDIUM)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Ancien portrait indiqué comme provenant de TF1, mais actuellement hébergé sur une base secondaire.
+Huw Francis: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Entrepreneur dans l'événementiel sportif (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Profession confirmée par une source officielle TF1 et cohérente avec son parcours professionnel antérieur.
+Carole Poncelet: status=COMPLETE
+  gender=FEMALE (HIGH)
+  profession=Maître-nageuse et agente territoriale (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Le portrait promotionnel TF1 la présentait comme escrimeuse. Des sources journalistiques fiables précisent que son emploi était agente territoriale et maître-nageuse. Conserver la mention d'escrimeuse comme activité sportive, pas comme unique profession.
+Laurence "Lolo" Facione: status=COMPLETE
+  gender=FEMALE (HIGH)
+  profession=Maître-nageuse (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Profession indiquée par une source TF1 contemporaine de la diffusion.
+Amir Doukhan: status=COMPLETE
+  gender=MALE (MEDIUM)
+  profession=Directeur commercial (MEDIUM)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Informations issues d'une base secondaire spécialisée. Confiance moyenne en attendant éventuellement un portrait TF1 archivé.
+Cassandre Girard: status=COMPLETE
+  gender=FEMALE (MEDIUM)
+  profession=Diplômée en tourisme (HIGH)
+  departure=AMBASSADEURS_TIRAGE_AU_SORT (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Sortie issue de données validées (lot 1); La source officielle indique une qualification plutôt qu'un emploi précis. Ne pas inventer de métier. Conserver 'diplômée en tourisme' comme formulation brute et normalisée. | Sortie auditée et corrigée : élimination aux ambassadeurs par tirage de la boule noire. Il ne s'agit pas d'un duel ni d'une élimination liée à une épreuve.
+Romain Palazzetti: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Entrepreneur en domotique (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Profession indiquée par une source TF1 contemporaine de la saison. La mention de judoka doit être conservée pour la future recherche sportive, mais ne pas calculer le score physique maintenant.
+Julien Castro: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Menuisier (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Menuisier aux côtés de son père selon le portrait de candidat. Source officielle contemporaine de la saison.
+Laureen Hugel: status=COMPLETE
+  gender=FEMALE (MEDIUM)
+  profession=Étudiante en mode et création (MEDIUM)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); La fiche secondaire indique que le profil a été récupéré depuis l'ancien portrait TF1. Une source officielle archivée serait préférable, mais l'information est suffisamment cohérente pour une confiance moyenne.
+Steve Best: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Entrepreneur dans le textile (MEDIUM)
+  departure=DESTINS_LIES_SUITE_CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Sortie issue de données validées (lot 1); La profession provient d'une reproduction secondaire de l'ancien profil TF1. Le portrait officiel TF1 le décrit plus généralement comme entrepreneur.
+Carine Cazals: status=COMPLETE
+  gender=FEMALE (HIGH)
+  profession=Gestionnaire de stock (MEDIUM)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); L'activité principale indiquée est gestionnaire de stock dans la fibre optique. Gendarme réserviste est conservé comme activité secondaire et pourra servir de preuve complémentaire lors du futur scoring physique.
+Karima Neggaz: status=COMPLETE
+  gender=FEMALE (HIGH)
+  profession=Militaire (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Profession confirmée directement par Karima dans une interview reprise par TF1. Conserver les mentions de carrière militaire et de performances sportives pour la future phase de score physique, sans attribuer encore de score.
+Nicolas Rouyé: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Mannequin (HIGH)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Profession indiquée dans une présentation officielle TF1 contemporaine de la saison. Conserver les mentions de sports de glisse et de ski nautique pour la future phase physique, sans calculer de score maintenant.
+Alain Chrisostome: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Employé de supermarché (MEDIUM)
+  departure=CONSEIL (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Profession provenant d'une reproduction secondaire de l'ancien profil TF1. La source officielle actuelle confirme son identité et son âge, mais pas directement son métier. Conserver la mention de champion de pelote basque pour la future phase physique.
+Cécilia Siharaj: status=COMPLETE
+  gender=FEMALE (HIGH)
+  profession=Danseuse professionnelle (HIGH)
+  departure=COURSE_ORIENTATION (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Sortie issue de données validées (lot 1); Profession confirmée par une source officielle TF1. Conserver les mentions d'arts martiaux et de danse pour la future phase physique.
+Gabriel Gubbels: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Inspecteur de police (HIGH)
+  departure=POTEAUX (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Sortie issue de données validées (lot 1); La profession principale est inspecteur de police. Une source secondaire mentionne également une activité de toiletteur pour chiens, qui peut être conservée en note mais ne remplace pas la profession principale.
+Pascal Salviani: status=COMPLETE
+  gender=MALE (HIGH)
+  profession=Chef d'entreprise (HIGH)
+  departure=FINALISTE (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); La nature exacte de l'entreprise n'est pas indiquée dans cette source. Ne pas inventer de secteur d'activité.
+Wendy Gervois: status=COMPLETE
+  gender=FEMALE (HIGH)
+  profession=Boxeuse (HIGH)
+  departure=VAINQUEUR (needs_enrich=False)
+  notes: Genre issu de données validées (lot 1); Profession issue de données validées (lot 1); Profession indiquée par le portrait officiel TF1 de la saison. D'autres sources indiquent qu'elle travaillait également comme surveillante dans un lycée, mais le métier déclaré dans le profil Koh-Lanta est Boxeuse. Les mentions de boxe anglaise depuis l'enfance doivent être conservées pour la future phase de score physique, sans attribuer encore de score.

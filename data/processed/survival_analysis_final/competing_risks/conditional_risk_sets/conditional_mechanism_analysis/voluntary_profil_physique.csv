@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+VOLUNTARY,Abandon volontaire,RISK_SET_ROBUST,Profil physique,Profil non physique,171,11,0.06432748538011696,0.036295382664577644,0.11150468322363201
+VOLUNTARY,Abandon volontaire,RISK_SET_ROBUST,Profil physique,Profil physique,48,2,0.041666666666666664,0.011501652078965613,0.13975911147771472

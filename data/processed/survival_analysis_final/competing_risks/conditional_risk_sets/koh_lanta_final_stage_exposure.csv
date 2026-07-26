@@ -1,0 +1,341 @@
+﻿candidate_season_key,season_id,season_name,candidate_name,gender_male,gender_label,physical_score,physical_label,age_band,age_label,final_departure_cause,reached_orientation,eliminated_orientation,passed_orientation,reached_poteaux,eliminated_poteaux,reached_jury_final,won_jury_final,lost_jury_final
+KL03::alexandra denikine,KL03,Koh-Lanta : Bocas del Toro,Alexandra Denikine,0,Femme,0.0,Profil non physique,26-33,26–33 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL03::candice cohen,KL03,Koh-Lanta : Bocas del Toro,Candice Cohen,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL03::michel jeandel,KL03,Koh-Lanta : Bocas del Toro,Michel Jeandel,1,Homme,1.0,Profil physique,34-41,34–41 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL03::sophie guilloix,KL03,Koh-Lanta : Bocas del Toro,Sophie Guilloix,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::julie bourdon,KL03,Koh-Lanta : Bocas del Toro,Julie Bourdon,0,Femme,0.0,Profil non physique,18-25,18–25 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL03::linda delamarre,KL03,Koh-Lanta : Bocas del Toro,Linda Delamarre,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::philippe huquet,KL03,Koh-Lanta : Bocas del Toro,Philippe Huquet,1,Homme,0.0,Profil non physique,42+,42 ans et plus,MEDICAL,0,0,0,0,0,0,0,0
+KL03::alexandre bérard,KL03,Koh-Lanta : Bocas del Toro,Alexandre Bérard,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::richard lecourt,KL03,Koh-Lanta : Bocas del Toro,Richard Lecourt,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::sylvie rivoal,KL03,Koh-Lanta : Bocas del Toro,Sylvie Rivoal,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::sébastien loew,KL03,Koh-Lanta : Bocas del Toro,Sébastien Loew,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::valérie dot,KL03,Koh-Lanta : Bocas del Toro,Valérie Dot,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::hélène patry,KL03,Koh-Lanta : Bocas del Toro,Hélène Patry,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::moundir zoughari,KL03,Koh-Lanta : Bocas del Toro,Moundir Zoughari,1,Homme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL03::antoine sanchez,KL03,Koh-Lanta : Bocas del Toro,Antoine Sanchez,1,Homme,1.0,Profil physique,42+,42 ans et plus,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL03::moussa niangane,KL03,Koh-Lanta : Bocas del Toro,Moussa Niangane,1,Homme,1.0,Profil physique,18-25,18–25 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL03::delphine bano,KL03,Koh-Lanta : Bocas del Toro,Delphine Bano,0,Femme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL03::isabelle seguin,KL03,Koh-Lanta : Bocas del Toro,Isabelle Seguin,0,Femme,0.0,Profil non physique,34-41,34–41 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL08::valérie,KL08,KL KL08,Valérie,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL08::céga,KL08,KL KL08,Céga,1,Homme,0.0,Profil non physique,42+,42 ans et plus,MEDICAL,0,0,0,0,0,0,0,0
+KL08::irya,KL08,KL KL08,Irya,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::morgane,KL08,KL KL08,Morgane,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::jessica,KL08,KL KL08,Jessica,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::alain,KL08,KL KL08,Alain,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::jean-bernard,KL08,KL KL08,Jean-Bernard,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::christopher,KL08,KL KL08,Christopher,1,Homme,0.0,Profil non physique,34-41,34–41 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL08::christophe,KL08,KL KL08,Christophe,1,Homme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::charlène,KL08,KL KL08,Charlène,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::hakim,KL08,KL KL08,Hakim,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::régis,KL08,KL KL08,Régis,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::carole,KL08,KL KL08,Carole,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL08::nathalie,KL08,KL KL08,Nathalie,0,Femme,0.0,Profil non physique,42+,42 ans et plus,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL08::bertrand,KL08,KL KL08,Bertrand,1,Homme,0.0,Profil non physique,34-41,34–41 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL08::frédéric favier,KL08,KL KL08,Frédéric Favier,1,Homme,0.0,Profil non physique,26-33,26–33 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL08::christelle gauzet,KL08,KL KL08,Christelle Gauzet,0,Femme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL17::babeth delettre,KL17,Koh-Lanta : Johor,Babeth Delettre,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::marie-anne queniart,KL17,Koh-Lanta : Johor,Marie-Anne Queniart,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::benoît jorion-fahy,KL17,Koh-Lanta : Johor,Benoît Jorion-Fahy,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::manon allender,KL17,Koh-Lanta : Johor,Manon Allender,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL17::loïc crespin,KL17,Koh-Lanta : Johor,Loïc Crespin,1,Homme,0.0,Profil non physique,18-25,18–25 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL17::isabelle haouzi,KL17,Koh-Lanta : Johor,Isabelle Haouzi,0,Femme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::margot perrot houwaer,KL17,Koh-Lanta : Johor,Margot Perrot Houwaer,0,Femme,0.0,Profil non physique,18-25,18–25 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL17::alban pellegrin,KL17,Koh-Lanta : Johor,Alban Pellegrin,1,Homme,0.0,Profil non physique,26-33,26–33 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL17::corinne bargoin samuelian,KL17,Koh-Lanta : Johor,Corinne Bargoin Samuelian,0,Femme,0.0,Profil non physique,42+,42 ans et plus,MEDICAL,0,0,0,0,0,0,0,0
+KL17::cédric giosserand-lucas,KL17,Koh-Lanta : Johor,Cédric Giosserand-Lucas,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::charlaine cuny,KL17,Koh-Lanta : Johor,Charlaine Cuny,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::nessim kouachi,KL17,Koh-Lanta : Johor,Nessim Kouachi,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::jeff santiago,KL17,Koh-Lanta : Johor,Jeff Santiago,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::christophe pendon,KL17,Koh-Lanta : Johor,Christophe Pendon,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::jessica potel,KL17,Koh-Lanta : Johor,Jessica Potel,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::sébastien ballesteros,KL17,Koh-Lanta : Johor,Sébastien Ballesteros,1,Homme,1.0,Profil physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL17::bruno peisey,KL17,Koh-Lanta : Johor,Bruno Peisey,1,Homme,0.0,Profil non physique,42+,42 ans et plus,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL17::mélissa bastin,KL17,Koh-Lanta : Johor,Mélissa Bastin,0,Femme,1.0,Profil physique,26-33,26–33 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL17::chantel ménard,KL17,Koh-Lanta : Johor,Chantel Ménard,0,Femme,1.0,Profil physique,42+,42 ans et plus,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL17::marc rambaud,KL17,Koh-Lanta : Johor,Marc Rambaud,1,Homme,0.0,Profil non physique,42+,42 ans et plus,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL31::myriam zenasni,KL31,Koh-Lanta : L'Île au trésor,Myriam Zenasni,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::amandine schmitt,KL31,Koh-Lanta : L'Île au trésor,Amandine Schmitt,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::sophie le nestic sabattier,KL31,Koh-Lanta : L'Île au trésor,Sophie Le Nestic Sabattier,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::sandrine bouzekri,KL31,Koh-Lanta : L'Île au trésor,Sandrine Bouzekri,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::laurent mischkind,KL31,Koh-Lanta : L'Île au trésor,Laurent Mischkind,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::jean-luc duboscq,KL31,Koh-Lanta : L'Île au trésor,Jean-Luc Duboscq,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::jérôme merlier,KL31,Koh-Lanta : L'Île au trésor,Jérôme Merlier,1,Homme,0.0,Profil non physique,42+,42 ans et plus,AMBASSADEURS,0,0,0,0,0,0,0,0
+"KL31::laurent ""lau"" émilien",KL31,Koh-Lanta : L'Île au trésor,"Laurent ""Lau"" Émilien",1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::béryl libault de la chevasnerie,KL31,Koh-Lanta : L'Île au trésor,Béryl Libault de la Chevasnerie,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::alexandra pharisien,KL31,Koh-Lanta : L'Île au trésor,Alexandra Pharisien,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::yannick delalleau,KL31,Koh-Lanta : L'Île au trésor,Yannick Delalleau,1,Homme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::julie navarro-camilleri,KL31,Koh-Lanta : L'Île au trésor,Julie Navarro-Camilleri,0,Femme,0.0,Profil non physique,34-41,34–41 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL31::jérémy raffin,KL31,Koh-Lanta : L'Île au trésor,Jérémy Raffin,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::stéphane cipolla,KL31,Koh-Lanta : L'Île au trésor,Stéphane Cipolla,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::ludivine wiart,KL31,Koh-Lanta : L'Île au trésor,Ludivine Wiart,0,Femme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL31::candice boisson,KL31,Koh-Lanta : L'Île au trésor,Candice Boisson,0,Femme,1.0,Profil physique,18-25,18–25 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL31::bruno troester,KL31,Koh-Lanta : L'Île au trésor,Bruno Troester,1,Homme,0.0,Profil non physique,42+,42 ans et plus,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL31::freddy bolzer,KL31,Koh-Lanta : L'Île au trésor,Freddy Bolzer,1,Homme,0.0,Profil non physique,26-33,26–33 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL31::jesta hillmann,KL31,Koh-Lanta : L'Île au trésor,Jesta Hillmann,0,Femme,0.0,Profil non physique,18-25,18–25 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL31::benoît assadi,KL31,Koh-Lanta : L'Île au trésor,Benoît Assadi,1,Homme,1.0,Profil physique,18-25,18–25 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL22::aliséa,KL22,Koh-Lanta : La Guerre des Chefs,Aliséa,0,Femme,1.0,Profil physique,18-25,18–25 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL22::carinne,KL22,Koh-Lanta : La Guerre des Chefs,Carinne,0,Femme,0.0,Profil non physique,42+,42 ans et plus,MEDICAL,0,0,0,0,0,0,0,0
+KL22::émilie,KL22,Koh-Lanta : La Guerre des Chefs,Émilie,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::victor,KL22,Koh-Lanta : La Guerre des Chefs,Victor,1,Homme,1.0,Profil physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::chloé,KL22,Koh-Lanta : La Guerre des Chefs,Chloé,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::xavier,KL22,Koh-Lanta : La Guerre des Chefs,Xavier,1,Homme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::frédéric,KL22,Koh-Lanta : La Guerre des Chefs,Frédéric,1,Homme,0.0,Profil non physique,42+,42 ans et plus,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL22::alexandre,KL22,Koh-Lanta : La Guerre des Chefs,Alexandre,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::béatrice,KL22,Koh-Lanta : La Guerre des Chefs,Béatrice,0,Femme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::brice,KL22,Koh-Lanta : La Guerre des Chefs,Brice,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::sophie,KL22,Koh-Lanta : La Guerre des Chefs,Sophie,0,Femme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::angélique,KL22,Koh-Lanta : La Guerre des Chefs,Angélique,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::mohamed,KL22,Koh-Lanta : La Guerre des Chefs,Mohamed,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::nicolas,KL22,Koh-Lanta : La Guerre des Chefs,Nicolas,1,Homme,0.0,Profil non physique,34-41,34–41 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL22::maxime,KL22,Koh-Lanta : La Guerre des Chefs,Maxime,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::cyril,KL22,Koh-Lanta : La Guerre des Chefs,Cyril,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL22::clo,KL22,Koh-Lanta : La Guerre des Chefs,Clo,0,Femme,1.0,Profil physique,26-33,26–33 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL22::aurélien,KL22,Koh-Lanta : La Guerre des Chefs,Aurélien,1,Homme,1.0,Profil physique,18-25,18–25 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL22::steeve,KL22,Koh-Lanta : La Guerre des Chefs,Steeve,1,Homme,0.0,Profil non physique,42+,42 ans et plus,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL22::cindy,KL22,Koh-Lanta : La Guerre des Chefs,Cindy,0,Femme,0.0,Profil non physique,26-33,26–33 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL22::maud,KL22,Koh-Lanta : La Guerre des Chefs,Maud,0,Femme,0.0,Profil non physique,42+,42 ans et plus,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL29::cynthiana,KL29,Koh-Lanta : La Revanche des 4 Terres,Cynthiana,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::allan,KL29,Koh-Lanta : La Revanche des 4 Terres,Allan,1,Homme,0.0,Profil non physique,18-25,18–25 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL29::christian,KL29,Koh-Lanta : La Revanche des 4 Terres,Christian,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::romane,KL29,Koh-Lanta : La Revanche des 4 Terres,Romane,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::mehdi,KL29,Koh-Lanta : La Revanche des 4 Terres,Mehdi,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL29::benoît,KL29,Koh-Lanta : La Revanche des 4 Terres,Benoît,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::mohamed,KL29,Koh-Lanta : La Revanche des 4 Terres,Mohamed,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::pauline,KL29,Koh-Lanta : La Revanche des 4 Terres,Pauline,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::andréa,KL29,Koh-Lanta : La Revanche des 4 Terres,Andréa,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::adrien,KL29,Koh-Lanta : La Revanche des 4 Terres,Adrien,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::frédéric,KL29,Koh-Lanta : La Revanche des 4 Terres,Frédéric,1,Homme,0.0,Profil non physique,42+,42 ans et plus,MEDICAL,0,0,0,0,0,0,0,0
+KL29::jessica,KL29,Koh-Lanta : La Revanche des 4 Terres,Jessica,0,Femme,0.0,Profil non physique,34-41,34–41 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL29::louise,KL29,Koh-Lanta : La Revanche des 4 Terres,Louise,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::joana,KL29,Koh-Lanta : La Revanche des 4 Terres,Joana,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::naïs,KL29,Koh-Lanta : La Revanche des 4 Terres,Naïs,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::pierre-marie,KL29,Koh-Lanta : La Revanche des 4 Terres,Pierre-Marie,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::maxime,KL29,Koh-Lanta : La Revanche des 4 Terres,Maxime,1,Homme,0.0,Profil non physique,26-33,26–33 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL29::noémie,KL29,Koh-Lanta : La Revanche des 4 Terres,Noémie,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::céline,KL29,Koh-Lanta : La Revanche des 4 Terres,Céline,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL29::jérôme#row20,KL29,Koh-Lanta : La Revanche des 4 Terres,Jérôme,1,Homme,0.0,Profil non physique,42+,42 ans et plus,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL29::claire,KL29,Koh-Lanta : La Revanche des 4 Terres,Claire,0,Femme,0.0,Profil non physique,34-41,34–41 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL29::jérôme#row22,KL29,Koh-Lanta : La Revanche des 4 Terres,Jérôme,1,Homme,0.0,Profil non physique,42+,42 ans et plus,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL29::maël,KL29,Koh-Lanta : La Revanche des 4 Terres,Maël,1,Homme,0.0,Profil non physique,26-33,26–33 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL29::gaëlle,KL29,Koh-Lanta : La Revanche des 4 Terres,Gaëlle,0,Femme,0.0,Profil non physique,34-41,34–41 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL26::célia,KL26,Koh-Lanta : Le Feu Sacré,Célia,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::emin,KL26,Koh-Lanta : Le Feu Sacré,Emin,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::alexandre,KL26,Koh-Lanta : Le Feu Sacré,Alexandre,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::élodie,KL26,Koh-Lanta : Le Feu Sacré,Élodie,0,Femme,0.0,Profil non physique,34-41,34–41 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL26::benjamin,KL26,Koh-Lanta : Le Feu Sacré,Benjamin,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL26::martin,KL26,Koh-Lanta : Le Feu Sacré,Martin,1,Homme,0.0,Profil non physique,26-33,26–33 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL26::christine,KL26,Koh-Lanta : Le Feu Sacré,Christine,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::rudy,KL26,Koh-Lanta : Le Feu Sacré,Rudy,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::grâce,KL26,Koh-Lanta : Le Feu Sacré,Grâce,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL26::anne-sophie,KL26,Koh-Lanta : Le Feu Sacré,Anne-Sophie,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::helena,KL26,Koh-Lanta : Le Feu Sacré,Helena,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::gilles,KL26,Koh-Lanta : Le Feu Sacré,Gilles,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::clémence,KL26,Koh-Lanta : Le Feu Sacré,Clémence,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::esteban,KL26,Koh-Lanta : Le Feu Sacré,Esteban,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::laura,KL26,Koh-Lanta : Le Feu Sacré,Laura,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL26::quentin,KL26,Koh-Lanta : Le Feu Sacré,Quentin,1,Homme,0.0,Profil non physique,26-33,26–33 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL26::julie,KL26,Koh-Lanta : Le Feu Sacré,Julie,0,Femme,1.0,Profil physique,26-33,26–33 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL26::nicolas,KL26,Koh-Lanta : Le Feu Sacré,Nicolas,1,Homme,0.0,Profil non physique,42+,42 ans et plus,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL26::tania,KL26,Koh-Lanta : Le Feu Sacré,Tania,0,Femme,0.0,Profil non physique,18-25,18–25 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL26::frédéric,KL26,Koh-Lanta : Le Feu Sacré,Frédéric,1,Homme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+"KL25::céline ""lili"" gasnier",KL25,Koh-Lanta : Le Totem Maudit,"Céline ""Lili"" Gasnier",0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::céline dufrenoy,KL25,Koh-Lanta : Le Totem Maudit,Céline Dufrenoy,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::franck macia,KL25,Koh-Lanta : Le Totem Maudit,Franck Macia,1,Homme,1.0,Profil physique,42+,42 ans et plus,VOLUNTARY,0,0,0,0,0,0,0,0
+KL25::mattéo real,KL25,Koh-Lanta : Le Totem Maudit,Mattéo Real,1,Homme,1.0,Profil physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::samira aït-brahim,KL25,Koh-Lanta : Le Totem Maudit,Samira Aït-Brahim,0,Femme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::benjamin breerette,KL25,Koh-Lanta : Le Totem Maudit,Benjamin Breerette,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::stéphanie tribot,KL25,Koh-Lanta : Le Totem Maudit,Stéphanie Tribot,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::jean-philippe masy,KL25,Koh-Lanta : Le Totem Maudit,Jean-Philippe Masy,1,Homme,0.0,Profil non physique,34-41,34–41 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL25::alexandra élizé,KL25,Koh-Lanta : Le Totem Maudit,Alexandra Élizé,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::setha el hajjami,KL25,Koh-Lanta : Le Totem Maudit,Setha El Hajjami,0,Femme,0.0,Profil non physique,34-41,34–41 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL25::colin mottas,KL25,Koh-Lanta : Le Totem Maudit,Colin Mottas,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::pauline pourchaire,KL25,Koh-Lanta : Le Totem Maudit,Pauline Pourchaire,0,Femme,0.0,Profil non physique,18-25,18–25 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL25::yannick zachée,KL25,Koh-Lanta : Le Totem Maudit,Yannick Zachée,1,Homme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::anne-sophie mounier,KL25,Koh-Lanta : Le Totem Maudit,Anne-Sophie Mounier,0,Femme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::maxime tournoux,KL25,Koh-Lanta : Le Totem Maudit,Maxime Tournoux,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::louana roy,KL25,Koh-Lanta : Le Totem Maudit,Louana Roy,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::fouzi ould bouamama,KL25,Koh-Lanta : Le Totem Maudit,Fouzi Ould Bouamama,1,Homme,0.0,Profil non physique,26-33,26–33 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL25::nicolas bellon,KL25,Koh-Lanta : Le Totem Maudit,Nicolas Bellon,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::olga khokhlova,KL25,Koh-Lanta : Le Totem Maudit,Olga Khokhlova,0,Femme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL25::ambre daudet,KL25,Koh-Lanta : Le Totem Maudit,Ambre Daudet,0,Femme,0.0,Profil non physique,26-33,26–33 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL25::jean-charles chatelus,KL25,Koh-Lanta : Le Totem Maudit,Jean-Charles Chatelus,1,Homme,0.0,Profil non physique,34-41,34–41 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL25::géraldine nicolle,KL25,Koh-Lanta : Le Totem Maudit,Géraldine Nicolle,0,Femme,0.0,Profil non physique,42+,42 ans et plus,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL25::bastien san pedro,KL25,Koh-Lanta : Le Totem Maudit,Bastien San Pedro,1,Homme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL25::françois descamp,KL25,Koh-Lanta : Le Totem Maudit,François Descamp,1,Homme,1.0,Profil physique,34-41,34–41 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL32::françois,KL32,Koh-Lanta : Les 4 Terres,François,1,Homme,0.0,Profil non physique,42+,42 ans et plus,MEDICAL,0,0,0,0,0,0,0,0
+KL32::carole,KL32,Koh-Lanta : Les 4 Terres,Carole,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::samuel,KL32,Koh-Lanta : Les 4 Terres,Samuel,1,Homme,0.0,Profil non physique,34-41,34–41 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL32::diane,KL32,Koh-Lanta : Les 4 Terres,Diane,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::estelle,KL32,Koh-Lanta : Les 4 Terres,Estelle,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::mathieu,KL32,Koh-Lanta : Les 4 Terres,Mathieu,1,Homme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::adrien,KL32,Koh-Lanta : Les 4 Terres,Adrien,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::aubin,KL32,Koh-Lanta : Les 4 Terres,Aubin,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::sébastien,KL32,Koh-Lanta : Les 4 Terres,Sébastien,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::marie-france,KL32,Koh-Lanta : Les 4 Terres,Marie-France,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::hadja,KL32,Koh-Lanta : Les 4 Terres,Hadja,0,Femme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::bertrand-kamal († décédé avant la finale),KL32,Koh-Lanta : Les 4 Terres,Bertrand-Kamal († décédé avant la finale),1,Homme,1.0,Profil physique,26-33,26–33 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL32::joaquina,KL32,Koh-Lanta : Les 4 Terres,Joaquina,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::jody,KL32,Koh-Lanta : Les 4 Terres,Jody,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::laurent,KL32,Koh-Lanta : Les 4 Terres,Laurent,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::alix,KL32,Koh-Lanta : Les 4 Terres,Alix,0,Femme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::fabrice,KL32,Koh-Lanta : Les 4 Terres,Fabrice,1,Homme,0.0,Profil non physique,42+,42 ans et plus,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL32::ava,KL32,Koh-Lanta : Les 4 Terres,Ava,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::angélique,KL32,Koh-Lanta : Les 4 Terres,Angélique,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL32::dorian,KL32,Koh-Lanta : Les 4 Terres,Dorian,1,Homme,1.0,Profil physique,26-33,26–33 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL32::lola,KL32,Koh-Lanta : Les 4 Terres,Lola,0,Femme,0.0,Profil non physique,18-25,18–25 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL32::loïc,KL32,Koh-Lanta : Les 4 Terres,Loïc,1,Homme,1.0,Profil physique,18-25,18–25 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL32::brice,KL32,Koh-Lanta : Les 4 Terres,Brice,1,Homme,0.0,Profil non physique,18-25,18–25 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL32::alexandra,KL32,Koh-Lanta : Les 4 Terres,Alexandra,0,Femme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL33::sylviane,KL33,Koh-Lanta : Les Armes secrètes,Sylviane,0,Femme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::marie,KL33,Koh-Lanta : Les Armes secrètes,Marie,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::élodie,KL33,Koh-Lanta : Les Armes secrètes,Élodie,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::candice,KL33,Koh-Lanta : Les Armes secrètes,Candice,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::gabin,KL33,Koh-Lanta : Les Armes secrètes,Gabin,1,Homme,0.0,Profil non physique,26-33,26–33 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL33::aurélien,KL33,Koh-Lanta : Les Armes secrètes,Aurélien,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::frédéric,KL33,Koh-Lanta : Les Armes secrètes,Frédéric,1,Homme,0.0,Profil non physique,42+,42 ans et plus,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL33::hervé,KL33,Koh-Lanta : Les Armes secrètes,Hervé,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::mathieu,KL33,Koh-Lanta : Les Armes secrètes,Mathieu,1,Homme,0.0,Profil non physique,26-33,26–33 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL33::shanice,KL33,Koh-Lanta : Les Armes secrètes,Shanice,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::myriam,KL33,Koh-Lanta : Les Armes secrètes,Myriam,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::vincent,KL33,Koh-Lanta : Les Armes secrètes,Vincent,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::laëtitia,KL33,Koh-Lanta : Les Armes secrètes,Laëtitia,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::thomas,KL33,Koh-Lanta : Les Armes secrètes,Thomas,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::flavio,KL33,Koh-Lanta : Les Armes secrètes,Flavio,1,Homme,0.0,Profil non physique,26-33,26–33 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL33::magali,KL33,Koh-Lanta : Les Armes secrètes,Magali,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL33::arnaud,KL33,Koh-Lanta : Les Armes secrètes,Arnaud,1,Homme,0.0,Profil non physique,34-41,34–41 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL33::laure,KL33,Koh-Lanta : Les Armes secrètes,Laure,0,Femme,0.0,Profil non physique,26-33,26–33 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL33::jonathan,KL33,Koh-Lanta : Les Armes secrètes,Jonathan,1,Homme,1.0,Profil physique,26-33,26–33 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL33::lucie,KL33,Koh-Lanta : Les Armes secrètes,Lucie,0,Femme,1.0,Profil physique,34-41,34–41 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL33::maxine,KL33,Koh-Lanta : Les Armes secrètes,Maxine,0,Femme,0.0,Profil non physique,18-25,18–25 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL27::steve grenier,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Steve Grenier,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::alicia bouly,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Alicia Bouly,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::nathalie suhard,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Nathalie Suhard,0,Femme,0.0,Profil non physique,42+,42 ans et plus,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL27::william plancq,KL27,Koh-Lanta : Les Chasseurs d'Immunité,William Plancq,1,Homme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::alexis tchernychev,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Alexis Tchernychev,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::émilie clavis,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Émilie Clavis,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::sarah diawara,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Sarah Diawara,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::maxime barbet,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Maxime Barbet,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::ricky poyet,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Ricky Poyet,1,Homme,0.0,Profil non physique,18-25,18–25 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL27::léa notardonato,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Léa Notardonato,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::océane montenegro,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Océane Montenegro,0,Femme,0.0,Profil non physique,34-41,34–41 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL27::cécile poprawa,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Cécile Poprawa,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::aurélien dulau,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Aurélien Dulau,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::jean belmonte,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Jean Belmonte,1,Homme,0.0,Profil non physique,26-33,26–33 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL27::mégane rouland,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Mégane Rouland,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::david murail,KL27,Koh-Lanta : Les Chasseurs d'Immunité,David Murail,1,Homme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::sébastien cazaux,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Sébastien Cazaux,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL27::amri madani,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Amri Madani,1,Homme,1.0,Profil physique,42+,42 ans et plus,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL27::pauline bonneil,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Pauline Bonneil,0,Femme,0.0,Profil non physique,26-33,26–33 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL27::julie rignault,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Julie Rignault,0,Femme,0.0,Profil non physique,34-41,34–41 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL27::meïssa seck,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Meïssa Seck,1,Homme,0.0,Profil non physique,26-33,26–33 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL27::léa sahin,KL27,Koh-Lanta : Les Chasseurs d'Immunité,Léa Sahin,0,Femme,0.0,Profil non physique,34-41,34–41 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL15::mélanie,KL15,Koh-Lanta : Malaisie,Mélanie,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::mickaël,KL15,Koh-Lanta : Malaisie,Mickaël,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::sara [ n 1 ],KL15,Koh-Lanta : Malaisie,Sara [ N 1 ],0,Femme,1.0,Profil physique,42+,42 ans et plus,MEDICAL,0,0,0,0,0,0,0,0
+KL15::nadine,KL15,Koh-Lanta : Malaisie,Nadine,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::élodie,KL15,Koh-Lanta : Malaisie,Élodie,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::marie [ n 2 ],KL15,Koh-Lanta : Malaisie,Marie [ N 2 ],0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::anthony,KL15,Koh-Lanta : Malaisie,Anthony,1,Homme,1.0,Profil physique,18-25,18–25 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL15::javier [ n 3 ],KL15,Koh-Lanta : Malaisie,Javier [ N 3 ],1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::namadia [ n 4 ],KL15,Koh-Lanta : Malaisie,Namadia [ N 4 ],1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::marylou,KL15,Koh-Lanta : Malaisie,Marylou,0,Femme,1.0,Profil physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::catherine,KL15,Koh-Lanta : Malaisie,Catherine,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::camille,KL15,Koh-Lanta : Malaisie,Camille,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::charles,KL15,Koh-Lanta : Malaisie,Charles,1,Homme,0.0,Profil non physique,18-25,18–25 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL15::thierry,KL15,Koh-Lanta : Malaisie,Thierry,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::myriam,KL15,Koh-Lanta : Malaisie,Myriam,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL15::bernard,KL15,Koh-Lanta : Malaisie,Bernard,1,Homme,0.0,Profil non physique,42+,42 ans et plus,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL15::philippe [ n 5 ],KL15,Koh-Lanta : Malaisie,Philippe [ N 5 ],1,Homme,0.0,Profil non physique,34-41,34–41 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL15::vanessa,KL15,Koh-Lanta : Malaisie,Vanessa,0,Femme,0.0,Profil non physique,34-41,34–41 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL15::brice [ n 6 ],KL15,Koh-Lanta : Malaisie,Brice [ N 6 ],1,Homme,0.0,Profil non physique,26-33,26–33 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL15::ugo [ n 7 ],KL15,Koh-Lanta : Malaisie,Ugo [ N 7 ],1,Homme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL02::xavier,KL02,KL KL02,Xavier,1,Homme,0.0,Profil non physique,26-33,26–33 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL02::caroline mercier,KL02,KL KL02,Caroline Mercier,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::céline genty,KL02,KL KL02,Céline Genty,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::nelly,KL02,KL KL02,Nelly,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::pierre,KL02,KL KL02,Pierre,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::jacky,KL02,KL KL02,Jacky,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::adonis,KL02,KL KL02,Adonis,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::jimmy,KL02,KL KL02,Jimmy,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::béatrice,KL02,KL KL02,Béatrice,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::françois-xavier,KL02,KL KL02,François-Xavier,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::isabelle,KL02,KL KL02,Isabelle,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::maud,KL02,KL KL02,Maud,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL02::marianne,KL02,KL KL02,Marianne,0,Femme,0.0,Profil non physique,18-25,18–25 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL02::bernard,KL02,KL KL02,Bernard,1,Homme,0.0,Profil non physique,34-41,34–41 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL02::nicolas roy,KL02,KL KL02,Nicolas Roy,1,Homme,0.0,Profil non physique,42+,42 ans et plus,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL02::amel fatnassi,KL02,KL KL02,Amel Fatnassi,0,Femme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL07::ali,KL07,KL KL07,Ali,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL07::pascale,KL07,KL KL07,Pascale,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::marie-laure,KL07,KL KL07,Marie-Laure,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::mélanie,KL07,KL KL07,Mélanie,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::véronique barriol,KL07,KL KL07,Véronique Barriol,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::chloé,KL07,KL KL07,Chloé,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::érick,KL07,KL KL07,Érick,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::filomène,KL07,KL KL07,Filomène,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::adrien,KL07,KL KL07,Adrien,1,Homme,0.0,Profil non physique,34-41,34–41 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL07::grégoire,KL07,KL KL07,Grégoire,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::laurent,KL07,KL KL07,Laurent,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::patrick,KL07,KL KL07,Patrick,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL07::simon,KL07,KL KL07,Simon,1,Homme,0.0,Profil non physique,34-41,34–41 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL07::maryline,KL07,KL KL07,Maryline,0,Femme,0.0,Profil non physique,34-41,34–41 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL07::kévin cuoco,KL07,KL KL07,Kévin Cuoco,1,Homme,0.0,Profil non physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL07::jade handi,KL07,KL KL07,Jade Handi,0,Femme,0.0,Profil non physique,34-41,34–41 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL13::lisa legouverneur,KL13,Koh-Lanta : Raja Ampat,Lisa Legouverneur,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::catherine diard,KL13,Koh-Lanta : Raja Ampat,Catherine Diard,0,Femme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::steve lemercier,KL13,Koh-Lanta : Raja Ampat,Steve Lemercier,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+"KL13::gérard ""gégé"" icardi",KL13,Koh-Lanta : Raja Ampat,"Gérard ""Gégé"" Icardi",1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+"KL13::nawal ""naouel"" hadjaf",KL13,Koh-Lanta : Raja Ampat,"Nawal ""Naouel"" Hadjaf",0,Femme,1.0,Profil physique,18-25,18–25 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL13::benoît mahieux,KL13,Koh-Lanta : Raja Ampat,Benoît Mahieux,1,Homme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::délisia fettache,KL13,Koh-Lanta : Raja Ampat,Délisia Fettache,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::caroline matteucci,KL13,Koh-Lanta : Raja Ampat,Caroline Matteucci,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::maxime boulet,KL13,Koh-Lanta : Raja Ampat,Maxime Boulet,1,Homme,0.0,Profil non physique,18-25,18–25 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL13::anthony amar,KL13,Koh-Lanta : Raja Ampat,Anthony Amar,1,Homme,1.0,Profil physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::olivier moenaert,KL13,Koh-Lanta : Raja Ampat,Olivier Moenaert,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::florence delbarre reuter,KL13,Koh-Lanta : Raja Ampat,Florence Delbarre Reuter,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::virginie jarry,KL13,Koh-Lanta : Raja Ampat,Virginie Jarry,0,Femme,0.0,Profil non physique,26-33,26–33 ans,MEDICAL,0,0,0,0,0,0,0,0
+KL13::patricia morel,KL13,Koh-Lanta : Raja Ampat,Patricia Morel,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::alexandra pouillon,KL13,Koh-Lanta : Raja Ampat,Alexandra Pouillon,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::martin bazin,KL13,Koh-Lanta : Raja Ampat,Martin Bazin,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL13::ella gbezan,KL13,Koh-Lanta : Raja Ampat,Ella Gbezan,0,Femme,0.0,Profil non physique,18-25,18–25 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL13::laurent maistret,KL13,Koh-Lanta : Raja Ampat,Laurent Maistret,1,Homme,1.0,Profil physique,26-33,26–33 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL13::teheiura teahui,KL13,Koh-Lanta : Raja Ampat,Teheiura Teahui,1,Homme,0.0,Profil non physique,26-33,26–33 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL13::gérard urdampilleta,KL13,Koh-Lanta : Raja Ampat,Gérard Urdampilleta,1,Homme,0.0,Profil non physique,34-41,34–41 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL18::charlie vincent-mussard,KL18,Koh-Lanta : Thaïlande,Charlie Vincent-Mussard,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL18::laurence corbellotti,KL18,Koh-Lanta : Thaïlande,Laurence Corbellotti,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::marius torterat,KL18,Koh-Lanta : Thaïlande,Marius Torterat,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOLUNTARY,0,0,0,0,0,0,0,0
+KL18::céline parat-yeghiayan,KL18,Koh-Lanta : Thaïlande,Céline Parat-Yeghiayan,0,Femme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::huw francis,KL18,Koh-Lanta : Thaïlande,Huw Francis,1,Homme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::carole poncelet,KL18,Koh-Lanta : Thaïlande,Carole Poncelet,0,Femme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+"KL18::laurence ""lolo"" facione",KL18,Koh-Lanta : Thaïlande,"Laurence ""Lolo"" Facione",0,Femme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::amir doukhan,KL18,Koh-Lanta : Thaïlande,Amir Doukhan,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::cassandre girard,KL18,Koh-Lanta : Thaïlande,Cassandre Girard,0,Femme,0.0,Profil non physique,18-25,18–25 ans,AMBASSADEURS,0,0,0,0,0,0,0,0
+KL18::romain palazzetti,KL18,Koh-Lanta : Thaïlande,Romain Palazzetti,1,Homme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::julien castro,KL18,Koh-Lanta : Thaïlande,Julien Castro,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::laureen hugel,KL18,Koh-Lanta : Thaïlande,Laureen Hugel,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::steve best,KL18,Koh-Lanta : Thaïlande,Steve Best,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::carine cazals,KL18,Koh-Lanta : Thaïlande,Carine Cazals,0,Femme,1.0,Profil physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::karima neggaz,KL18,Koh-Lanta : Thaïlande,Karima Neggaz,0,Femme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::nicolas rouyé,KL18,Koh-Lanta : Thaïlande,Nicolas Rouyé,1,Homme,1.0,Profil physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::alain chrisostome,KL18,Koh-Lanta : Thaïlande,Alain Chrisostome,1,Homme,1.0,Profil physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL18::cécilia siharaj,KL18,Koh-Lanta : Thaïlande,Cécilia Siharaj,0,Femme,1.0,Profil physique,26-33,26–33 ans,FINALE_ORIENTATION,1,1,0,0,0,0,0,0
+KL18::gabriel gubbels,KL18,Koh-Lanta : Thaïlande,Gabriel Gubbels,1,Homme,0.0,Profil non physique,34-41,34–41 ans,FINALE_POTEAUX,1,0,1,1,1,0,0,0
+KL18::pascal salviani,KL18,Koh-Lanta : Thaïlande,Pascal Salviani,1,Homme,0.0,Profil non physique,42+,42 ans et plus,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL18::wendy gervois,KL18,Koh-Lanta : Thaïlande,Wendy Gervois,0,Femme,1.0,Profil physique,26-33,26–33 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0
+KL01::marie,KL01,KL KL01,Marie,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::guillaume noël,KL01,KL KL01,Guillaume Noël,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::jean-luc,KL01,KL KL01,Jean-Luc,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::gaël,KL01,KL KL01,Gaël,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::harry,KL01,KL KL01,Harry,1,Homme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::sandra,KL01,KL KL01,Sandra,0,Femme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::david,KL01,KL KL01,David,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::stéphane,KL01,KL KL01,Stéphane,1,Homme,0.0,Profil non physique,18-25,18–25 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::géraldine drouhet,KL01,KL KL01,Géraldine Drouhet,0,Femme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::michèle,KL01,KL KL01,Michèle,0,Femme,0.0,Profil non physique,42+,42 ans et plus,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::william,KL01,KL KL01,William,1,Homme,0.0,Profil non physique,26-33,26–33 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::françoise,KL01,KL KL01,Françoise,0,Femme,0.0,Profil non physique,34-41,34–41 ans,VOTE_CONSEIL,0,0,0,0,0,0,0,0
+KL01::romain,KL01,KL KL01,Romain,1,Homme,0.0,Profil non physique,26-33,26–33 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL01::patricia,KL01,KL KL01,Patricia,0,Femme,0.0,Profil non physique,26-33,26–33 ans,ELIMINATION_CHALLENGE,0,0,0,0,0,0,0,0
+KL01::guénaëlle biras,KL01,KL KL01,Guénaëlle Biras,0,Femme,0.0,Profil non physique,18-25,18–25 ans,JURY_FINAL_DECISION,1,0,1,1,0,1,0,1
+KL01::gilles nicolet,KL01,KL KL01,Gilles Nicolet,1,Homme,0.0,Profil non physique,34-41,34–41 ans,CENSORED_WINNER,1,0,1,1,0,1,1,0

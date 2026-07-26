@@ -1,0 +1,12 @@
+{
+  "physical_score_1": 0,
+  "physical_score_0": 0,
+  "physical_score_null": 0,
+  "confidence_HIGH": 7,
+  "confidence_MEDIUM": 14,
+  "profession_only_count": 7,
+  "muscular_build_count": 2,
+  "manual_source_incomplete_count": 0,
+  "physical_freeze_ready": true,
+  "definition_version": "MUSCULAR_ATHLETIC_BINARY_V2"
+}

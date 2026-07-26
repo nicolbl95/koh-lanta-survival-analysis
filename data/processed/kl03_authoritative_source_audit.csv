@@ -1,0 +1,8 @@
+source_file,row_count,canonical_name_count,unexpected_name_count,missing_name_count,is_authoritative,audit_status,warnings
+data/processed/koh_lanta_global_audit_candidate_dataset.csv,341,18,0,0,False,PASS,
+data/enrichment/koh_lanta_global_local_enrichment_v1.csv,341,18,0,0,True,PASS,
+data/enrichment/koh_lanta_global_external_research_queue_v1.csv,190,18,0,0,False,PASS,
+data/processed/global_external_research_batch_plan.csv,190,18,0,0,False,PASS,
+data/enrichment/external_research_batches/external_research_batch_001.csv,20,18,0,0,False,PASS,
+data/enrichment/external_research_batches/external_research_batch_001_results_template.csv,20,18,0,0,False,PASS,
+config/seasons.json (KL03 entry),1,18,0,0,False,CONFIG_REFERENCE,Wikipedia URL used as seed for scraping

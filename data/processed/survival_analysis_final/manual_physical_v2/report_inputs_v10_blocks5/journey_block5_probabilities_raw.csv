@@ -1,0 +1,33 @@
+﻿variable,option,block,count,group_total,probability
+Sexe,Femme,1–5,57,171,0.3333333333333333
+Sexe,Femme,6–10,43,171,0.25146198830409355
+Sexe,Femme,11–15,39,171,0.22807017543859648
+Sexe,Femme,Phase finale atteinte,32,171,0.1871345029239766
+Sexe,Homme,1–5,41,169,0.24260355029585798
+Sexe,Homme,6–10,44,169,0.2603550295857988
+Sexe,Homme,11–15,44,169,0.2603550295857988
+Sexe,Homme,Phase finale atteinte,40,169,0.23668639053254437
+Profil physique,Profil non physique,1–5,88,272,0.3235294117647059
+Profil physique,Profil non physique,6–10,68,272,0.25
+Profil physique,Profil non physique,11–15,65,272,0.23897058823529413
+Profil physique,Profil non physique,Phase finale atteinte,51,272,0.1875
+Profil physique,Profil physique,1–5,10,68,0.14705882352941177
+Profil physique,Profil physique,6–10,19,68,0.27941176470588236
+Profil physique,Profil physique,11–15,18,68,0.2647058823529412
+Profil physique,Profil physique,Phase finale atteinte,21,68,0.3088235294117647
+Âge,18–25 ans,1–5,29,80,0.3625
+Âge,18–25 ans,6–10,27,80,0.3375
+Âge,18–25 ans,11–15,13,80,0.1625
+Âge,18–25 ans,Phase finale atteinte,11,80,0.1375
+Âge,26–33 ans,1–5,18,102,0.17647058823529413
+Âge,26–33 ans,6–10,20,102,0.19607843137254902
+Âge,26–33 ans,11–15,38,102,0.37254901960784315
+Âge,26–33 ans,Phase finale atteinte,26,102,0.2549019607843137
+Âge,34–41 ans,1–5,24,92,0.2608695652173913
+Âge,34–41 ans,6–10,24,92,0.2608695652173913
+Âge,34–41 ans,11–15,25,92,0.2717391304347826
+Âge,34–41 ans,Phase finale atteinte,19,92,0.20652173913043478
+Âge,42 ans et plus,1–5,27,66,0.4090909090909091
+Âge,42 ans et plus,6–10,16,66,0.24242424242424243
+Âge,42 ans et plus,11–15,7,66,0.10606060606060606
+Âge,42 ans et plus,Phase finale atteinte,16,66,0.24242424242424243

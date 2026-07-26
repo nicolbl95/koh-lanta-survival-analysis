@@ -1,0 +1,68 @@
+season_name,candidate_name,final_exit_order,departure_description_raw,departure_type_normalized,departure_model_category,all_cause_exit_event,censored_at_end,returned_after_medical_replacement,needs_departure_enrichment,audit_status,audit_warning
+Koh-Lanta : Le Feu Sacré,Célia,1,Éliminée [ 11 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Emin,2,Éliminé [ 12 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Alexandre,3,Éliminé [ 13 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Élodie,4,Éliminée [ 14 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Benjamin,5,Abandon volontaire [ 15 ],ABANDON_VOLONTAIRE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Le Feu Sacré,Martin,6,Abandon médical [ 16 ],ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Le Feu Sacré,Christine,7,Éliminée [ 17 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Rudy,8,Éliminé [ 18 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Grâce,9,"Abandon volontaire [ 19 ] , [ n 1 ]",ABANDON_VOLONTAIRE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Le Feu Sacré,Anne-Sophie,10,Éliminée [ 20 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Helena,11,Éliminée [ 21 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Gilles,12,Éliminé [ 22 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Clémence,13,Éliminée [ 23 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Esteban,14,Éliminé [ 24 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Laura,15,Éliminée [ 25 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Quentin,16,Éliminé [ 26 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Julie,17,Éliminée [ 27 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Nicolas,18,Éliminé [ 28 ],INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Le Feu Sacré,Tania,19,Finaliste [ 28 ],FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Le Feu Sacré,Frédéric,20,Vainqueur [ 28 ],VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Steve Grenier,1,1st Voted Out Day 3,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Alicia Bouly,2,2nd Voted Out Day 6,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Nathalie Suhard,3,Lost Duel Day 7,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,William Plancq,4,3rd Voted Out Day 9,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Alexis Tchernychev,5,4th Voted Out Day 12,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Émilie Clavis,6,5th Voted Out Day 14,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Sarah Diawara,7,6th Voted Out Day 17,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Maxime Barbet,8,7th Voted Out Day 20,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Ricky Poyet,9,Eliminated Day 22,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Les Chasseurs d'Immunité,Léa Notardonato,10,8th Voted Out 1st Jury Member Day 23,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Océane Montenegro,11,Eliminated 2nd Jury Member Day 26,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE; Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Cécile Poprawa,12,9th Voted Out 3rd Jury Member Day 26,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Sébastien Cazaux Returned to Game,13,10th Voted Out Removed from Jury Day 29,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Aurélien Dulau,14,Eliminated 4th Jury Member Day 29,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE; Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Jean Belmonte,15,Medically Evacuated 5th Jury Member Day 32,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Mégane Rouland,16,12th Voted Out 6th Jury Member Day 32,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,David Murail,17,13th Voted Out 7th Jury Member Day 34,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Sébastien Cazaux,18,14th Voted Out 8th Jury Member Day 36,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Les Chasseurs d'Immunité,Amri Madani,19,Lost Challenge 9th Jury Member Day 37,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Pauline Bonneil,20,Lost Challenge 10th Jury Member Day 37,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Julie Rignault,21,15th Voted Out 11th Jury Member Day 38,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Meïssa Seck,22,Runner-up Day 38,FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Les Chasseurs d'Immunité,Léa Sahin,23,Sole Survivor Day 38,VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : La Revanche des 4 Terres,Cynthiana,1,"Éliminée [ 6 ] , [ 7 ] , [ 8 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Allan,2,"Abandon médical [ 9 ] , [ 10 ] , [ 11 ]",ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : La Revanche des 4 Terres,Christian,3,"Éliminé [ 12 ] , [ 13 ] , [ 14 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Romane,4,"Éliminée [ 15 ] , [ 16 ] , [ 17 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Mehdi,5,"Abandon volontaire [ 18 ] , [ 19 ] , [ 20 ]",ABANDON_VOLONTAIRE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : La Revanche des 4 Terres,Benoît,6,"Éliminé [ 21 ] , [ 22 ] , [ 23 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Mohamed,7,"Éliminé [ 24 ] , [ 25 ] , [ 26 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Pauline,8,"Éliminée [ 27 ] , [ 28 ] , [ 29 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Andréa,9,"Éliminée [ 30 ] , [ 31 ] , [ 32 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Adrien,10,"Éliminé [ 33 ] , [ 34 ] , [ 35 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Frédéric,11,"Abandon médical [ 36 ] , [ 37 ] , [ 38 ]",ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : La Revanche des 4 Terres,Jessica,12,"Éliminée [ 39 ] , [ 40 ] , [ 41 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Louise,13,"Éliminée [ 42 ] , [ 43 ] , [ 44 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Joana,14,"Éliminée [ 45 ] , [ 46 ] , [ 47 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Naïs,15,"Éliminée [ 48 ] , [ 49 ] , [ 50 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Pierre-Marie,16,"Éliminé [ 51 ] , [ 52 ] , [ 53 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Maxime,17,"Éliminé [ 54 ] , [ 55 ] , [ 56 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Noémie,18,"Éliminée [ 57 ] , [ 58 ] , [ 59 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Céline,19,"Éliminée [ 60 ] , [ 61 ] , [ 62 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Jérôme,20,"Éliminé [ 63 ] , [ 64 ] , [ 65 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Claire,21,"Éliminée [ 66 ] , [ 67 ] , [ 68 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Jérôme,22,"Éliminé [ 69 ] , [ 70 ] , [ 71 ]",INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : La Revanche des 4 Terres,Maël,23,"Finaliste [ 72 ] , [ 73 ] , [ 74 ]",FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : La Revanche des 4 Terres,Gaëlle,24,"Vainqueur [ 75 ] , [ 76 ] , [ 77 ]",VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS,

@@ -1,0 +1,5 @@
+season_id,season_name,season_year,source_url,source_language,scrape_status,candidate_count,expected_candidate_count_if_known,gender_coverage,age_coverage,profession_coverage,departure_coverage,winner_count,indeterminate_departure_count,duplicate_candidate_count,return_case_count,exit_order_ambiguity_count,manual_review_required,warnings
+KL21,Koh-Lanta : Cambodge,2018,https://en.wikipedia.org/wiki/Koh-Lanta:_Cambodge,en,SUCCESS,23,,0,21,0,23,1,1,0,0,7,False,1 INDETERMINE flagged
+KL22,Koh-Lanta : La Guerre des Chefs,2019,https://fr.wikipedia.org/wiki/Koh-Lanta_:_La_Guerre_des_Chefs,fr,SUCCESS,21,,21,21,21,21,1,17,0,0,0,False,17 INDETERMINE flagged
+KL25,Koh-Lanta : Le Totem Maudit,2022,https://en.wikipedia.org/wiki/Koh-Lanta:_Le_Totem_Maudit,en,PARTIAL,25,,0,24,0,25,0,7,0,0,7,True,Unusual candidate count: 25; No winner; 7 INDETERMINE flagged
+KL32,Koh-Lanta : Les 4 Terres,2020,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Les_4_Terres,fr,SUCCESS,24,,24,24,24,24,1,20,0,0,0,False,20 INDETERMINE flagged

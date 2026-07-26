@@ -1,0 +1,25 @@
+﻿model,term,coefficient,odds_ratio,ci_lower,ci_upper,p_value
+Phase finale — interaction rareté saisonnière,Intercept,-1.5196945065923964,0.21877871219865963,,,
+Phase finale — interaction rareté saisonnière,C(sex_group)[T.Homme],0.06749321428283123,1.0698230000569724,0.6149309738092209,1.861219063923722,0.8111885186042604
+Phase finale — interaction rareté saisonnière,"C(age_group, Treatment(reference='26–33 ans'))[T.18–25 ans]",-0.7227559629273053,0.48541263161318937,0.20812029297168488,1.132159769550676,0.09438768501856501
+Phase finale — interaction rareté saisonnière,"C(age_group, Treatment(reference='26–33 ans'))[T.34–41 ans]",-0.26989027250844966,0.7634632626496272,0.3636548876298812,1.602827772271963,0.47570238872699144
+Phase finale — interaction rareté saisonnière,"C(age_group, Treatment(reference='26–33 ans'))[T.42 ans et plus]",0.09905014299180526,1.1041216621343042,0.51899629704111,2.3489274427282743,0.7970528086804781
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL02],0.4256495124278693,1.5305842303617616,0.21154713196420774,11.07407160040568,0.6733430303391182
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL03],0.44199428131910856,1.5558068432458023,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL07],0.2550482236190767,1.2905238531030476,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL08],0.2806580604657761,1.3240007983073112,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL13],0.21980845706860352,1.2458380762546641,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL15],0.20799888949342216,1.2312118022793035,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL17],0.3357505592862123,1.3989900162160367,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL18],0.04725261133348341,1.048386810022474,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL22],0.44986003725985324,1.568092695579845,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL25],0.009181899175781341,1.0092241821255306,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL26],-0.29103905775620675,0.7474864823031415,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL27],0.08137913231609992,1.0847820945605855,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL29],0.16029445932378952,1.173856473089725,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL31],0.06943191378966365,1.0718990771741683,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL32],0.039849091241101364,1.0406537185810383,,,
+Phase finale — interaction rareté saisonnière,C(season_id)[T.KL33],0.27398987282706966,1.3152014828984255,,,
+Phase finale — interaction rareté saisonnière,physical_score,0.736539995912894,2.088696100471254,0.9629673253018041,4.530425161369334,0.06225973994732944
+Phase finale — interaction rareté saisonnière,physical_share_centered,0.8087880253279733,2.245185229421273,,,
+Phase finale — interaction rareté saisonnière,physical_score:physical_share_centered,0.1930036909064925,1.2128872701643583,0.0007936809352035586,1853.5099746971364,0.9588520148667682

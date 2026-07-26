@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+ELIMINATION_CHALLENGE,Épreuve éliminatoire / mort subite,RISK_SET_APPROXIMATE,Profil physique,Profil non physique,128,14,0.109375,0.0662781874950252,0.1752358718003717
+ELIMINATION_CHALLENGE,Épreuve éliminatoire / mort subite,RISK_SET_APPROXIMATE,Profil physique,Profil physique,29,2,0.06896551724137931,0.019120864097994433,0.21964947595851925

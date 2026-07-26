@@ -1,0 +1,53 @@
+{
+  "season_name": "Koh-Lanta : Thaïlande",
+  "season_year": 2016,
+  "candidate_count": 21,
+  "generated_at": "2026-07-19T20:31:09.414215+00:00",
+  "version": "descriptive_validated_v1",
+  "sha256": "994ce36546f5905d98d4bc67b8f85641c2ba264a54049a7037bf1ad1b964dce4",
+  "genders_filled": 21,
+  "professions_filled": 21,
+  "gender_distribution": {
+    "FEMALE": 11,
+    "MALE": 10
+  },
+  "profession_category_distribution": {
+    "COMMERCE_GESTION": 6,
+    "SPORT_SECURITE": 5,
+    "MANUEL_TECHNIQUE": 3,
+    "ART_MEDIA_COMMUNICATION": 3,
+    "ETUDIANT": 2,
+    "EDUCATION_RECHERCHE": 1,
+    "AUTRE": 1
+  },
+  "departure_type_distribution": {
+    "CONSEIL": 13,
+    "ABANDON_VOLONTAIRE": 2,
+    "AMBASSADEURS_TIRAGE_AU_SORT": 1,
+    "DESTINS_LIES_SUITE_CONSEIL": 1,
+    "COURSE_ORIENTATION": 1,
+    "POTEAUX": 1,
+    "FINALISTE": 1,
+    "VAINQUEUR": 1
+  },
+  "departure_model_category_distribution": {
+    "DECISION_AVENTURIERS": 15,
+    "AUTRE_SORTIE": 4,
+    "EPREUVE": 2
+  },
+  "gender_confidence_distribution": {
+    "HIGH": 15,
+    "MEDIUM": 6
+  },
+  "profession_confidence_distribution": {
+    "HIGH": 14,
+    "MEDIUM": 7
+  },
+  "departure_confidence_distribution": {
+    "HIGH": 5,
+    "MEDIUM": 1
+  },
+  "returned_to_game_true": 0,
+  "physical_score_filled": 0,
+  "enrichment_status_complete": 21
+}

@@ -1,0 +1,22 @@
+candidate_name,audit_status,audit_warnings,gender_confidence,profession_confidence,departure_confidence,source_quality_flag,manual_review_required
+Charlie Vincent-Mussard,PASS_WITH_WARNING,manual_review_required,MEDIUM,MEDIUM,MEDIUM,SECONDARY_DATABASE,True
+Laurence Corbellotti,PASS_WITH_WARNING,manual_review_required,MEDIUM,HIGH,,MIXED,True
+Marius Torterat,PASS_WITH_WARNING,manual_review_required,HIGH,HIGH,HIGH,RECOGNIZED_PRESS,True
+Céline Parat-Yeghiayan,PASS_WITH_WARNING,manual_review_required,MEDIUM,MEDIUM,,SECONDARY_DATABASE,True
+Huw Francis,PASS,,HIGH,HIGH,,OFFICIAL,False
+Carole Poncelet,PASS_WITH_WARNING,manual_review_required,HIGH,HIGH,,MIXED,True
+"Laurence ""Lolo"" Facione",PASS,,HIGH,HIGH,,OFFICIAL,False
+Amir Doukhan,PASS_WITH_WARNING,manual_review_required,MEDIUM,MEDIUM,,SECONDARY_DATABASE,True
+Cassandre Girard,PASS_WITH_WARNING,manual_review_required,MEDIUM,HIGH,HIGH,MIXED,True
+Romain Palazzetti,PASS,,HIGH,HIGH,,OFFICIAL,False
+Julien Castro,PASS,,HIGH,HIGH,,OFFICIAL,False
+Laureen Hugel,PASS_WITH_WARNING,manual_review_required,MEDIUM,MEDIUM,,SECONDARY_DATABASE,True
+Steve Best,PASS_WITH_WARNING,manual_review_required,HIGH,MEDIUM,HIGH,MIXED,True
+Carine Cazals,PASS_WITH_WARNING,manual_review_required,HIGH,MEDIUM,,MIXED,True
+Karima Neggaz,PASS,,HIGH,HIGH,,OFFICIAL,False
+Nicolas Rouyé,PASS,,HIGH,HIGH,,OFFICIAL,False
+Alain Chrisostome,PASS_WITH_WARNING,manual_review_required,HIGH,MEDIUM,,MIXED,True
+Cécilia Siharaj,PASS,,HIGH,HIGH,HIGH,MIXED,False
+Gabriel Gubbels,PASS,,HIGH,HIGH,HIGH,MIXED,False
+Pascal Salviani,PASS,,HIGH,HIGH,,OFFICIAL,False
+Wendy Gervois,PASS,,HIGH,HIGH,,OFFICIAL,False

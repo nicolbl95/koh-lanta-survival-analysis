@@ -1,0 +1,18 @@
+{
+  "configuration_version": "CLASSIC_SEASONS_V5",
+  "season_count": 17,
+  "candidate_count": 341,
+  "unique_candidate_season_key_count": 341,
+  "event_count": 321,
+  "censored_count": 20,
+  "winner_count_total": 20,
+  "return_case_count": 2,
+  "indeterminate_departure_count": 191,
+  "overall_departure_mechanism_coverage": 0.405,
+  "age_coverage": 317,
+  "gender_coverage": 65,
+  "physical_score_coverage": 21,
+  "ready_for_global_enrichment": true,
+  "ready_for_survival_model_after_enrichment": false,
+  "audit_warnings": []
+}

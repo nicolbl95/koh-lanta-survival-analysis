@@ -1,0 +1,21 @@
+﻿season_id,season_name,candidate_season_key,candidate_name,survival_time,event,final_position_raw
+KL01,KL KL01,KL01::gilles nicolet,Gilles Nicolet,16.0,0,VAINQUEUR
+KL02,KL KL02,KL02::amel fatnassi,Amel Fatnassi,16.0,0,VAINQUEUR
+KL03,Koh-Lanta : Bocas del Toro,KL03::delphine bano,Delphine Bano,18.0,0,CO_VAINQUEUR
+KL03,Koh-Lanta : Bocas del Toro,KL03::isabelle seguin,Isabelle Seguin,18.0,0,CO_VAINQUEUR
+KL07,KL KL07,KL07::jade handi,Jade Handi,16.0,0,CO_VAINQUEUR
+KL07,KL KL07,KL07::kévin cuoco,Kévin Cuoco,15.0,0,CO_VAINQUEUR
+KL08,KL KL08,KL08::christelle gauzet,Christelle Gauzet,17.0,0,VAINQUEUR
+KL13,Koh-Lanta : Raja Ampat,KL13::gérard urdampilleta,Gérard Urdampilleta,20.0,0,Sole Survivor Day 41
+KL15,Koh-Lanta : Malaisie,KL15::ugo [ n 7 ],Ugo [ N 7 ],20.0,0,Gagnant
+KL17,Koh-Lanta : Johor,KL17::marc rambaud,Marc Rambaud,20.0,0,Sole Survivor Day 40
+KL18,Koh-Lanta : Thaïlande,KL18::wendy gervois,Wendy Gervois,21.0,0,Sole Survivor Day 40
+KL22,Koh-Lanta : La Guerre des Chefs,KL22::maud,Maud,21.0,0,Gagnante [ 33 ] [source secondaire souhaitée]
+KL25,Koh-Lanta : Le Totem Maudit,KL25::bastien san pedro,Bastien San Pedro,23.0,0,Dual Survivors Day 39
+KL25,Koh-Lanta : Le Totem Maudit,KL25::françois descamp,François Descamp,24.0,0,Cadlao
+KL26,Koh-Lanta : Le Feu Sacré,KL26::frédéric,Frédéric,20.0,0,Vainqueur [ 28 ]
+KL27,Koh-Lanta : Les Chasseurs d'Immunité,KL27::léa sahin,Léa Sahin,23.0,0,Sole Survivor Day 38
+KL29,Koh-Lanta : La Revanche des 4 Terres,KL29::gaëlle,Gaëlle,24.0,0,"Vainqueur [ 75 ] , [ 76 ] , [ 77 ]"
+KL31,Koh-Lanta : L'Île au trésor,KL31::benoît assadi,Benoît Assadi,20.0,0,Sole Survivor Day 42
+KL32,Koh-Lanta : Les 4 Terres,KL32::alexandra,Alexandra,24.0,0,"Vainqueur [ 104 ] [source secondaire souhaitée] , [ 105 ] [source secondaire souhaitée] , [ 106 ] [source secondaire souhaitée] , [ 107 ] [source secondaire souhaitée]"
+KL33,Koh-Lanta : Les Armes secrètes,KL33::maxine,Maxine,21.0,0,"Vainqueur [ 115 ] , [ 116 ] , [ 117 ] , [ 118 ] , [ 119 ]"

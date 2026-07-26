@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+AMBASSADEURS,Ambassadeurs,RISK_SET_APPROXIMATE,Profil physique,Profil non physique,108,10,0.09259259259259259,0.051072779285118,0.16210013669605533
+AMBASSADEURS,Ambassadeurs,RISK_SET_APPROXIMATE,Profil physique,Profil physique,31,1,0.03225806451612903,0.00571707408694444,0.16194457176169622

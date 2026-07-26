@@ -1,0 +1,3 @@
+﻿Type,Sexe,Âge,Profil physique,N observé,Victoires observées,Probabilité brute observée,Probabilité ajustée prédite,Type résultat prédit,IC95 borne basse,IC95 borne haute,Largeur IC95,Rang prédit,Fiabilité descriptive
+Profil prédit le plus favorable,Femme,26–33 ans,Profil physique,6,1,0.16666666666666666,0.20128895794255858,Données ajustées sur la saison et standardisées sur la population,0.09843344044725363,0.45403019802229433,0.3555967575750407,1,Limitée
+Profil prédit le plus défavorable,Homme,18–25 ans,Profil non physique,25,0,0.0,0.013562611785687765,Données ajustées sur la saison et standardisées sur la population,0.005072979901628229,0.08632874134589444,0.08125576144426622,16,Meilleure

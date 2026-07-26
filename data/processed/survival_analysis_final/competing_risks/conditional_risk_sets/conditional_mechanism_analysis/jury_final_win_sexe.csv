@@ -1,0 +1,3 @@
+﻿mechanism,mechanism_label,analysis_type,variable,option,exposed,events,conditional_probability,ci95_lower,ci95_upper
+JURY_FINAL_WIN,Victoire au jury final,EXACT_STAGE_CONDITIONAL,Sexe,Femme,18,11,0.6111111111111112,0.3861866858065617,0.7969500807306884
+JURY_FINAL_WIN,Victoire au jury final,EXACT_STAGE_CONDITIONAL,Sexe,Homme,17,9,0.5294117647058824,0.30962897311549487,0.738351988039119

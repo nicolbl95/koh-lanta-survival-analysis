@@ -1,0 +1,5 @@
+﻿analysis,effect,hazard_ratio,p_value,interpretation
+Age bands global log-rank,,,0.009375568266224273,Teste si les courbes de survie diffèrent globalement entre les tranches d’âge.
+Adjusted Cox,Male vs female,0.8752805385076005,0.33013786779123644,HR inférieur à 1 = risque de sortie plus faible pour les hommes.
+Adjusted Cox,Physical score 1 vs 0,0.8392440977673762,0.37403466010241715,HR inférieur à 1 = risque de sortie plus faible pour les candidats physiques.
+Interaction Cox,Male × physical score,1.0953061875241927,0.8104830016202816,Teste si la condition physique agit différemment chez les hommes et les femmes.

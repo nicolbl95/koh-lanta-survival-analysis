@@ -1,0 +1,5 @@
+season_id,season_name,season_year,source_url,source_language,scrape_status,candidate_count,expected_candidate_count_if_known,gender_coverage,age_coverage,profession_coverage,departure_coverage,winner_count,indeterminate_departure_count,duplicate_candidate_count,return_case_count,exit_order_ambiguity_count,manual_review_required,warnings
+KL12,Koh-Lanta : Viêtnam,2010,https://en.wikipedia.org/wiki/Koh-Lanta:_Vi%C3%AAtnam,en,SUCCESS,21,,0,18,0,21,1,1,0,0,7,False,1 INDETERMINE flagged
+KL13,Koh-Lanta : Raja Ampat,2011,https://en.wikipedia.org/wiki/Koh-Lanta:_Raja_Ampat,en,SUCCESS,21,,0,20,0,21,1,2,0,0,5,False,2 INDETERMINE flagged
+KL15,Koh-Lanta : Malaisie,2012,https://fr.wikipedia.org/wiki/Koh-Lanta_:_Malaisie,fr,SUCCESS,20,,20,20,20,20,1,16,0,0,0,False,16 INDETERMINE flagged
+KL17,Koh-Lanta : Johor,2015,https://en.wikipedia.org/wiki/Koh-Lanta:_Johor,en,SUCCESS,23,,0,20,0,23,1,1,0,0,8,False,1 INDETERMINE flagged

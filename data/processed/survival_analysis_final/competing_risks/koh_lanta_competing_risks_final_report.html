@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Koh-Lanta — Analyse de survie</title>
+
+<style>
+    body {
+        max-width: 1050px;
+        margin: 0 auto;
+        padding: 40px 28px 80px;
+        font-family:
+            Inter,
+            -apple-system,
+            BlinkMacSystemFont,
+            "Segoe UI",
+            sans-serif;
+        line-height: 1.65;
+        color: #202124;
+        background: #ffffff;
+    }
+
+    h1 {
+        font-size: 2.35rem;
+        line-height: 1.15;
+        margin-bottom: 1.5rem;
+        border-bottom: 3px solid #202124;
+        padding-bottom: 1rem;
+    }
+
+    h2 {
+        margin-top: 3rem;
+        font-size: 1.65rem;
+        border-bottom: 1px solid #d8d8d8;
+        padding-bottom: 0.45rem;
+    }
+
+    h3 {
+        margin-top: 2rem;
+        font-size: 1.25rem;
+    }
+
+    p, li {
+        font-size: 1rem;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0 2rem;
+        font-size: 0.92rem;
+    }
+
+    th, td {
+        border: 1px solid #d7d7d7;
+        padding: 10px 12px;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    th {
+        background: #f3f3f3;
+    }
+
+    tr:nth-child(even) {
+        background: #fafafa;
+    }
+
+    figure {
+        margin: 3rem 0;
+        padding: 1.2rem;
+        border: 1px solid #dedede;
+        border-radius: 8px;
+        background: #fafafa;
+    }
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    figcaption {
+        margin-top: 1rem;
+        color: #555;
+        font-size: 0.92rem;
+        text-align: center;
+    }
+
+    code {
+        background: #f1f1f1;
+        padding: 2px 5px;
+        border-radius: 4px;
+    }
+
+    .metadata {
+        margin-bottom: 2.5rem;
+        padding: 1rem 1.25rem;
+        border-left: 4px solid #333;
+        background: #f6f6f6;
+    }
+
+    @media print {
+        body {
+            max-width: none;
+            padding: 20px;
+        }
+
+        figure {
+            break-inside: avoid;
+        }
+
+        table {
+            break-inside: avoid;
+        }
+    }
+</style>
+</head>
+
+<body>
+<div class="metadata">
+    <strong>Analyse explicative</strong><br>
+    340 candidats · 17 saisons · 320 sorties observées ·
+    20 gagnants censurés
+</div>
+
+<h1>Koh-Lanta — Analyse des risques concurrents</h1>
+<h2>Données</h2>
+<ul>
+<li>340 candidats</li>
+<li>17 saisons</li>
+<li>320 sorties observées</li>
+<li>20 gagnants ou co-gagnants censurés</li>
+</ul>
+<h2>Résultat principal : élimination au Conseil</h2>
+<p>Le modèle de Cox spécifique au Conseil est stratifié par saison. Les autres mécanismes de sortie sont censurés au moment où ils surviennent.</p>
+<table>
+<thead><tr><th>Variable</th><th>HR</th><th>IC95 %</th><th>p</th><th>Interprétation</th></tr></thead><tbody>
+<tr><td>Homme</td><td>0.73</td><td>[0.55 ; 0.97]</td><td>0.0279</td><td>Risque d’élimination au Conseil plus faible</td></tr>
+<tr><td>Profil physique</td><td>0.77</td><td>[0.50 ; 1.16]</td><td>0.2133</td><td>Association non démontrée</td></tr>
+<tr><td>35–44 ans</td><td>1.18</td><td>[0.82 ; 1.68]</td><td>0.3704</td><td>Comparaison avec les 25–34 ans</td></tr>
+<tr><td>45–54 ans</td><td>1.41</td><td>[0.85 ; 2.34]</td><td>0.1822</td><td>Comparaison avec les 25–34 ans</td></tr>
+<tr><td>55 ans et plus</td><td>1.32</td><td>[0.64 ; 2.70]</td><td>0.4535</td><td>Comparaison avec les 25–34 ans</td></tr>
+<tr><td>18–24 ans, phase 0–25 %</td><td>1.40</td><td>[0.73 ; 2.68]</td><td>0.3091</td><td>Pas de différence démontrée</td></tr>
+<tr><td>18–24 ans, phase 25–50 %</td><td>2.14</td><td>[1.17 ; 3.94]</td><td>0.0139</td><td>Environ deux fois plus de risque au Conseil</td></tr>
+<tr><td>18–24 ans, phase 50–75 %</td><td>1.23</td><td>[0.51 ; 2.95]</td><td>0.6411</td><td>Pas de différence démontrée</td></tr>
+<tr><td>18–24 ans, phase 75–100 %</td><td>2.09</td><td>[0.12 ; 35.69]</td><td>0.6107</td><td>Estimation très imprécise en fin de saison</td></tr>
+</tbody></table>
+<h3>Conclusion principale</h3>
+<ul>
+<li>Les hommes présentent environ 27 % moins de risque d’être éliminés au Conseil que les femmes.</li>
+<li>Le profil physique n’est pas associé de manière statistiquement démontrée aux éliminations au Conseil.</li>
+<li>Les 18–24 ans présentent surtout un sur-risque pendant le deuxième quart de la saison, avec un HR proche de 2,14.</li>
+</ul>
+<h2>Causes rares</h2>
+<p>Les modèles concernant les sorties médicales, les poteaux, les ambassadeurs, les abandons et le jury final comportent peu d’événements. Ils doivent être considérés comme exploratoires.</p>
+<h3>Résultats résistant à la correction FDR</h3>
+<table>
+<thead><tr><th>Cause</th><th>Variable</th><th>HR</th><th>IC95 %</th><th>FDR</th><th>Événements</th></tr></thead><tbody>
+<tr><td>JURY_FINAL_DECISION</td><td>age_18_24</td><td>2.81</td><td>[1.49 ; 5.31]</td><td>0.0350</td><td>3 dans le groupe exposé</td></tr>
+</tbody></table>
+<p>Le signal concernant les 18–24 ans et la défaite au jury final repose sur seulement trois événements dans cette tranche d’âge. Il est donc exploratoire.</p>
+<h3>Résultats non interprétables</h3>
+<p>Le résultat <code>VOLUNTARY × age_55_plus</code> est écarté, car aucun candidat de 55 ans ou plus n’a abandonné volontairement. Le hazard ratio produit dans ce cas est un artefact de groupe vide.</p>
+<h2>Limites</h2>
+<ul>
+<li>Les causes rares comportent entre 7 et 23 événements.</li>
+<li>Plusieurs résultats bruts significatifs disparaissent après correction des tests multiples.</li>
+<li>Les modèles sont explicatifs et ne constituent pas des modèles de prédiction individuelle.</li>
+<li>Les variables disponibles ne capturent pas les alliances, les performances détaillées aux épreuves, les avantages ou la structure exacte des tribus.</li>
+</ul>
+<h2>Conclusion générale</h2>
+<p>Le mécanisme le mieux documenté est l’élimination au Conseil. Le sexe et l’âge en début ou milieu d’aventure semblent davantage associés au risque stratégique que le score physique. Les résultats concernant les mécanismes plus rares doivent rester présentés comme des signaux exploratoires.</p>
+
+
+<section>
+    <h2>Visualisations principales</h2>
+
+    <figure>
+        <img
+            src="figures/forest_plot_vote_conseil.png"
+            alt="Forest plot du risque d’élimination au Conseil"
+        >
+        <figcaption>
+            Modèle de Cox spécifique aux éliminations au Conseil.
+            La catégorie d’âge de référence est 25–34 ans.
+        </figcaption>
+    </figure>
+
+    <figure>
+        <img
+            src="figures/age_18_24_effect_by_phase.png"
+            alt="Effet des 18–24 ans selon la progression"
+        >
+        <figcaption>
+            Effet temporel des 18–24 ans sur le risque
+            d’élimination au Conseil.
+        </figcaption>
+    </figure>
+
+    <figure>
+        <img
+            src="figures/departure_causes_distribution.png"
+            alt="Répartition globale des causes de sortie"
+        >
+        <figcaption>
+            Répartition des mécanismes de sortie parmi les
+            340 candidats étudiés.
+        </figcaption>
+    </figure>
+
+    <figure>
+        <img
+            src="figures/departure_causes_by_season.png"
+            alt="Répartition des causes par saison"
+        >
+        <figcaption>
+            Variations des mécanismes de sortie entre les
+            17 saisons analysées.
+        </figcaption>
+    </figure>
+</section>
+
+
+</body>
+</html>

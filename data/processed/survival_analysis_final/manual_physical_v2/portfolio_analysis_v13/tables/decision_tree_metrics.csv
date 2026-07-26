@@ -1,0 +1,2 @@
+﻿Cible,Accuracy entraînement,AUC entraînement,AUC CV moyenne,AUC CV écart-type,Profondeur,Nombre feuilles,Interprétation
+Atteindre l’orientation,0.5647058823529412,0.6073279436152571,0.5326090645901967,0.03744585272432973,3,6,Modèle exploratoire de portfolio. Il ne remplace pas les modèles ajustés.

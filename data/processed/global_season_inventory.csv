@@ -1,0 +1,18 @@
+season_id,season_name,candidate_count,winner_count,winner_names,finalist_names,departure_mechanism_coverage,indeterminate_departure_count,return_case_count,ready_for_all_cause_model,ready_for_descriptive_departure_statistics,audit_status
+KL01,KL KL01,16,1,Gilles Nicolet,Guénaëlle Biras,0.0667,14,0,True,INSUFFICIENT,PASS
+KL02,KL KL02,16,1,Amel Fatnassi,Nicolas Roy,0.0667,14,0,True,INSUFFICIENT,PASS
+KL03,Koh-Lanta : Bocas del Toro,18,2,Delphine Bano; Isabelle Seguin,,0.0,16,0,True,INSUFFICIENT,PASS
+KL07,KL KL07,16,2,Kévin Cuoco; Jade Handi,,0.0,14,0,True,INSUFFICIENT,PASS
+KL08,KL KL08,17,1,Christelle Gauzet,Frédéric Favier,0.0625,15,0,True,INSUFFICIENT,PASS
+KL13,Koh-Lanta : Raja Ampat,20,1,Gérard Urdampilleta,Teheiura Teahui,0.8947,2,0,True,READY_WITH_WARNING,PASS
+KL15,Koh-Lanta : Malaisie,20,1,Ugo [ N 7 ],Brice [ N 6 ],0.1579,16,0,True,INSUFFICIENT,PASS
+KL17,Koh-Lanta : Johor,20,1,Marc Rambaud,Chantel Ménard,0.9474,1,0,True,READY,PASS
+KL18,Koh-Lanta : Thaïlande,21,1,Wendy Gervois,Pascal Salviani,0.9,2,0,True,READY,PASS
+KL22,Koh-Lanta : La Guerre des Chefs,21,1,Maud,Cindy,0.15,17,0,True,INSUFFICIENT,PASS
+KL25,Koh-Lanta : Le Totem Maudit,24,2,Bastien San Pedro; François Descamp,Géraldine Nicolle,0.7727,5,1,True,READY_WITH_WARNING,PASS
+KL26,Koh-Lanta : Le Feu Sacré,20,1,Frédéric,Tania,0.2105,15,0,True,INSUFFICIENT,PASS
+KL27,Koh-Lanta : Les Chasseurs d'Immunité,23,1,Léa Sahin,Meïssa Seck,0.8636,3,0,True,READY_WITH_WARNING,PASS
+KL29,Koh-Lanta : La Revanche des 4 Terres,24,1,Gaëlle,Maël,0.1739,19,0,True,INSUFFICIENT,PASS
+KL31,Koh-Lanta : L'Île au trésor,20,1,Benoît Assadi,Jesta Hillmann,1.0,0,0,True,READY,PASS
+KL32,Koh-Lanta : Les 4 Terres,24,1,Alexandra,Brice,0.1304,20,0,True,INSUFFICIENT,PASS
+KL33,Koh-Lanta : Les Armes secrètes,21,1,Maxine,Lucie,0.1,18,1,True,INSUFFICIENT,PASS

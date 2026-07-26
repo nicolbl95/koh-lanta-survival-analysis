@@ -1,0 +1,16 @@
+|--- physical_profile_Profil physique <= 0.50
+|   |--- age_group_18–25 ans <= 0.50
+|   |   |--- sex_group_Femme <= 0.50
+|   |   |   |--- class: 1
+|   |   |--- sex_group_Femme >  0.50
+|   |   |   |--- class: 0
+|   |--- age_group_18–25 ans >  0.50
+|   |   |--- sex_group_Femme <= 0.50
+|   |   |   |--- class: 0
+|   |   |--- sex_group_Femme >  0.50
+|   |   |   |--- class: 0
+|--- physical_profile_Profil physique >  0.50
+|   |--- age_group_26–33 ans <= 0.50
+|   |   |--- class: 1
+|   |--- age_group_26–33 ans >  0.50
+|   |   |--- class: 1

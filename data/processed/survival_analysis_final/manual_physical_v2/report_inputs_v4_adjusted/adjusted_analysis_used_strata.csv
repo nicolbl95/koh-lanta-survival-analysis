@@ -1,0 +1,53 @@
+﻿analysis,season_id,sex_group,n,physical_n,events
+Victoire,KL07,Femme,8,1,1
+Victoire,KL07,Homme,8,5,1
+Victoire,KL08,Femme,8,1,1
+Victoire,KL13,Homme,10,4,1
+Victoire,KL15,Homme,10,4,1
+Victoire,KL22,Femme,10,1,1
+Victoire,KL25,Homme,12,6,2
+Victoire,KL26,Homme,10,6,1
+Victoire,KL27,Femme,11,1,1
+Victoire,KL29,Femme,12,3,1
+Victoire,KL31,Homme,10,4,1
+Victoire,KL32,Femme,12,2,1
+Victoire,KL33,Femme,11,2,1
+Phase finale atteinte,KL03,Homme,8,2,2
+Phase finale atteinte,KL07,Femme,8,1,2
+Phase finale atteinte,KL07,Homme,8,5,2
+Phase finale atteinte,KL08,Femme,8,1,2
+Phase finale atteinte,KL08,Homme,9,4,2
+Phase finale atteinte,KL13,Homme,10,4,3
+Phase finale atteinte,KL15,Femme,10,3,1
+Phase finale atteinte,KL15,Homme,10,4,4
+Phase finale atteinte,KL17,Femme,10,1,2
+Phase finale atteinte,KL18,Homme,10,3,2
+Phase finale atteinte,KL22,Femme,10,1,3
+Phase finale atteinte,KL22,Homme,11,2,2
+Phase finale atteinte,KL25,Femme,12,2,2
+Phase finale atteinte,KL25,Homme,12,6,3
+Phase finale atteinte,KL26,Femme,10,2,2
+Phase finale atteinte,KL26,Homme,10,6,2
+Phase finale atteinte,KL27,Femme,11,1,3
+Phase finale atteinte,KL27,Homme,11,6,2
+Phase finale atteinte,KL29,Femme,12,3,2
+Phase finale atteinte,KL29,Homme,12,3,3
+Phase finale atteinte,KL31,Homme,10,4,3
+Phase finale atteinte,KL32,Femme,12,2,2
+Phase finale atteinte,KL32,Homme,12,4,3
+Phase finale atteinte,KL33,Femme,11,2,3
+Phase finale atteinte,KL33,Homme,10,3,2
+Élimination à l’orientation,KL03,Homme,2,1,1
+Élimination à l’orientation,KL08,Femme,2,1,1
+Élimination à l’orientation,KL15,Homme,4,3,2
+Élimination à l’orientation,KL29,Femme,2,1,1
+Élimination à l’orientation,KL31,Homme,3,2,1
+Élimination à l’orientation,KL32,Homme,3,2,1
+Élimination à l’orientation,KL33,Femme,3,2,1
+Élimination aux poteaux,KL07,Femme,2,1,1
+Élimination aux poteaux,KL08,Homme,2,1,1
+Élimination aux poteaux,KL13,Homme,3,2,1
+Élimination aux poteaux,KL17,Femme,2,1,1
+Élimination aux poteaux,KL25,Homme,3,1,1
+Élimination aux poteaux,KL32,Homme,2,1,1
+Défaite au jury final,KL13,Homme,2,1,1

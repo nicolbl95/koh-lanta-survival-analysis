@@ -1,0 +1,86 @@
+season_name,candidate_name,final_exit_order,departure_description_raw,departure_type_normalized,departure_model_category,all_cause_exit_event,censored_at_end,returned_after_medical_replacement,needs_departure_enrichment,audit_status,audit_warning
+Koh-Lanta : Viêtnam,Frédérique Brugiroux,1,1st Voted Out Day 3,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Vivien Escouflaire,2,2nd Voted Out Day 6,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Virginie Mercadal Pioli Returned to Game,3,3rd Voted Out Day 9,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Alain Merdel,4,Medically evacuated Day 10,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Virginie Mercadal Pioli,5,4th Voted Out Day 12,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Marine Plissonneau Returned to Game,6,5th Voted Out Day 15,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Viêtnam,Jennifer Lieutaud,7,Left Competition Day 15,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE; Exit order ambiguity
+Koh-Lanta : Viêtnam,Jean-Pierre Pigato,8,6th Voted Out Day 17,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Audrey Perez,9,7th Voted Out Day 20,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Boris Deltell,10,8th Voted Out Day 22,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Aurélie Gasser Returned to Game,11,9th Voted Out Day 24,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Viêtnam,Valentin D'Hoore,12,Medically evacuated Day 24,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Viêtnam,Abdellah Akriche,13,10th Voted Out 1st jury member Day 26,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Marine Plissonneau,14,11th Voted Out 2nd jury member Day 29,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Aurélie Gasser,15,12th Voted Out 3rd jury member Day 32,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Laurence Pizzocchia,16,13th Voted Out 4th jury member Day 35,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Kunlé M'Babacéré Pakorona,17,14th Voted Out 5th jury member Day 38,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Véronique Prouteau Bègue,18,Lost Challenge 6th jury member Day 39,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS,
+Koh-Lanta : Viêtnam,Wafa El Mejjad,19,15th Voted Out 7th jury member Day 40,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Viêtnam,Claude Dartois,20,Runner-up Day 40,FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Viêtnam,Philippe Duron,21,Sole Survivor Day 40,VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Raja Ampat,Lisa Legouverneur,1,1st Voted Out Day 3,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Catherine Diard,2,2nd Voted Out Day 6,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Steve Lemercier,3,Left Competition Day 8,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Raja Ampat,"Gérard ""Gégé"" Icardi",4,3rd Voted Out Day 9,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,"Nawal ""Naouel"" Hadjaf",5,Left Competition Day 10,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Raja Ampat,Benoît Mahieux,6,4th Voted Out Day 12,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Délisia Fettache,7,5th Voted Out Day 15,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Caroline Matteucci,8,6th Voted Out Day 18,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Maxime Boulet,9,7th Voted Out Day 20,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Anthony Amar,10,8th Voted Out 1st jury member Day 21,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Olivier Moenaert,11,9th Voted Out 2nd jury member Day 24,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Florence Delbarre Reuter,12,10th Voted Out 3rd jury member Day 27,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Martin Bazin Returned to Game,13,11th Voted Out Day 30,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Virginie Jarry,14,Medically evacuated 4th jury member Day 33,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Raja Ampat,Patricia Morel,15,12th Voted Out 5th jury member Day 33,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Raja Ampat,Alexandra Pouillon,16,13th Voted Out 6th jury member Day 36,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Martin Bazin,17,14th Voted Out 7th jury member Day 39,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Ella Gbezan,18,Lost Challenge 8th jury member Day 40,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS,
+Koh-Lanta : Raja Ampat,Laurent Maistret,19,15th Voted Out 9th jury member Day 41,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Raja Ampat,Teheiura Teahui,20,Runner-up Day 41,FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Raja Ampat,Gérard Urdampilleta,21,Sole Survivor Day 41,VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Malaisie,Mélanie,1,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Mickaël,2,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Sara [ N 1 ],3,Abandon médical,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Malaisie,Nadine,4,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Élodie,5,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Marie [ N 2 ],6,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Anthony,7,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Javier [ N 3 ],8,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Namadia [ N 4 ],9,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Marylou,10,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Catherine,11,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Camille,12,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Charles,13,Abandon médical,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Malaisie,Thierry,14,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Myriam,15,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Bernard,16,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Philippe [ N 5 ],17,Éliminé,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Vanessa,18,Éliminée,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE
+Koh-Lanta : Malaisie,Brice [ N 6 ],19,Finaliste,FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Malaisie,Ugo [ N 7 ],20,Gagnant,VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS,
+Koh-Lanta : Johor,Babeth Delettre,1,1st Voted Out Day 3,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Marie-Anne Queniart,2,2nd Voted Out Day 6,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Benoît Jorion-Fahy,3,3rd Voted Out Day 9,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Manon Allender,4,Left Competition Day 12,INDETERMINE,AUTRE_SORTIE,1,False,False,True,PASS_WITH_WARNING,INDETERMINE; Exit order ambiguity
+Koh-Lanta : Johor,Isabelle Haouzi Returned to Game,5,4th Voted Out Day 12,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Johor,Loïc Crespin,6,Medically evacuated Day 13,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Johor,Isabelle Haouzi,7,5th Voted Out Day 15,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Christophe Pendon Returned to Game,8,6th Voted Out Day 17,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Margot Perrot Houwaer,9,Medically evacuated Day 19,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Johor,Alban Pellegrin,10,7th Voted Out 1st jury member Day 19,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Johor,Jeff Santiago Returned to Game,11,8th Voted Out Day 20,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Corinne Bargoin Samuelian,12,Medically evacuated 2nd jury member Day 21,ABANDON_MEDICAL,AUTRE_SORTIE,1,False,False,False,PASS,
+Koh-Lanta : Johor,Cédric Giosserand-Lucas,13,9th Voted Out 3rd jury member Day 23,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Charlaine Cuny,14,10th Voted Out 4th jury member Day 26,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Johor,Nessim Kouachi,15,11th Voted Out 5th jury member Day 26,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Johor,Jeff Santiago,16,12th Voted Out 6th jury member Day 29,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Christophe Pendon,17,13th Voted Out 7th jury member Day 32,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Jessica Potel,18,14th Voted Out 8th jury member Day 34,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Sébastien Ballesteros,19,15th Voted Out 9th jury member Day 37,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Bruno Peisey,20,Lost Challenge 10th jury member Day 38,EPREUVE_ELIMINATOIRE,EPREUVE,1,False,False,False,PASS,
+Koh-Lanta : Johor,Mélissa Bastin,21,15th Voted Out 11th jury member Day 39,CONSEIL,DECISION_AVENTURIERS,1,False,False,False,PASS,
+Koh-Lanta : Johor,Chantel Ménard,22,Runner-up Day 40,FINALISTE,AUTRE_SORTIE,1,False,False,False,PASS_WITH_WARNING,Exit order ambiguity
+Koh-Lanta : Johor,Marc Rambaud,23,Sole Survivor Day 40,VAINQUEUR,AUTRE_SORTIE,0,True,False,False,PASS_WITH_WARNING,Exit order ambiguity

@@ -1,0 +1,4 @@
+﻿variable,cramers_v,number_of_options,number_of_causes,strength
+Sexe,0.20143156388910405,2,9,MODÉRÉE
+Profil physique,0.14696524893323865,2,9,FAIBLE
+Âge,0.1562766628298351,4,9,FAIBLE

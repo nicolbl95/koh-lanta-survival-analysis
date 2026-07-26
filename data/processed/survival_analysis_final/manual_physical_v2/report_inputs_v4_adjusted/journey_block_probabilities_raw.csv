@@ -1,0 +1,49 @@
+﻿variable,option,block,count,group_total,probability
+Sexe,Femme,1–3,40,171,0.23391812865497075
+Sexe,Femme,4–6,27,171,0.15789473684210525
+Sexe,Femme,7–9,21,171,0.12280701754385964
+Sexe,Femme,10–12,31,171,0.18128654970760233
+Sexe,Femme,13–15,20,171,0.11695906432748537
+Sexe,Femme,Phase finale atteinte,32,171,0.1871345029239766
+Sexe,Homme,1–3,22,169,0.1301775147928994
+Sexe,Homme,4–6,26,169,0.15384615384615385
+Sexe,Homme,7–9,33,169,0.1952662721893491
+Sexe,Homme,10–12,22,169,0.1301775147928994
+Sexe,Homme,13–15,26,169,0.15384615384615385
+Sexe,Homme,Phase finale atteinte,40,169,0.23668639053254437
+Profil physique,Profil non physique,1–3,59,265,0.22264150943396227
+Profil physique,Profil non physique,4–6,41,265,0.15471698113207547
+Profil physique,Profil non physique,7–9,42,265,0.15849056603773584
+Profil physique,Profil non physique,10–12,40,265,0.1509433962264151
+Profil physique,Profil non physique,13–15,35,265,0.1320754716981132
+Profil physique,Profil non physique,Phase finale atteinte,48,265,0.1811320754716981
+Profil physique,Profil physique,1–3,3,75,0.04
+Profil physique,Profil physique,4–6,12,75,0.16
+Profil physique,Profil physique,7–9,12,75,0.16
+Profil physique,Profil physique,10–12,13,75,0.17333333333333334
+Profil physique,Profil physique,13–15,11,75,0.14666666666666667
+Profil physique,Profil physique,Phase finale atteinte,24,75,0.32
+Âge,18–25 ans,1–3,17,80,0.2125
+Âge,18–25 ans,4–6,20,80,0.25
+Âge,18–25 ans,7–9,15,80,0.1875
+Âge,18–25 ans,10–12,10,80,0.125
+Âge,18–25 ans,13–15,7,80,0.0875
+Âge,18–25 ans,Phase finale atteinte,11,80,0.1375
+Âge,26–33 ans,1–3,9,102,0.08823529411764706
+Âge,26–33 ans,4–6,9,102,0.08823529411764706
+Âge,26–33 ans,7–9,17,102,0.16666666666666666
+Âge,26–33 ans,10–12,20,102,0.19607843137254902
+Âge,26–33 ans,13–15,21,102,0.20588235294117646
+Âge,26–33 ans,Phase finale atteinte,26,102,0.2549019607843137
+Âge,34–41 ans,1–3,17,92,0.18478260869565216
+Âge,34–41 ans,4–6,10,92,0.10869565217391304
+Âge,34–41 ans,7–9,14,92,0.15217391304347827
+Âge,34–41 ans,10–12,20,92,0.21739130434782608
+Âge,34–41 ans,13–15,12,92,0.13043478260869565
+Âge,34–41 ans,Phase finale atteinte,19,92,0.20652173913043478
+Âge,42 ans et plus,1–3,19,66,0.2878787878787879
+Âge,42 ans et plus,4–6,14,66,0.21212121212121213
+Âge,42 ans et plus,7–9,8,66,0.12121212121212122
+Âge,42 ans et plus,10–12,3,66,0.045454545454545456
+Âge,42 ans et plus,13–15,6,66,0.09090909090909091
+Âge,42 ans et plus,Phase finale atteinte,16,66,0.24242424242424243

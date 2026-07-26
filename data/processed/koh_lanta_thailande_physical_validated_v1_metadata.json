@@ -1,0 +1,20 @@
+{
+  "version": "physical_validated_v1",
+  "physical_definition": "MUSCULAR_ATHLETIC_BINARY_V2",
+  "candidate_count": 21,
+  "physical_score_1_count": 14,
+  "physical_score_0_count": 9,
+  "physical_score_null_count": -2,
+  "manual_user_classification_count": 1,
+  "manual_user_classification_candidates": [
+    "Romain Palazzetti"
+  ],
+  "physical_freeze_ready": true,
+  "sha256": "556677d12f6690bbd744b061e7e50fd086e732354b17048269c1b743c5088520",
+  "generated_at": "2026-07-20T15:37:01.969314+00:00",
+  "predictors": [
+    "age",
+    "gender_normalized",
+    "physical_score"
+  ]
+}

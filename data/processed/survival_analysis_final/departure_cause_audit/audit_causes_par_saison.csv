@@ -1,0 +1,18 @@
+﻿season_id,season_name,AMBASSADEURS,CENSORED_WINNER,DESTINS_LIES,ELIMINATION_CHALLENGE,FINALE_ORIENTATION,FINALE_POTEAUX,JURY_FINAL_DECISION,MEDICAL,VOLUNTARY,VOTE_CONSEIL,DISCIPLINARY_EXPULSION,OTHER,TOTAL_CANDIDATS,TOTAL_FINALISTES_JURY,FINALE_CLASSIQUE_OK,POTEAUX_PRESENT_DANS_CAUSES,AMBASSADEURS_PRESENT_DANS_CAUSES
+KL01,KL KL01,0,1,0,2,0,0,1,0,0,12,0,0,16,2,True,False,False
+KL02,KL KL02,0,1,0,1,0,1,1,1,0,11,0,0,16,2,True,True,False
+KL03,Koh-Lanta : Bocas del Toro,0,2,0,0,1,1,0,4,1,9,0,0,18,2,True,True,False
+KL07,KL KL07,0,2,0,0,1,1,0,0,2,10,0,0,16,2,True,True,False
+KL08,KL KL08,0,1,0,0,1,1,1,2,1,10,0,0,17,2,True,True,False
+KL13,Koh-Lanta : Raja Ampat,0,1,0,1,0,0,1,1,2,14,0,0,20,2,True,False,False
+KL15,Koh-Lanta : Malaisie,1,1,1,0,2,1,1,2,0,11,0,0,20,2,True,True,True
+KL17,Koh-Lanta : Johor,0,1,0,1,0,0,1,3,1,13,0,0,20,2,True,False,False
+KL18,Koh-Lanta : Thaïlande,0,1,0,2,0,0,1,0,2,15,0,0,21,2,True,False,False
+KL22,Koh-Lanta : La Guerre des Chefs,1,1,1,1,2,1,1,2,0,11,0,0,21,2,True,True,True
+KL25,Koh-Lanta : Le Totem Maudit,0,2,1,2,1,0,1,1,1,15,0,0,24,3,False,False,False
+KL26,Koh-Lanta : Le Feu Sacré,1,1,1,1,1,1,1,1,2,10,0,0,20,2,True,True,True
+KL27,Koh-Lanta : Les Chasseurs d'Immunité,1,1,1,4,0,0,1,1,0,13,0,0,22,2,True,False,True
+KL29,Koh-Lanta : La Revanche des 4 Terres,1,1,0,1,2,1,1,2,1,14,0,0,24,2,True,True,True
+KL31,Koh-Lanta : L'Île au trésor,0,1,0,4,0,0,1,0,0,14,0,0,20,2,True,False,False
+KL32,Koh-Lanta : Les 4 Terres,0,1,1,2,2,1,1,2,0,14,0,0,24,2,True,True,False
+KL33,Koh-Lanta : Les Armes secrètes,1,1,1,2,2,1,1,1,0,11,0,0,21,2,True,True,True
