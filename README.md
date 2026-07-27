@@ -1,5 +1,29 @@
 # Analyse de survie dans Koh-Lanta
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
+</p>
+
+<p align="center">
+  <strong>Python · pandas · NumPy · Matplotlib · statsmodels · pytest · LLM · Git · GitHub · HTML</strong>
+</p>
+
 Projet de portfolio en **LLM Engineering, Data Engineering et Data Science** consacré à l’analyse de la progression de **340 candidats issus de 17 saisons de Koh-Lanta**.
 
 Le projet combine :
@@ -158,7 +182,6 @@ Modélisation statistique
 Rapports HTML en français et en anglais
 ```
 
-
 ---
 
 ## Contrôle qualité
@@ -175,48 +198,6 @@ Le projet comprend plusieurs contrôles destinés à vérifier la cohérence des
 - journalisation des corrections manuelles.
 
 Ces vérifications permettent de limiter les erreurs introduites lors du scraping, de la normalisation ou de l’enrichissement assisté par LLM.
-
----
-
-## Modélisation statistique
-
-L’analyse utilise notamment :
-
-- des probabilités brutes ;
-- des probabilités ajustées ;
-- des régressions logistiques ;
-- des modèles de survie ;
-- des probabilités conditionnelles d’élimination par phase ;
-- un contrôle des facteurs confondants ;
-- des p-values ;
-- une interprétation explicite de l’incertitude statistique.
-
-Les modèles ajustés contrôlent principalement :
-
-- l’âge ;
-- le sexe ;
-- le profil physique ;
-- la saison.
-
-L’objectif est de distinguer les écarts directement observés des différences qui persistent après prise en compte des autres variables.
-
----
-
-## Types de sortie étudiés
-
-Le dataset distingue plusieurs mécanismes de sortie :
-
-- Conseil ;
-- blessure ou sortie médicale ;
-- épreuve éliminatoire ;
-- abandon volontaire ;
-- ambassadeurs ;
-- orientation ;
-- poteaux ;
-- défaite au jury final ;
-- victoire ou co-victoire.
-
-Cette distinction permet d’étudier non seulement le moment de la sortie, mais aussi son mécanisme.
 
 ---
 
@@ -275,27 +256,6 @@ Les rapports distinguent donc clairement :
 
 ---
 
-## Installation
-
-Créer un environnement virtuel :
-
-    python -m venv .venv
-
-Sous Windows :
-
-    .venv\Scripts\activate
-
-Installer les dépendances :
-
-    python -m pip install -r requirements.txt
-
----
-
-## Lancer les tests
-
-    pytest
-
----
 
 ## Technologies utilisées
 
