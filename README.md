@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <strong>Python · pandas · NumPy · Matplotlib · statsmodels · pytest · LLM · Git · GitHub · HTML</strong>
+  <strong>Python · pandas · NumPy · Matplotlib · statsmodels · pytest · LLM</strong>
 </p>
 
 Projet de portfolio en **LLM Engineering, Data Engineering et Data Science** consacré à l’analyse de la progression de **340 candidats issus de 17 saisons de Koh-Lanta**.
@@ -176,78 +176,6 @@ Modélisation statistique
     ↓
 Rapports HTML en français et en anglais
 ```
-
----
-
-## Contrôle qualité
-
-Le projet comprend plusieurs contrôles destinés à vérifier la cohérence des données avant la modélisation :
-
-- unicité des clés candidat-saison ;
-- détection des valeurs manquantes ;
-- cohérence des causes de sortie ;
-- vérification de l’ordre des événements ;
-- gestion des retours dans le jeu ;
-- identification correcte des vainqueurs et co-vainqueurs ;
-- contrôle du nombre de candidats par saison ;
-- journalisation des corrections manuelles.
-
-Ces vérifications permettent de limiter les erreurs introduites lors du scraping, de la normalisation ou de l’enrichissement assisté par LLM.
-
----
-
-## Principaux résultats
-
-### Profil physique
-
-Les candidats classés comme physiques présentent généralement :
-
-- une probabilité d’élimination plus faible au début de l’aventure ;
-- une meilleure progression dans plusieurs phases ;
-- une probabilité ajustée de victoire plus élevée.
-
-Cette variable reste toutefois partiellement subjective et doit être interprétée avec davantage de prudence que l’âge ou le sexe.
-
-### Âge
-
-Les tranches intermédiaires, particulièrement les 26–33 ans et les 34–41 ans, obtiennent globalement de meilleurs résultats que les 18–25 ans et les 42 ans et plus.
-
-L’effet de l’âge varie selon la phase :
-
-- les plus jeunes et les plus âgés sont davantage exposés au début ;
-- les groupes intermédiaires deviennent plus vulnérables pendant certaines phases individuelles ;
-- les résultats des étapes finales diffèrent fortement selon la tranche d’âge.
-
-### Sexe
-
-Les différences selon le sexe sont moins régulières.
-
-Les femmes paraissent légèrement plus exposées pendant certaines phases initiales, tandis que les hommes présentent une probabilité d’élimination plus élevée pendant certaines phases ultérieures.
-
-Dans l’échantillon étudié, les femmes obtiennent également de meilleurs résultats aux poteaux.
-
----
-
-## Prudence statistique
-
-Les résultats doivent être considérés comme exploratoires.
-
-Principales limites :
-
-- seulement 17 saisons sont analysées ;
-- plusieurs écarts observés ne sont pas statistiquement significatifs ;
-- les étapes finales concernent peu de candidats ;
-- les alliances ne sont pas directement mesurées ;
-- les performances individuelles aux épreuves ne sont pas entièrement disponibles ;
-- les motivations des votes du jury ne sont pas observées ;
-- une association ajustée ne démontre pas une causalité.
-
-Les rapports distinguent donc clairement :
-
-- les observations directes ;
-- les estimations ajustées ;
-- les hypothèses explicatives ;
-- les conclusions réellement soutenues par les données.
 
 ---
 
