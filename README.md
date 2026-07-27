@@ -1,6 +1,11 @@
 # Analyse de survie dans Koh-Lanta
 
 <p align="center">
+  <img src="Images/koh_lanta_cover.webp" alt="Épreuve des poteaux de Koh-Lanta" width="900">
+</p>
+
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
@@ -17,10 +22,6 @@
 
 <p align="center">
   <strong>Python · pandas · NumPy · Matplotlib · statsmodels · pytest · LLM</strong>
-</p>
-
-<p align="center">
-  <img src="Images/koh_lanta_cover.webp" alt="Épreuve des poteaux de Koh-Lanta" width="900">
 </p>
 
 
