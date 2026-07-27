@@ -19,6 +19,11 @@
   <strong>Python · pandas · NumPy · Matplotlib · statsmodels · pytest · LLM</strong>
 </p>
 
+<p align="center">
+  <img src="Images/koh_lanta_cover.webp" alt="Épreuve des poteaux de Koh-Lanta" width="900">
+</p>
+
+
 Projet de portfolio en **LLM Engineering, Data Engineering et Data Science** consacré à l’analyse de la progression de **340 candidats issus de 17 saisons de Koh-Lanta**.
 
 Le projet combine :
