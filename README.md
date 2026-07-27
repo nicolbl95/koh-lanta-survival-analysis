@@ -4,7 +4,6 @@
   <img src="Images/koh_lanta_cover.webp" alt="Épreuve des poteaux de Koh-Lanta" width="900">
 </p>
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   &nbsp;
@@ -18,12 +17,12 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" width="48" height="48"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
 </p>
 
 <p align="center">
-  <strong>Python · pandas · NumPy · Matplotlib · statsmodels · pytest · LLM</strong>
+  <strong>Python · pandas · NumPy · Matplotlib · statsmodels · pytest · LLM · HTML5</strong>
 </p>
-
 
 Projet de portfolio en **LLM Engineering, Data Engineering et Data Science** consacré à l’analyse de la progression de **340 candidats issus de 17 saisons de Koh-Lanta**.
 
